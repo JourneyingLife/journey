@@ -66,11 +66,11 @@ Next morning a crew began their descent towards Journey. It had mix of biologist
 
 ![Ancient golden structures emerging from the ocean floor, including a generator-like formation called Linga rock glowing in the darkness](https://via.placeholder.com/800x400/f39c12/2c3e50?text=Linga+Rock+%7C+Ancient+Generator)
 
-Diving below 3rd mile they got the first sight of Linga rock.
+Diving below third mile they got the first sight of Linga rock.
 
-Their pilot Tory peered through binoculars and read the fine prints, "Change of magnetic flux passing through closed circuits produce electricity". The central beam and circling disks neatly seeded the formation of a generator.
+Their pilot Tory peered through binoculars and read the fine prints, "Change of magnetic flux passing through closed circuits produces electricity". The central beam and circling disks neatly seeded the formation of a generator.
 
-As they moved closer, the floor glimmered bright despite the depth. The Gods carved the structures in gold to withstand erosion for thousands of millennia.
+As they moved closer, the floor glimmered bright despite the depth. The Gods had carved the structures in gold to withstand erosion for thousands of millennia.
 
 ![A magnificent golden ship sculpture surrounded by DNA helix structures and various life forms carved in detail](https://via.placeholder.com/800x400/8e44ad/ecf0f1?text=The+Species+Ship+Sculpture)
 
@@ -109,11 +109,11 @@ The dying turtle Daisy brought up all her might to explain the coding in The Dan
 
 Many eras earlier the Gods debated how universe could have come into existence. They assessed the repeating pattern of cosmos where solar planetary orbits mirrored subatomic orbits.
 
-Mars Gods pursued to fathom how larger celestial objects pulled smaller ones towards them without any tether. They argued gravity could only occur due to a net higher push from the collision of free moving masses on the far side of their walls. It was still intriguing what those masses made of. While light alone travelled at an astonishing three hundred million meters a second, all cosmic bodies appeared to be just dawdling.
+Mars Gods pursued to fathom how larger celestial objects pulled smaller ones towards them without any tether. They argued gravity could only occur due to a net higher push from the collision of free moving masses on their far side walls. It was still intriguing what those masses made of. While light alone travelled at an astonishing three hundred million meters a second, all cosmic bodies appeared to be just dawdling.
 
 ![Visualization of ripples in spacetime creating black holes and wormholes, with interconnected cosmic geometries](https://via.placeholder.com/800x400/e74c3c/ecf0f1?text=Black+Holes+and+Wormholes)
 
-They concluded that the shapes and their motions are just perception of living creatures. The universe seemed to be merely a repeating pattern of microcosm as depicted in The Dancing Deity, while the ripples alone travelled in all directions creating a view of shapes and motion in higher dimensions. That could explain the existence of blackholes and wormholes. While blackholes occurred at the collapsing points of the ripples, the wormholes formed at the path the ripples travel through inside the black holes and got reproduced in another dimension in yet another cosmic geographic.
+They concluded that the shapes and movements are just impressions perceived by living creatures. The universe seemed to be merely a repeating pattern of microcosm as depicted in The Dancing Deity, while the ripples alone travelled in all directions creating a view of shapes and movements in higher dimensions. That could explain the existence of blackholes and wormholes as well. While blackholes occurred at the collapsing points of the ripples, the wormholes formed at the path the ripples travel through inside the black holes and got reproduced in another dimension in yet another cosmic geographic.
 
 The question how the universe was born seemed less astonishing than the existence of a silent dark universe which would be an extreme special case.
 
@@ -190,20 +190,20 @@ Fights broke out. The tribe needed arms and Wee's caliber came handy. He decided
 
 Nova was devasted knowing her scheme would end up as a weapon in the hands of last life. Despite her minimal machine rapidly evolving in 67 due to the presence of rich radioactive minerals, the bionic evolution would start long after the machines went dormant. It needed a trigger to wake itself up when the organic species advanced. The only way to do so was to entice the tribes to get entangled with it as part of their natural acts such as hunting and the fight for copulation and survival.
 
-Mary, the lead anthropologist motivated her to proceed anyway as their macro goal was all that mattered. We have no choice but to follow the script from Jupiter 2.
+Mary, the lead anthropologist motivated her to proceed anyway as their macro goal was all that mattered. We have no choice but to follow the script from Jupiter-2.
 
 ![Asteroids floating in space representing the remains of Jupiter 2's desperate attempt to survive](https://via.placeholder.com/800x400/95a5a6/2c3e50?text=The+Jupiter+2+Legacy)
 
-Planet Jupitor 2 housed life after Mars, but had a very brief survival. The tribe had no sophisticated spaceships to port into other habitats. Void of strong-walled nuclear reactors they had to perform an exo-fusion to trigger the chain reaction and take the life rock to somewhere in the infinite cosmos. They left behind the asteroids which haunted the later habitats of solar system. None had a clue where the travellers ended up.
+Planet Jupitor-2 housed life after Jupitar-1, but had a very brief survival. The tribe had no sophisticated spaceships to port into other habitats. Void of strong-walled nuclear reactors they had to perform an exo-fusion to trigger the chain reaction and take the life rock to somewhere in the infinite cosmos. They left behind the asteroids which haunted the later habitats of solar system. None had a clue where the travellers ended up.
 
 ---
 
 ## EPILOGUE: THE RETURN TICKET
 ### *A Journey Home*
 
-![Diagram showing the path from planet 67 through wormhole W31 and black hole B31 leading to Venus 3 in the future](https://via.placeholder.com/800x400/3498db/ecf0f1?text=The+Cosmic+Route+Home)
+![Diagram showing the path from planet 67 through wormhole W31 and black hole B31 leading to Venus-3 in the future](https://via.placeholder.com/800x400/3498db/ecf0f1?text=The+Cosmic+Route+Home)
 
-Krish suggested the tribe in 67 board the W31's twin blackhole B31 to travel back to their own constellation where Venus 3 would be ready to habitat them in future.
+Krish suggested the tribe in 67 board the W31's twin blackhole B31 to travel back to their own constellation where Venus-3 would be ready to habitat them in future.
 
 ![Underground exo-fusion engine beginning to activate, glowing with immense energy beneath Wee's tribe](https://via.placeholder.com/800x400/f39c12/2c3e50?text=The+Exo-Fusion+Engine+Awakens)
 
