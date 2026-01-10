@@ -6,17 +6,17 @@
 ## PROLOGUE: THE LAST PLANET
 ### *Era 5: Year 25357: Day 78*
 
-![The last planet approaching Phoenix Cluster](Pictures/PV67.png)
+![The last planet approaching Phoenix Cluster](Pictures/PL67.png)
 
 Wee sensed the approaching apocalypse in his bones. The sky flickered constantly, hurling fireballs toward a horizon where something vast devoured everything that ventured near. His tribe, the most advanced species on their planet, still ignored these omens.
 
-At sixteen, Wee disappointed his mother. His cousins struck at prey at first sight, but Wee needed to understand *why* first. This hesitation branded him weak among his peers—except for a handful who recognized his true gift: crafting weapons that could fell any beast.
+At sixteen, Wee disappointed his mother. While his cousins struck at prey at first sight, Wee had to clear a why before swinging his flint. This hesitation branded him a loser among his peers, except for a handful who recognized his true gift in crafting weapons that could fell any beast.
 
 ![Wee examining the mysterious object](Pictures/Wee.png)
 
 Even for Wee, the mysterious object near their hammock defied comprehension. Its symmetry surpassed anything in nature, yet its purpose remained inscrutable.
 
-Wee would never know: while traditional Gods passed wisdom forward through time, he was venerated backward. All previous civilizations had gazed toward him across the ages, hoping he could preserve the final spark of life as their world plummeted toward Phoenix Cluster, the largest black hole in Era 5 : Year 25357 : Day 78, five billion years beyond Earth 2024.
+Wee would never know that while traditional Gods passed wisdom forward through time, he was venerated backward by all previous civilizations, who hoped he could preserve the final spark of life as their world plummeted toward Phoenix Cluster.
 
 ---
 
@@ -28,6 +28,8 @@ Wee would never know: while traditional Gods passed wisdom forward through time,
 Venus-2's core committee gathered in the virtual gallery, their camaraderie evident despite the weight of their agenda. These stewards of civilization had long ago transcended petty power struggles, serving their people with quiet dignity.
 
 The Dolphins currently held governance while the Octopuses enjoyed their well-earned Rulers' Holiday—a cherished tradition where leadership alternated peacefully, allowing former administrators to rest and reflect before the cycle renewed. This wasn't about winning elections or clinging to authority; it was simply how responsible societies honored those who carried civilization's burden.
+
+Their ancestors had learned from Earth's archives how this collaboration became possible. Early marine species lacked the potassium-based neural networks that enabled XOR logic gates, the foundation of complex reasoning in primates. Earth scientists discovered how potassium channel thresholds could be calibrated to enable anticoincidence detection and XOR operations even in non-primate neurons. By identifying and enhancing the empathy pathways in dolphins and octopuses, they bridged the gap. The result was species that thought differently yet complemented each other perfectly. Where dolphins excelled at long-term strategic vision, octopuses mastered immediate problem-solving. Together, they built what neither could alone.
 
 Chieftain Krish's voice carried both warmth and concern. "Dear friends, our world is slowing down."
 
@@ -41,7 +43,7 @@ Octopus chief Lee, speaking from his holiday retreat via teleview, offered his w
 
 Endgame—a solemn word meaning only a select few aboard would survive the journey, and even they would arrive as fossilized relics.
 
-Krish nodded thoughtfully. "Thank you, Lee. But here's our challenge: unlike previous migrations, 67 sits perilously close to Phoenix. Even if we successfully seed life there, evolution won't have time to mature before the world crosses the event horizon."
+Krish nodded thoughtfully. "Thank you, Lee. But here's our challenge. Unlike previous migrations, 67 sits perilously close to Phoenix. Even if we successfully seed life there, evolution won't have time to mature before the world crosses the event horizon."
 
 "Our entire archive offers no solution for preserving life beyond 67."
 
@@ -301,6 +303,24 @@ The images in this novel are placeholder demonstrations using via.placeholder.co
 - **Chapter 4**: Technical diagrams merged with organic patterns
 - **Chapter 6**: Emotional character-focused art
 - **Epilogue**: Epic space opera cinematography
+
+---
+
+## REFERENCES
+
+### Scientific Studies Referenced
+
+**Neural Logic Gates and Potassium Channels:**
+
+1. Zhorov, B.S., & Tikhonov, D.B. (2004). "Potassium, sodium, calcium and glutamate‐gated channels: pore architecture and ligand action." *Journal of Neurochemistry*, 88(4), 782-799.
+
+2. Radak, J. (2025). "Solving the XOR Problem Using a Spiking Neural Network." University of Split Repository. https://dabar.srce.hr/object/pmfst:2147
+
+3. Harikesh, P.C., Gao, D., Wu, H.Y., Yang, C.Y., Tu, D., et al. (2025). "Single organic electrochemical neuron capable of anticoincidence detection." *Science Advances*. DOI: 10.1126/sciadv.adv3194
+
+4. Reljan-Delaney, M., & Wall, J. (2017). "Solving the linearly inseparable XOR problem with spiking neural networks." *2017 Computing Conference*, IEEE.
+
+These studies explore how potassium-gated channels enable XOR logic operations in neurons, forming the scientific basis for the neural enhancement concepts depicted in the novel.
 
 ---
 
