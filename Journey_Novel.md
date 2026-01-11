@@ -8,15 +8,15 @@
 
 ![The last planet approaching Phoenix Cluster](Pictures/PL67.png)
 
-Wee sensed the approaching apocalypse in his bones. The sky flickered constantly, hurling fireballs toward a horizon where something vast devoured everything that ventured near. His tribe, the most advanced species on their planet, still ignored these omens.
+Wee sensed an approaching apocalypse in his bones. The sky flickered constantly, hurling fireballs toward a horizon where something vast devoured everything that ventured near. His tribe, the most advanced species on their planet, still ignored these omens.
 
-At sixteen, Wee disappointed his mother. While his cousins struck at prey at first sight, Wee had to clear a why before swinging his flint. This hesitation branded him a loser among his peers, except for a handful who recognized his true gift in crafting weapons that could fell any beast.
+At sixteen, Wee disappointed his mother. While his cousins struck at prey at first sight, Wee had to clear a why before swinging his flint. This hesitation branded him a loser among his peers, except a handful who knew he could craft weapons that could fell beasts of any size.
 
 ![Wee examining the mysterious object](Pictures/Wee.png)
 
-Even for Wee, the mysterious object near their hammock defied comprehension. Its symmetry surpassed anything in nature, yet its purpose remained inscrutable.
+Even for Wee, the mysterious object near their hammock defied comprehension. Its symmetry surpassed anything in nature, yet its purpose remained elusive.
 
-Wee would never know that while traditional Gods passed wisdom forward through time, he was venerated backward by all previous civilizations, who hoped he could preserve the final spark of life as their world plummeted toward Phoenix Cluster.
+Wee would never know he was the Reverse God of all earlier civilizations who had died to plant that device in his world. In contrast to the Gods who passed wisdom forward through time, Wee was venerated backward—their hope to preserve the final spark of life as the last habitable planet plummeted toward Phoenix Cluster, the largest black hole in the cosmos, five billion years after Earth.
 
 ---
 
@@ -25,17 +25,17 @@ Wee would never know that while traditional Gods passed wisdom forward through t
 
 ![The Council of Venus-2](Pictures/Gallery.png)
 
-Venus-2's core committee gathered in the virtual gallery, their camaraderie evident despite the weight of their agenda. These stewards of civilization had long ago transcended petty power struggles, serving their people with quiet dignity.
+Venus-2's core committee gathered in the virtual gallery, their faces heavy with concern. They had long ago transcended petty power struggles, serving their people with quiet dignity.
 
 The Dolphins currently held governance while the Octopuses enjoyed their well-earned Rulers' Holiday—a cherished tradition where leadership alternated peacefully, allowing former administrators to rest and reflect before the cycle renewed. This wasn't about winning elections or clinging to authority; it was simply how responsible societies honored those who carried civilization's burden.
 
 Their ancestors had learned from Earth's archives how this collaboration became possible. Early marine species lacked the potassium-based neural networks that enabled XOR logic gates, the foundation of complex reasoning in primates. Earth scientists discovered how potassium channel thresholds could be calibrated to enable anticoincidence detection and XOR operations even in non-primate neurons. By identifying and enhancing the empathy pathways in dolphins and octopuses, they bridged the gap. The result was species that thought differently yet complemented each other perfectly. Where dolphins excelled at long-term strategic vision, octopuses mastered immediate problem-solving. Together, they built what neither could alone.
 
-Chieftain Krish's voice carried both warmth and concern. "Dear friends, our world is slowing down."
+Chieftain Krish began the discussion. "Dear friends, our world is slowing down."
 
-The assembly grew contemplative. Everyone grasped what this meant.
+The silence deepened as everyone knew what this meant.
 
-Krish continued gently. "The Gods seeded life here 200 million years ago, drawn by our optimal mix of elements and orbital dynamics around the sun."
+Krish continued. "The Gods seeded life here 200 million years ago, drawn by our optimal mix of elements and motions around the sun."
 
 "But like those before us, we're sliding into tidal lock with our sun. Life will become impossible."
 
