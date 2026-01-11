@@ -10,7 +10,7 @@
 
 Wee sensed an approaching apocalypse in his bones. The sky flickered constantly, hurling fireballs toward a horizon where something vast devoured everything that ventured near. His tribe, the most advanced species on their planet, still ignored these omens.
 
-At sixteen, Wee disappointed his mother. While his cousins struck at prey at first sight, Wee had to clear a why before swinging his flint. This hesitation branded him a loser among his peers, except a handful who knew he could craft weapons that could fell beasts of any size.
+At sixteen, Wee disappointed his mother. While his cousins struck at prey at first sight, Wee had to clear a why before swinging his flint. This hesitation branded him a loser among his peers, except a handful who knew he could craft weapons to fell beasts of any size.
 
 ![Wee examining the mysterious object](Pictures/Wee.png)
 
@@ -39,7 +39,7 @@ Krish continued. "The Gods seeded life here 200 million years ago, drawn by our 
 
 "But like those before us, we're sliding into tidal lock with our sun. Life will become impossible."
 
-Octopus chief Lee, speaking from his holiday retreat via teleview, offered his wisdom. "Our time here grows short. We've already identified PL67 as our next sanctuary. We must prepare the species ship for endgame."
+Octopus chief Lee, speaking from his holiday retreat via teleview, cut to the point. "So our time here is running out. We've identified PL67 as our next home. We shall be preparing the species ship for endgame."
 
 Endgame—a solemn word meaning only a select few aboard would survive the journey, and even they would arrive as fossilized relics.
 
