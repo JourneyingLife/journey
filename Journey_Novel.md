@@ -62,7 +62,7 @@ Journey—an archaeological treasure buried in the Atlantis ocean depths, contai
 ## CHAPTER 2: THE DIVE
 ### *Into the Depths of History*
 
-![The deep-sea expedition to Journey archives](Pictures/The Dive.png)
+![The deep-sea expedition to Journey archives](Pictures/The%20Dive.png)
 
 At dawn, a crew embarked on their descent toward the ancient archive. The team combined biologists, astronomers, and physicists. Two teenagers joined as well—no one could predict how long this expedition might last, and demises shouldn't derail their objective.
 
