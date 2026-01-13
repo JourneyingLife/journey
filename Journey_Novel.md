@@ -10,7 +10,7 @@
 
 Wee sensed an approaching apocalypse in his bones. The sky flickered constantly, hurling fireballs toward a horizon where something vast devoured everything that ventured near. His tribe, the most advanced species on their planet, still ignored these omens.
 
-At sixteen, Wee disappointed his mother. While his cousins struck at prey at first sight, Wee had to clear a why before swinging his flint. That pause branded him a loser among his peers, except a handful who knew he could craft weapons to fell beasts of any size.
+At sixteen, Wee disappointed his mother. While his cousins struck at prey at first sight, Wee had to clear a why before swinging his flint. That pause branded him a loser among his peers, except a handful who knew he could craft weapons that fell beasts of any size.
 
 ![Wee examining the mysterious object](Pictures/Wee.png)
 
@@ -31,11 +31,11 @@ The Dolphins currently held governance while the Octopuses enjoyed their well-ea
 
 Their ancestors had learned from Earth's archives how this collaboration became possible. Early marine species, like all animals, had only sodium-based neural circuitry, lacking the potassium-based neural networks that enabled XOR logic gates (exclusive-or operations that enable 'yes-but-not-both'), the foundation of complex reasoning in primates. Earth scientists discovered how potassium channel thresholds could be calibrated to enable anticoincidence detection and XOR operations even in non-primate neurons. By identifying and enhancing the empathy pathways in dolphins and octopuses, they bridged the gap. The result was species that thought differently yet complemented each other perfectly. Where dolphins excelled at long-term strategic vision, octopuses mastered immediate problem-solving. Together, they built what neither could alone.
 
-Chieftain Krish began the discussion. "Dear friends, our world is slowing down."
+Chieftain Krish began the dire pronouncement. "Dear friends, our world is slowing down."
 
 The silence deepened as everyone knew what this meant.
 
-Krish continued. "The Gods seeded life here 200 million years ago, drawn by our optimal mix of elements and motions around the sun."
+Krish continued. "The Gods seeded life here 200 million years ago, drawn by its optimal mix of elements and motions around the sun."
 
 "But like those before us, we're sliding into tidal lock with our sun. Life will become impossible."
 
@@ -47,7 +47,7 @@ Krish nodded thoughtfully. "Thank you, Lee. But here's our challenge. Unlike pre
 
 "Our entire archive offers no solution for preserving life beyond 67."
 
-"We need to determine if any of the Gods faced this same challenge."
+"We need to uncover if any of the Gods survived this same challenge."
 
 "We must revisit..."
 
@@ -109,9 +109,9 @@ The dying turtle Daisy brought up all her might to explain the coding in The Dan
 
 ![Abstract visualization of the universe showing planetary orbits mirroring subatomic particle orbits in a fractal pattern](https://via.placeholder.com/800x400/3498db/ecf0f1?text=The+Cosmic+Pattern)
 
-Many eras earlier, Earth's greatest minds debated the universe's origin. They observed cosmos exhibiting recursive patterns—solar planetary orbits mirroring subatomic particle trajectories.
+Mars researchers pursued a fundamental mystery: how larger celestial bodies attracted smaller ones without visible tethers. They theorized gravity resulted from asymmetric collisions—free-moving masses creating higher pressure on far-side surfaces. Yet the composition of these masses remained enigmatic. While light traveled an astonishing three hundred million meters per second, cosmic bodies just drifted.
 
-Mars researchers pursued a fundamental mystery: how larger celestial bodies attracted smaller ones without visible tethers. They theorized gravity resulted from asymmetric collisions—free-moving masses creating higher pressure on far-side surfaces. Yet the composition of these masses remained enigmatic. While light traveled an astonishing three hundred million meters per second, cosmic bodies appeared to stay in drifts.
+Many eras later, Earth's greatest minds debated the universe's origin. They observed cosmos exhibiting recursive patterns—solar planetary orbits mirroring subatomic particle trajectories.
 
 ![Visualization of ripples in spacetime creating black holes and wormholes, with interconnected cosmic geometries](https://via.placeholder.com/800x400/e74c3c/ecf0f1?text=Black+Holes+and+Wormholes)
 
@@ -159,7 +159,7 @@ Daisy took the last breath to say, "Go find a friendly wormhole to send your spe
 
 Before going into eternal peace she quipped, "make the scriptures layman readable. Half-baked knowledge breeds holy wars—they'll slaughter each other in the name of Gods for centuries." Her ancient eyes dimmed, reflecting Earth's blood-soaked history preserved in Journey's archives. "Those surface dwellers nearly annihilated themselves before grasping that honor flows from service, not savagery. It took them ages to comprehend that today's enemy might return as tomorrow's child—all beings recycled from the same six elements, dancing through infinite cycles."
 
-She paused, her voice dropping to barely a whisper. "Here's what took them longest to see: The Prophet, the Buddha, the Dancing Lord, the Shepherd—they kept building shrines to each, studying them separately for centuries. Then one researcher noticed the pattern in the cosmic codes. Every deity pointed to the same universal constants, just expressed through different cultural lenses. The mathematics was identical. They'd been fragmenting what was always whole." Her breathing grew shallow. "The wars only stopped when they realized they'd been fighting over different names for the same thing. Cost them millions of lives to learn what should have been obvious."
+She paused, her voice dropping to barely a whisper. "Here's what took them longest to see: The Prophet, the Buddha, the Dancing Lord, the Shepherd—they kept building shrines to each, studying them separately for centuries. Then one researcher noticed the pattern in the cosmic codes. Every deity pointed to the same universal constants, just expressed through different cultural lenses. The mathematics was identical. They'd been fragmenting what was always whole." Her breathing grew shallow. "The wars only stopped when they realized they'd been fighting over different names for the same thing. Cost them millions of lives to learn what should have been clear from the start."
 
 ![Biologists examining holographic DNA strands while space engineers study wormhole trajectories on massive displays](https://via.placeholder.com/800x400/2ecc71/2c3e50?text=Planning+the+Species+Ship)
 
