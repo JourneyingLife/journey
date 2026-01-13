@@ -1,6 +1,9 @@
 # THE JOURNEY
 ## *A Tale Across Time and Space*
 
+**Author:** kamalakannanv68-source  
+**Source:** https://github.com/kamalakannanv68-source/journey
+
 ---
 
 ## PROLOGUE: THE LAST PLANET
