@@ -9,13 +9,13 @@
 ## PROLOGUE: THE LAST PLANET
 ### *Era 5: Year 25357: Day 78*
 
-![The last planet approaching Phoenix Cluster](Pictures/PL67.png)
+![The last planet approaching Phoenix Cluster](Pictures/PL67.jpg)
 
 Wee sensed an approaching apocalypse in his bones. The sky flickered constantly, hurling fireballs toward a horizon where something vast devoured everything that ventured near. His tribe, the most advanced species on their planet, still ignored these omens.
 
 At sixteen, Wee disappointed his mother. While his cousins struck at prey at first sight, Wee had to clear a why before swinging his flint. That pause branded him a loser among his peers, except a handful who knew he could craft weapons that fell beasts of any size.
 
-![Wee examining the mysterious object](Pictures/Wee.png)
+![Wee examining the mysterious object](Pictures/Wee.jpg)
 
 Even for Wee, the mysterious object near their hammock defied comprehension. Its symmetry surpassed anything he'd seen, yet its purpose remained elusive.
 
@@ -26,7 +26,7 @@ Wee would never know he was the Reverse God of all earlier civilizations who had
 ## CHAPTER 1: THE COUNCIL OF VENUS-2
 ### *Era 4: Year 54728: Day 105*
 
-![The Council of Venus-2](Pictures/Gallery.png)
+![The Council of Venus-2](Pictures/Gallery.jpg)
 
 Venus-2's core committee gathered in the virtual gallery, their faces heavy with concern. They had long ago transcended petty power struggles, serving their people with quiet dignity.
 
@@ -65,7 +65,7 @@ Journey—an archaeological treasure buried in the Atlantis ocean depths, contai
 ## CHAPTER 2: THE DIVE
 ### *Into the Depths of History*
 
-![The deep-sea expedition to Journey archives](Pictures/The%20Dive.png)
+![The deep-sea expedition to Journey archives](Pictures/The%20Dive.jpg)
 
 At dawn, a crew embarked on their descent toward the ancient archive. The team combined biologists, astronomers, and physicists. Two teenagers joined as well—no one could predict how long this expedition might last, and demises shouldn't derail their objective.
 
