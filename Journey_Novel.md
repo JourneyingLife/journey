@@ -177,11 +177,11 @@ Space engineers calculated they could traverse the journey in seven thousand yea
 
 ![A brilliant female AI engineer (Nova) presenting holographic models of neural networks and biological elements intertwined](https://via.placeholder.com/800x400/9b59b6/ecf0f1?text=Nova+the+AI+Engineer)
 
-AI engineer Nova voiced a half-formed concept. Instead of waiting for organic evolution to rescue their future habitat, why not deploy intelligent machines for the task? Her challenge: transporting the massive computational infrastructure required. Large language models demanded 7B to 100B+ parameters, consuming 30–300+ GB GPU memory, requiring 4–64 GPUs per instance, and drawing 10–100 kW per serving cluster. Shipping and maintaining such systems dormant across millennia seemed impossible.
+AI engineer Nova voiced a half-formed concept. Instead of waiting for organic evolution to rescue their future habitat, why not deploy intelligent machines for the task? Her challenge: transporting the massive computational infrastructure required. Large language models demanded 70 billion parameters, consuming 140 GB GPU memory, requiring 4 GPUs per instance, and drawing 50 kW per serving cluster. Shipping and maintaining such systems dormant across millennia seemed impossible.
 
 Yet Chieftain Krish and Chief Lee exchanged knowing glances, as if they'd already glimpsed the solution.
 
-Krish began illuminating Nova's path. "Your proposal fits perfectly. Don't worry about infrastructure—we're not the first to solve this. The element scripture contains the answer. We need to encode the five elemental interactions onto the sixth: the destiny-carrier."
+Krish began illuminating Nova's path. "Your proposal fits perfectly. Don't worry about infrastructure—we're not the first to solve this. The answer lies in the element scripture. We just need to encode the five elemental interactions onto the sixth: the destiny-carrier."
 
 ![Visual representation of the six elements: Fire, Ground, Air, Water, Electricity/Sky, and Destiny - each with symbolic imagery connected to different organs](https://via.placeholder.com/800x400/e67e22/2c3e50?text=The+Six+Elements+of+Life)
 
@@ -315,15 +315,109 @@ The images in this novel are placeholder demonstrations using via.placeholder.co
 
 **Neural Logic Gates and Potassium Channels:**
 
-1. Zhorov, B.S., & Tikhonov, D.B. (2004). "Potassium, sodium, calcium and glutamate‐gated channels: pore architecture and ligand action." *Journal of Neurochemistry*, 88(4), 782-799.
+1. Zhorov, B.S., & Tikhonov, D.B. (2004). "Potassium, sodium, calcium and glutamate‐gated channels: pore architecture and ligand action." *Journal of Neurochemistry*, 88(4), 782-799. https://doi.org/10.1111/j.1471-4159.2004.02261.x
 
 2. Radak, J. (2025). "Solving the XOR Problem Using a Spiking Neural Network." University of Split Repository. https://dabar.srce.hr/object/pmfst:2147
 
-3. Harikesh, P.C., Gao, D., Wu, H.Y., Yang, C.Y., Tu, D., et al. (2025). "Single organic electrochemical neuron capable of anticoincidence detection." *Science Advances*. DOI: 10.1126/sciadv.adv3194
+3. Harikesh, P.C., Gao, D., Wu, H.Y., Yang, C.Y., Tu, D., et al. (2025). "Single organic electrochemical neuron capable of anticoincidence detection." *Science Advances*. https://doi.org/10.1126/sciadv.adv3194
 
-4. Reljan-Delaney, M., & Wall, J. (2017). "Solving the linearly inseparable XOR problem with spiking neural networks." *2017 Computing Conference*, IEEE.
+4. Reljan-Delaney, M., & Wall, J. (2017). "Solving the linearly inseparable XOR problem with spiking neural networks." *2017 Computing Conference*, IEEE. https://doi.org/10.23919/IConAC.2017.8082068
 
 These studies explore how potassium-gated channels enable XOR logic operations in neurons, forming the scientific basis for the neural enhancement concepts depicted in the novel.
+
+---
+
+**Black Holes and Wormholes:**
+
+5. Hawking, S.W. (1974). "Black hole explosions?" *Nature*, 248(5443), 30-31. https://doi.org/10.1038/248030a0
+
+6. Morris, M.S., & Thorne, K.S. (1988). "Wormholes in spacetime and their use for interstellar travel: A tool for teaching general relativity." *American Journal of Physics*, 56(5), 395-412. https://doi.org/10.1119/1.15620
+
+7. Visser, M. (1995). *Lorentzian Wormholes: From Einstein to Hawking*. AIP Press. ISBN: 978-1563966538
+
+These foundational works explore theoretical physics of black holes and traversable wormholes as depicted in the novel's cosmic travel concepts.
+
+---
+
+**Large Language Models and AI Infrastructure:**
+
+8. Brown, T., Mann, B., Ryder, N., et al. (2020). "Language models are few-shot learners." *Advances in Neural Information Processing Systems*, 33, 1877-1901. https://arxiv.org/abs/2005.14165
+
+9. Kaplan, J., McCandlish, S., Henighan, T., et al. (2020). "Scaling laws for neural language models." *arXiv preprint* arXiv:2001.08361. https://arxiv.org/abs/2001.08361
+
+10. Patterson, D., Gonzalez, J., Le, Q., et al. (2021). "Carbon emissions and large neural network training." *arXiv preprint* arXiv:2104.10350. https://arxiv.org/abs/2104.10350
+
+These papers discuss the computational requirements, parameter scaling, and infrastructure needs for large language models referenced in Nova's challenge.
+
+---
+
+**DNA Preservation and Panspermia:**
+
+11. Crick, F.H., & Orgel, L.E. (1973). "Directed panspermia." *Icarus*, 19(3), 341-346. https://doi.org/10.1016/0019-1035(73)90110-3
+
+12. Wickramasinghe, C., & Napier, W. (2015). "Comets and the Origin of Life." *World Scientific*. https://doi.org/10.1142/9789814374552
+
+13. Tepfer, D., & Leach, S. (2017). "Survival of plant seeds, their UV screens, and nptII DNA for 18 months outside the International Space Station." *Astrobiology*, 17(3), 205-215. https://doi.org/10.1089/ast.2016.1549
+
+These works explore directed panspermia and DNA survival in space, fundamental to the species ship concept.
+
+---
+
+**Cellular Bioenergetics (ATP/ADP):**
+
+14. Mitchell, P. (1961). "Coupling of phosphorylation to electron and hydrogen transfer by a chemi-osmotic type of mechanism." *Nature*, 191(4784), 144-148. https://doi.org/10.1038/191144a0
+
+15. Boyer, P.D. (1997). "The ATP synthase—a splendid molecular machine." *Annual Review of Biochemistry*, 66(1), 717-749. https://doi.org/10.1146/annurev.biochem.66.1.717
+
+16. Kinosita, K., Yasuda, R., Noji, H., & Adachi, K. (2000). "A rotary molecular motor that can work at near 100% efficiency." *Philosophical Transactions of the Royal Society B*, 355(1396), 473-489. https://doi.org/10.1098/rstb.2000.0589
+
+These studies explain ATP's role as the cellular energy currency and the remarkable efficiency of biological motors discussed in the elemental framework.
+
+---
+
+**Tidal Locking and Planetary Habitability:**
+
+17. Kasting, J.F., Whitmire, D.P., & Reynolds, R.T. (1993). "Habitable zones around main sequence stars." *Icarus*, 101(1), 108-128. https://doi.org/10.1006/icar.1993.1010
+
+18. Barnes, R., ed. (2010). *Formation and Evolution of Exoplanets*. Wiley-VCH. ISBN: 978-3527408962
+
+19. Yang, J., Cowan, N.B., & Abbot, D.S. (2013). "Stabilizing cloud feedback dramatically expands the habitable zone of tidally locked planets." *The Astrophysical Journal Letters*, 771(2), L45. https://doi.org/10.1088/2041-8205/771/2/L45
+
+These papers address tidal locking effects on planetary habitability, central to Venus-2's crisis.
+
+---
+
+**Philosophy and Ancient Wisdom:**
+
+20. Capra, F. (1975). *The Tao of Physics*. Shambhala Publications. ISBN: 978-1590308356
+
+21. Chopra, D., & Kafatos, M.C. (2017). *You Are the Universe: Discovering Your Cosmic Self and Why It Matters*. Harmony Books. ISBN: 978-0307889362
+
+These works explore connections between ancient Eastern philosophy and modern physics, paralleling the novel's integration of the Dancing Lord with cosmic patterns.
+
+---
+
+**Traditional Chinese Medicine and Five Element Theory:**
+
+24. Kaptchuk, T.J. (2000). *The Web That Has No Weaver: Understanding Chinese Medicine*. McGraw-Hill. ISBN: 978-0809228409
+
+25. Maciocia, G. (2015). *The Foundations of Chinese Medicine: A Comprehensive Text*. 3rd Edition. Elsevier Health Sciences. ISBN: 978-0702052163
+
+26. Connelly, D.M. (1994). *Traditional Acupuncture: The Law of the Five Elements*. 2nd Edition. Traditional Acupuncture Institute. ISBN: 978-0912381015
+
+27. Hicks, A., Hicks, J., & Mole, P. (2010). "Five Element Constitutional Acupuncture." *Churchill Livingstone*. ISBN: 978-0702031489
+
+These foundational texts explain the Five Element theory (Wu Xing) in Traditional Chinese Medicine, which associates elements with specific organs and emotional/physical attributes, directly informing the novel's elemental framework linking Fire to heart, Ground/Earth to stomach, Wood/Electricity to liver, Water to kidneys, and Metal/Air to lungs.
+
+---
+
+**Organ Transplantation and Global Collaboration:**
+
+22. Matesanz, R., Domínguez-Gil, B., Coll, E., et al. (2017). "Spanish experience as a leading country: what kind of measures were taken?" *Transplant International*, 24(4), 333-343. https://doi.org/10.1111/j.1432-2277.2011.01205.x
+
+23. WHO Global Observatory on Donation and Transplantation. (2023). "International Report on Organ Donation and Transplantation Activities." https://www.transplant-observatory.org
+
+These sources inform the Global Organ Collaboration Network depicted in the Gandhian Revolution section.
 
 ---
 

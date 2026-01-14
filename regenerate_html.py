@@ -7,6 +7,9 @@ with open('Journey_Novel.md', 'r', encoding='utf-8') as f:
 # Convert markdown to HTML
 html_content = markdown2.markdown(md_content, extras=['fenced-code-blocks', 'tables'])
 
+# Fix image paths for HTML in read_version/ folder
+html_content = html_content.replace('src="Pictures/', 'src="../Pictures/')
+
 # Add CSS styling
 css = """
 <style>

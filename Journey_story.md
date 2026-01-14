@@ -110,9 +110,9 @@ The space engineers reckoned they could traverse their ship in seven thousand ye
 
 ![Nova watching holographic displays showing Wee's tribe attempting to weaponize the machine, her expression showing distress and concern](https://via.placeholder.com/800x400/8e44ad/ecf0f1?text=Novas+Heartbreak)
 
-The AI engineer Nova blurted out her vague thought. Instead of awaiting an organic evolution to save the habitat, why not augment intelligent machines in that battle. She just didn’t have a clue how to ship a giant LLM required to do the job effectively. Large language models range 7B to 100B+ parameters, require 30–300+ GB GPU memory, 4–64 GPUs per model instance, and 10–100 kW per serving cluster. Its impossible to ship all that infrastructure and keep it idling for so many millennia.
+The AI engineer Nova blurted out her vague thought. Instead of awaiting an organic evolution to save the habitat, why not augment intelligent machines in that battle. She just didn't have a clue how to ship a giant LLM required to do the job effectively. Large language models demanded 70 billion parameters, consuming 140 GB GPU memory, requiring 4 GPUs per instance, and drawing 50 kW per serving cluster. Its impossible to ship all that infrastructure and keep it idling for so many millennia.
 But the overjoyed chiefs Krish and Lee looked already having a clue to get her idea rolling.
-Krish began enlightening Nova. “Your brilliant idea just suits the case. Worry not about the infra as we are not the first to untangle that. This exactly is what captured in the element scripture. We only need to wire the interactions of the five elements onto the sixth the destiny-carrier”.
+Krish began enlightening Nova. "Your brilliant idea just suits the case. Worry not about the infra as we are not the first to untangle that. The answer lies in the element scripture. We just need to wire the interactions of the five elements onto the sixth the destiny-carrier".
 Lee discoursed the power of Elements deeper.
 ![Asteroids floating in space representing the remains of Jupiter 2's desperate attempt to survive](https://via.placeholder.com/800x400/95a5a6/2c3e50?text=The+Jupiter+2+Legacy)
 
