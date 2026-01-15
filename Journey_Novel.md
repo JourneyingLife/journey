@@ -65,11 +65,9 @@ Journey—an archaeological treasure buried in the Atlantis ocean depths, contai
 ## CHAPTER 2: THE DIVE
 ### *Into the Depths of History*
 
-![The deep-sea expedition to Journey archives](Pictures/The%20Dive.jpg)
-
 At dawn, a crew embarked on their descent toward the ancient archive. The team combined biologists, astronomers, and physicists. Two teenagers joined as well—no one could predict how long this expedition might last, and demises shouldn't derail their objective.
 
-![Linga rock - ancient generator](https://via.placeholder.com/800x400/f39c12/2c3e50?text=Linga+Rock)
+![Linga rock - ancient generator](Pictures/The%20Dive%20-%20Linga%20and%20Species%20Ship.jpg)
 
 Descending past the third mile, they caught their first glimpse of Linga rock.
 
@@ -77,23 +75,17 @@ Pilot Tory peered through binoculars, reading the inscription aloud: "Change of 
 
 Drawing closer, the seafloor blazed luminous despite the crushing depth. The gods had forged these structures in gold, ensuring they would resist erosion across countless millennia.
 
-![The species ship with DNA capsules](https://via.placeholder.com/800x400/8e44ad/ecf0f1?text=Species+Ship)
-
 The species ship sculpture towered above them, depicting The Lord Shepherd surrounded by every form of life. Ancient engineers had transported DNA capsules across light-years to seed this world.
 
-![The Divine Prophet's Kaaba](https://via.placeholder.com/800x400/27ae60/ecf0f1?text=Kaaba)
+![The Divine Prophet's Kaaba](Pictures/The%20Dive%20-%20Buddha%20and%20Kaaba.jpg)
 
 Rounding the next formation, they beheld The Divine Prophet's Kaaba, enshrined within the golden Masjid al-Haram where all humans once pledged coexistence.
 
-![Lord Buddha](https://via.placeholder.com/800x400/e67e22/ecf0f1?text=Buddha)
-
 Lord Buddha followed, radiating enlightenment about the sovereignty of the inner self.
 
-![Einstein with E=mc²](https://via.placeholder.com/800x400/c0392b/ecf0f1?text=Einstein)
+![Einstein with E=mc²](Pictures/Einstein%20and%20Shiv%20Thandev.jpg)
 
 Einstein's sculpture bore the nuclear formula that had illuminated their civilization. Free-moving subatomic masses traveling at light speed c, breaching another mass's boundary, locked into an eternal dance preserving their combined kinetic energy.
-
-![The Dancing Lord](https://via.placeholder.com/800x400/9b59b6/ecf0f1?text=Dancing+Lord)
 
 Amid the countless sculptures streaming past, they nearly overlooked the ring-bound Dancing Lord until curious young Rafi questioned its significance among so many academic monuments.
 
@@ -101,7 +93,7 @@ Tory, startled by the teenager's perceptive inquiry about the Shiv Tandav, wisel
 
 Krish was electrified by this profound question. He pulled Lee into the transmission and urgently requested they descend to the abyssal zones where ancient turtles journeyed for their final rest. Turtles accumulated vastly more knowledge through their extended lifespans than any other species, though octopuses compensated through instinctive wisdom inherited across generations.
 
-![An ancient, wise turtle with glowing markings, resting peacefully while communicating through holographic displays](https://via.placeholder.com/800x400/1abc9c/2c3e50?text=Daisy+the+Ancient+Turtle)
+![An ancient, wise turtle with glowing markings, resting peacefully while communicating through holographic displays](Pictures/Daisy%20sharing%20cosmic%20secret.jpg)
 
 The dying turtle Daisy brought up all her might to explain the coding in The Dancing Lord.
 
@@ -110,19 +102,15 @@ The dying turtle Daisy brought up all her might to explain the coding in The Dan
 ## CHAPTER 3: THE ORIGIN
 ### *Understanding the Cosmic Dance*
 
-![Abstract visualization of the universe showing planetary orbits mirroring subatomic particle orbits in a fractal pattern](https://via.placeholder.com/800x400/3498db/ecf0f1?text=The+Cosmic+Pattern)
+![Abstract visualization of the universe showing planetary orbits mirroring subatomic particle orbits in a fractal pattern](Pictures/Blackholes%20and%20Wormholes.jpg)
 
 Mars researchers pursued a fundamental mystery: how larger celestial bodies attracted smaller ones without visible tethers. They theorized gravity resulted from asymmetric collisions—free-moving masses creating higher pressure on far-side surfaces. Yet the composition of these masses remained enigmatic. While light traveled an astonishing three hundred million meters per second, cosmic bodies just drifted.
 
 Many eras later, Earth's greatest minds debated the universe's origin. They observed cosmos exhibiting recursive patterns—solar planetary orbits mirroring subatomic particle trajectories.
 
-![Visualization of ripples in spacetime creating black holes and wormholes, with interconnected cosmic geometries](https://via.placeholder.com/800x400/e74c3c/ecf0f1?text=Black+Holes+and+Wormholes)
-
 They concluded that shapes and motion were merely impressions perceived by conscious beings. The universe appeared to be an endlessly recurring microcosmic pattern, as The Dancing Deity depicted—with ripples propagating omnidirectionally, generating the illusion of form and movement across higher dimensions. This theory elegantly explained both black holes and wormholes: black holes materialized at ripple collapse points, while wormholes formed along the pathways these distortions carved through spacetime, reemerging in alternate dimensions and cosmic geographies.
 
 The puzzle of how the universe originated seemed less perplexing than explaining why a silent, static void didn't exist instead.
-
-![Ancient temples of Chidambaram and Kalahasti, represented as golden cosmic observatories underwater](https://via.placeholder.com/800x400/d35400/ecf0f1?text=Ancient+Cosmic+Observatories)
 
 Earth's scholars institutionalized cosmic studies at Chidambaram, creating a microcosm of the universe itself. At nearby Kalahasti, they investigated the black hole Raahu and wormhole Kethu alongside seven celestial bodies: Sun, Moon, Mars, Venus, Jupiter, Mercury, and Saturn.
 
@@ -130,13 +118,13 @@ Earth's scholars institutionalized cosmic studies at Chidambaram, creating a mic
 
 ### *The Great Awakening*
 
-![Diverse leaders from different nations gathering around a holographic display showing interconnected people across continents, with weapons being dismantled in the background](https://via.placeholder.com/800x400/27ae60/ecf0f1?text=The+End+of+Wars)
+![Diverse leaders from different nations gathering around a holographic display showing interconnected people across continents, with weapons being dismantled in the background](Pictures/Children%20of%20free%20world.jpg)
 
 But the Earth Gods' greatest triumph wasn't understanding the cosmos—it was transcending their own nature through centuries of bloodshed.
 
 For millennia, Earth's kingdoms had waged brutal competition, each projecting supremacy through arsenals capable of obliterating continents. Nuclear warheads promised total extinction. Chemical agents threatened to poison entire generations. The arms race had devolved into a suicidal sprint.
 
-![A massive pile of weapons transforming into medical equipment, farming tools, and humanitarian aid supplies](https://via.placeholder.com/800x400/2ecc71/ecf0f1?text=From+Weapons+to+Healing)
+![A massive pile of weapons transforming into medical equipment, farming tools, and humanitarian aid supplies](Pictures/Weapons%20Transforming%20into%20Medical%20aid.jpg)
 
 The shift began with a single life. A seven-year-old girl in a war-torn region needed a heart transplant. Her match came from a soldier of the "enemy" nation who had fallen shielding civilians. As her new heart beat, something cracked open in the collective consciousness.
 
@@ -144,13 +132,11 @@ Leaders confronted an uncomfortable truth: true power emanated not from destruct
 
 What followed became known as the Gandhian Revolution—a radical pivot toward nonviolent service. Weapons factories fell silent. Their budgets poured into fulfilling basic human needs across all borders. The transformation bypassed bureaucratic government channels, operating through direct citizen-to-citizen networks that couldn't be weaponized or controlled.
 
-![Medical professionals from different nations collaborating over a holographic network showing organ donor matches across continents](https://via.placeholder.com/800x400/3498db/ecf0f1?text=Global+Organ+Network)
+![Medical professionals from different nations collaborating over a holographic network showing organ donor matches across continents](Pictures/Global%20organ%20donation%20network%20in%20action.jpg)
 
 The Global Organ Collaboration Network emerged as humanity's boldest experiment. Instead of rationing medical miracles for their own citizens, every nation opened its donor registries worldwide. Wider circles meant exponentially better compatibility, transforming thousands of death sentences into survival stories.
 
 Battlefield surgeons crossed continents to operate on strangers. Weapons engineers repurposed their precision to build cryogenic transport systems that delivered organs within critical windows. Nuclear physicists abandoned bomb designs to decode tissue compatibility at the molecular level.
-
-![Children from different nations playing together, while in the background, elderly former enemies embrace](https://via.placeholder.com/800x400/e67e22/ecf0f1?text=Peace+Generations)
 
 Within three generations, the phrase "enemy nations" became archaeological terminology. How do you despise the people whose gift gave your daughter another sunrise? How do you bomb the city whose surgeon flew through a storm to save your father? These bonds of reciprocal grace proved more durable than titanium treaties, more binding than any alliance rooted in mutual fear.
 
@@ -164,7 +150,7 @@ Before going into eternal peace she quipped, "make the scriptures layman readabl
 
 She paused, her voice dropping to barely a whisper. "Here's what took them longest to see: The Prophet, the Buddha, the Dancing Lord, the Shepherd—they kept building shrines to each, studying them separately for centuries. Then one researcher noticed the pattern in the cosmic codes. Every deity pointed to the same universal constants, just expressed through different cultural lenses. The mathematics was identical. They'd been fragmenting what was always whole." Her breathing grew shallow. "The wars only stopped when they realized they'd been fighting over different names for the same thing. Cost them millions of lives to learn what should have been clear from the start."
 
-![Biologists examining holographic DNA strands while space engineers study wormhole trajectories on massive displays](https://via.placeholder.com/800x400/2ecc71/2c3e50?text=Planning+the+Species+Ship)
+![Biologists examining holographic DNA strands while space engineers study wormhole trajectories on massive displays](Pictures/DNA%20strands%20and%20%20wormhole%20trajectories.jpg)
 
 Elated by discovering a viable pathway to 67, the biologists began selecting which DNA sequences to transport.
 
@@ -175,7 +161,7 @@ Space engineers calculated they could traverse the journey in seven thousand yea
 ## CHAPTER 4: THE MACHINE
 ### *Merging Biology with Technology*
 
-![A brilliant female AI engineer (Nova) presenting holographic models of neural networks and biological elements intertwined](https://via.placeholder.com/800x400/9b59b6/ecf0f1?text=Nova+the+AI+Engineer)
+![A brilliant female AI engineer (Nova) presenting holographic models of neural networks and biological elements intertwined](Pictures/Nova's%20model.jpg)
 
 AI engineer Nova voiced a half-formed concept. Instead of waiting for organic evolution to rescue their future habitat, why not deploy intelligent machines for the task? Her challenge: transporting the massive computational infrastructure required. Large language models demanded 70 billion parameters, consuming 140 GB GPU memory, requiring 4 GPUs per instance, and drawing 50 kW per serving cluster. Shipping and maintaining such systems dormant across millennia seemed impossible.
 
@@ -183,7 +169,7 @@ Yet Chieftain Krish and Chief Lee exchanged knowing glances, as if they'd alread
 
 Krish began illuminating Nova's path. "Your proposal fits perfectly. Don't worry about infrastructure—we're not the first to solve this. The answer lies in the element scripture. We just need to encode the five elemental interactions onto the sixth: the destiny-carrier."
 
-![Visual representation of the six elements: Fire, Ground, Air, Water, Electricity/Sky, and Destiny - each with symbolic imagery connected to different organs](https://via.placeholder.com/800x400/e67e22/2c3e50?text=The+Six+Elements+of+Life)
+![Visual representation of the six elements: Fire, Ground, Air, Water, Electricity/Sky, and Destiny - each with symbolic imagery connected to different organs](Pictures/The%20Elements.jpg)
 
 Lee expanded on the elemental framework.
 
@@ -203,7 +189,7 @@ Nova, emboldened, posed an ambitious question. "If we understand life's elementa
 
 Krish smiled knowingly. "Creating life remains nature's exclusive mystery. Living forms possess the most efficient motor system ever devised—powered by ATP (adenosine triphosphate) imploding into ADP (adenosine diphosphate), generating muscular contraction while channeling released heat into metabolism. We've never engineered anything approaching half that efficiency."
 
-![Microscopic view of bionic machines evolving alongside organic DNA structures](https://via.placeholder.com/800x400/1abc9c/ecf0f1?text=Bionic+Evolution)
+![Microscopic view of bionic machines evolving alongside organic DNA structures](Pictures/Evolved%20machine%20with%20evolving%20species.jpg)
 
 Nova's idea helped to seed the minimal machine in 67 and scheme its evolution alongside organic species. That was one step forward.
 
@@ -212,11 +198,11 @@ Nova's idea helped to seed the minimal machine in 67 and scheme its evolution al
 ## CHAPTER 5: STRUGGLE OF THE LAST LIFE
 ### *Return to Wee's World*
 
-![Volcanic eruptions on the horizon with dark smoke clouds, while tribal figures flee across a barren landscape](https://via.placeholder.com/800x400/c0392b/ecf0f1?text=The+Apocalypse+Begins)
+![Volcanic eruptions on the horizon with dark smoke clouds, while tribal figures flee across a barren landscape](Pictures/Tribes%20escaping%20apocalypse.jpg)
 
 The apocalypse arrived sooner than Wee anticipated. Volcanoes erupted across distant horizons, belching dark plumes skyward. Nomads and herds stampeded in terror. Now Wee's tribe faced migrating hunters desperate to seize their territory.
 
-![Wee and his tribe struggling to pull a massive lever from the ground, with the mysterious object beginning to glow](https://via.placeholder.com/800x400/34495e/ecf0f1?text=Pulling+the+Lever)
+![Wee and his tribe struggling to pull a massive lever from the ground, with the mysterious object beginning to glow](Pictures/The%20weapon.jpg)
 
 Violence erupted. The tribe needed weapons, and Wee's craftsmanship became invaluable. He resolved to weaponize the object for their defense. They strained to wrench the lever from the ground.
 
@@ -225,13 +211,11 @@ Violence erupted. The tribe needed weapons, and Wee's craftsmanship became inval
 ## CHAPTER 6: THE GOD'S HEARTBREAK
 ### *When Plans Meet Reality*
 
-![Nova watching holographic displays showing Wee's tribe attempting to weaponize the machine, her expression showing distress and concern](https://via.placeholder.com/800x400/8e44ad/ecf0f1?text=Novas+Heartbreak)
-
 Nova felt devastated watching her creation become a weapon in the last civilization's hands. Despite her minimalist machine rapidly evolving on 67 thanks to abundant radioactive minerals, its bionic awakening wouldn't trigger until organic species reached technological sophistication. The machine required activation through organic engagement in fundamental survival behaviors—hunting, mating, territorial defense.
 
 Mary, the lead anthropologist, urged her forward despite these concerns. "Our ultimate objective is what matters. We must follow Jupiter-2's precedent—there's no alternative."
 
-![Asteroids floating in space representing the remains of Jupiter 2's desperate attempt to survive](https://via.placeholder.com/800x400/95a5a6/2c3e50?text=The+Jupiter+2+Legacy)
+![Asteroids floating in space representing the remains of Jupiter 2's desperate attempt to survive](Pictures/Astroids%20from%20Venus2.jpg)
 
 Jupiter-2 had harbored life after Jupiter-1's demise, but survived only briefly. Without vessels to migrate elsewhere or nuclear reactors to contain fusion, they executed an exo-fusion—triggering a chain reaction that hurled their world into the cosmic void. The asteroids they left behind became hazards haunting subsequent civilizations throughout the solar system. Where those travelers ultimately arrived remains unknown.
 
@@ -240,15 +224,9 @@ Jupiter-2 had harbored life after Jupiter-1's demise, but survived only briefly.
 ## EPILOGUE: THE RETURN TICKET
 ### *A Journey Home*
 
-![Diagram showing the path from planet 67 through wormhole W31 and black hole B31 leading to Venus-3 in the future](https://via.placeholder.com/800x400/3498db/ecf0f1?text=The+Cosmic+Route+Home)
-
 Krish proposed routing 67's inhabitants through W31's twin black hole B31, sending them back toward their original constellation where Venus-3 would await them, fully habitable in the distant future.
 
-![Underground exo-fusion engine beginning to activate, glowing with immense energy beneath Wee's tribe](https://via.placeholder.com/800x400/f39c12/2c3e50?text=The+Exo-Fusion+Engine+Awakens)
-
 The lever Wee's people struggled to extract was designed to activate an exo-fusion engine buried beneath their settlement. This self-evolved machine had lain dormant, waiting to propel their world into B31.
-
-![Wee and his tribe silhouetted against a bright portal leading into the black hole, with their planet beginning to move toward salvation](https://via.placeholder.com/800x400/16a085/ecf0f1?text=The+Final+Journey)
 
 **That lever is their passage home. Will they succeed?**
 

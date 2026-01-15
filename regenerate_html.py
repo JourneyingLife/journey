@@ -27,17 +27,23 @@ css = """
         margin-bottom: 10pt;
         page-break-before: always;
         page-break-after: avoid;
+        break-before: always;
+        break-after: avoid;
     }
     h1:first-of-type {
         page-break-before: avoid;
+        break-before: avoid;
     }
     h2 {
         font-size: 18pt;
         margin-top: 15pt;
         margin-bottom: 8pt;
-        page-break-before: auto;
+        page-break-before: always;
         page-break-after: avoid;
         page-break-inside: avoid;
+        break-before: always;
+        break-after: avoid;
+        break-inside: avoid;
     }
     h3 {
         font-size: 14pt;
@@ -46,20 +52,36 @@ css = """
         margin-bottom: 5pt;
         page-break-after: avoid;
         page-break-inside: avoid;
+        break-after: avoid;
+        break-inside: avoid;
     }
     p {
         text-align: justify;
         margin-bottom: 10pt;
+        orphans: 3;
+        widows: 3;
     }
     img {
         max-width: 100%;
         height: auto;
         display: block;
         margin: 20px auto;
+        page-break-inside: avoid;
+        break-inside: avoid;
+    }
+    hr {
+        page-break-after: always;
+        break-after: always;
+        border: none;
+        margin: 30px 0;
     }
     @media print {
         body {
             max-width: 100%;
+        }
+        @page {
+            margin: 1in;
+            size: letter;
         }
     }
 </style>
