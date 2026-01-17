@@ -38,10 +38,10 @@ css = """
         font-size: 18pt;
         margin-top: 15pt;
         margin-bottom: 8pt;
-        page-break-before: always;
+        page-break-before: auto;
         page-break-after: avoid;
         page-break-inside: avoid;
-        break-before: always;
+        break-before: auto;
         break-after: avoid;
         break-inside: avoid;
     }
