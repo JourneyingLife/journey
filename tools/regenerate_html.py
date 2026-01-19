@@ -5,8 +5,16 @@ import markdown2
 with open('journey.md', 'r', encoding='utf-8') as f:
 	md_content = f.read()
 
+
+# Insert a manual page break before CHAPTER 2
+import re
+md_content = re.sub(r'(## CHAPTER 2:[^\n]*)', r'\n<div style="page-break-before: always;"></div>\n\1', md_content)
+
 # Convert markdown to HTML
 html_content = markdown2.markdown(md_content, extras=['fenced-code-blocks', 'tables'])
+
+# Remove extra page break after 'End of Novel' (if any)
+html_content = re.sub(r'(End of Novel.*?)(<hr[^>]*>|<div style="page-break-before: always;"></div>)*\s*</body>', r'\\1</body>', html_content, flags=re.DOTALL)
 
 # Fix image paths for HTML in read_version/ folder
 html_content = html_content.replace('src="Pictures/', 'src="../Pictures/')
@@ -105,7 +113,7 @@ full_html = f"""
 
 # Save HTML file
 
-with open('read_version/journey.html', 'w', encoding='utf-8') as f:
+with open('tools/journey.html', 'w', encoding='utf-8') as f:
 	f.write(full_html)
 
 print("HTML regenerated with JPG images")
