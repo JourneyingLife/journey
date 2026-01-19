@@ -1,7 +1,9 @@
 # JOURNEY
+**Disclaimer:**
+This is a work of fiction. Names, characters, places, events, and incidents are products of the author's imagination or are used fictitiously. Any resemblance to actual persons, living or dead, or actual events is purely coincidental. Scientific references and concepts are included solely to enhance the narrative and do not represent real probabilities or predictions. The story is intended for entertainment and creative exploration only.
 ## *A Tale Across Time and Space*
-**Author:** kamalakannanv68-source  
-**Source:** https://github.com/kamalakannanv68-source/journey  
+**Author:** Kamalakannan Vasavaiah and friends  
+**Source:** https://github.com/JourneyingLife/journey  
 *This novel was created with the assistance of AI tools: GitHub Copilot (connected to Claude Sonnet 4.5 for narrative development) and illustrations generated via OpenAI ChatGPT 5.2.*
 
 ---
