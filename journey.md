@@ -75,7 +75,7 @@ At dawn, a crew embarked on their descent toward the ancient archive. The team c
 Descending past the third mile, they caught their first glimpse of Linga rock.
 
 Pilot Tory peered through binoculars, reading the inscription aloud: "Change of magnetic flux passing through closed circuits produces electricity." The central beam and orbiting disks constituted the anatomy of the generator, while the current flowed like a serpent through its core.
-
+Pilot Tory peered through binoculars, reading the inscription aloud: "Change of magnetic flux passing through closed circuits produces electricity." The central beam and orbiting disks constituted the anatomy of the Power matrix, while the current flowed like a serpent through its core.
 Drawing closer, the seafloor blazed luminous despite the crushing depth. The gods had forged these structures in gold, ensuring they would resist erosion across countless millennia.
 
 The species ship sculpture towered above them, depicting The Lord Shepherd surrounded by every form of life. Ancient engineers had transported DNA capsules across light-years to seed this world.
