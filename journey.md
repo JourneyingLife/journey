@@ -4,7 +4,7 @@ This is a work of fiction. Names, characters, places, events, and incidents are 
 ## *A Tale Across Time and Space*
 **Author:** Kamalakannan Vasavaiah and friends  
 **Source:** https://github.com/JourneyingLife/journey  
-*This novel was created with the assistance of AI tools: GitHub Copilot (connected to Claude Sonnet 4.5 for narrative development) and illustrations generated via OpenAI ChatGPT 5.2.*
+*This novel was created with the assistance of AI tools: GitHub Copilot (connected to Claude Sonnet 4.5 for narrative development) and illustrations generated via OpenAI ChatGPT 5.2 and Sora.*
 
 ---
 
@@ -41,9 +41,9 @@ Chieftain Krish began the dire pronouncement. "Dear friends, our world is slowin
 
 The silence deepened as everyone knew what this meant.
 
-Krish continued. "The Gods seeded life here 200 million years ago, drawn by its optimal mix of elements and motions around the sun."
+Krish continued. "The Gods seeded life here 200 million years ago, drawn by the optimal mix of elements and motions around our sun."
 
-"But like those before us, we're sliding into tidal lock with our sun. Life will become impossible."
+"But like those before us, we're sliding into tidal lock with the ssun. Life will become impossible."
 
 Octopus chief Lee, speaking from his holiday retreat via teleview, cut to the point. "So our time here is running out. We've identified PL67 as our next home. We shall be preparing the species ship for endgame."
 
@@ -74,7 +74,7 @@ At dawn, a crew embarked on their descent toward the ancient archive. The team c
 
 Descending past the third mile, they caught their first glimpse of Linga rock.
 
-Pilot Tory peered through binoculars, reading the inscription aloud: "Change of magnetic flux passing through closed circuits produces electricity." The central beam and orbiting disks constituted the anatomy of the Power matrix, while the current flowed like a serpent through its core.
+Pilot Tory peered through binoculars, reading the inscription aloud: "Change of magnetic flux passing through closed circuits produces electricity." The central beam and orbiting disks constituted the anatomy of the generator, while the current flowed like a serpent through its core.
 
 Drawing closer, the seafloor blazed luminous despite the crushing depth. The gods had forged these structures in gold, ensuring they would resist erosion across countless millennia.
 
@@ -186,15 +186,16 @@ Lee expanded on the elemental framework.
 
 The sixth, **Destiny**, carries the blueprint of all other aspects to generate new existence. Tragically, early humans misinterpreted its depiction in the Mars Lord sculpture's hand as merely a weapon.
 
+The sixth, **Destiny**, carries the blueprint of the other five elements, enabling them to work together toward a common goal. Tragically, early humans misinterpreted its depiction in the Mars Lord sculpture's hand as merely a weapon.
+
 Nova, emboldened, posed an ambitious question. "If we understand life's elemental foundation, why can't we construct living organisms directly instead of machines?"
 
 Krish smiled knowingly. "Creating life remains nature's exclusive mystery. Living forms possess the most efficient motor system ever devised—powered by ATP (adenosine triphosphate) imploding into ADP (adenosine diphosphate), generating muscular contraction while channeling released heat into metabolism. We've never engineered anything approaching half that efficiency."
 
 ![Microscopic view of bionic machines evolving alongside organic DNA structures](Pictures/Evolved%20machine%20with%20evolving%20species.jpg)
 
-Nova's idea helped to seed the minimal machine in 67 and scheme its evolution alongside organic species. That was one step forward.
 
-*This novel was created with the assistance of AI tools: GitHub Copilot (connected to Claude Sonnet 4.5 for narrative development) and illustrations generated via OpenAI ChatGPT 5.2.*
+Nova's idea helped to seed the minimal machine in 67 and scheme its evolution alongside organic species. That was one step forward.
 
 ## CHAPTER 5: STRUGGLE OF THE LAST LIFE
 ### *Return to Wee's World*
@@ -218,7 +219,7 @@ Mary, the lead anthropologist, urged her forward despite these concerns. "Our ul
 
 ![Asteroids floating in space representing the remains of Jupiter 2's desperate attempt to survive](Pictures/Astroids%20from%20Venus2.jpg)
 
-Jupiter-2 had harbored life after Jupiter-1's demise, but survived only briefly. Without vessels to migrate elsewhere or nuclear reactors to contain fusion, they executed an exo-fusion—triggering a chain reaction that hurled their world into the cosmic void. The asteroids they left behind became hazards haunting subsequent civilizations throughout the solar system. Where those travelers ultimately arrived remains unknown.
+Jupiter-2 had harbored life after Jupiter-1's demise, but survived only briefly. Without sophisticated vessels that could be fueled with advanced nuclear reactors, they triggered a crude exo-fusion to hurl their primitive space shuttle into the cosmic void. The asteroids they left behind became hazards haunting subsequent civilizations throughout the solar system. Where those travelers ultimately arrived remains unknown.
 
 ---
 
