@@ -309,83 +309,57 @@ These studies explore how potassium-gated channels enable XOR logic operations i
 
 **Black Holes and Wormholes:**
 
-5. Hawking, S.W. (1974). "Black hole explosions?" *Nature*, 248(5443), 30-31. https://doi.org/10.1038/248030a0
 
-6. Morris, M.S., & Thorne, K.S. (1988). "Wormholes in spacetime and their use for interstellar travel: A tool for teaching general relativity." *American Journal of Physics*, 56(5), 395-412. https://doi.org/10.1119/1.15620
-
-7. Visser, M. (1995). *Lorentzian Wormholes: From Einstein to Hawking*. AIP Press. ISBN: 978-1563966538
-
-These foundational works explore theoretical physics of black holes and traversable wormholes as depicted in the novel's cosmic travel concepts.
+1. Zhorov, B.S., & Tikhonov, D.B. (2004). "Potassium, sodium, calcium and glutamate‐gated channels: pore architecture and ligand action." *Journal of Neurochemistry*, 88(4), 782-799. https://doi.org/10.1111/j.1471-4159.2004.02261.x
 
 ---
 
-**Large Language Models and AI Infrastructure:**
 
 8. Brown, T., Mann, B., Ryder, N., et al. (2020). "Language models are few-shot learners." *Advances in Neural Information Processing Systems*, 33, 1877-1901. https://arxiv.org/abs/2005.14165
 
-9. Kaplan, J., McCandlish, S., Henighan, T., et al. (2020). "Scaling laws for neural language models." *arXiv preprint* arXiv:2001.08361. https://arxiv.org/abs/2001.08361
 
-10. Patterson, D., Gonzalez, J., Le, Q., et al. (2021). "Carbon emissions and large neural network training." *arXiv preprint* arXiv:2104.10350. https://arxiv.org/abs/2104.10350
-
-These papers discuss the computational requirements, parameter scaling, and infrastructure needs for large language models referenced in Nova's challenge.
+2. Hawking, S.W. (1974). "Black hole explosions?" *Nature*, 248(5443), 30-31. https://doi.org/10.1038/248030a0
+3. Morris, M.S., & Thorne, K.S. (1988). "Wormholes in spacetime and their use for interstellar travel: A tool for teaching general relativity." *American Journal of Physics*, 56(5), 395-412. https://doi.org/10.1119/1.15620
 
 ---
 
-**DNA Preservation and Panspermia:**
 
 11. Crick, F.H., & Orgel, L.E. (1973). "Directed panspermia." *Icarus*, 19(3), 341-346. https://doi.org/10.1016/0019-1035(73)90110-3
 
-12. Wickramasinghe, C., & Napier, W. (2015). "Comets and the Origin of Life." *World Scientific*. https://doi.org/10.1142/9789814374552
 
-13. Tepfer, D., & Leach, S. (2017). "Survival of plant seeds, their UV screens, and nptII DNA for 18 months outside the International Space Station." *Astrobiology*, 17(3), 205-215. https://doi.org/10.1089/ast.2016.1549
-
-These works explore directed panspermia and DNA survival in space, fundamental to the species ship concept.
+4. Brown, T., Mann, B., Ryder, N., et al. (2020). "Language models are few-shot learners." *Advances in Neural Information Processing Systems*, 33, 1877-1901. https://arxiv.org/abs/2005.14165
 
 ---
 
-**Cellular Bioenergetics (ATP/ADP):**
 
 14. Mitchell, P. (1961). "Coupling of phosphorylation to electron and hydrogen transfer by a chemi-osmotic type of mechanism." *Nature*, 191(4784), 144-148. https://doi.org/10.1038/191144a0
 
-15. Boyer, P.D. (1997). "The ATP synthase—a splendid molecular machine." *Annual Review of Biochemistry*, 66(1), 717-749. https://doi.org/10.1146/annurev.biochem.66.1.717
 
-16. Kinosita, K., Yasuda, R., Noji, H., & Adachi, K. (2000). "A rotary molecular motor that can work at near 100% efficiency." *Philosophical Transactions of the Royal Society B*, 355(1396), 473-489. https://doi.org/10.1098/rstb.2000.0589
-
-These studies explain ATP's role as the cellular energy currency and the remarkable efficiency of biological motors discussed in the elemental framework.
+5. Crick, F.H., & Orgel, L.E. (1973). "Directed panspermia." *Icarus*, 19(3), 341-346. https://doi.org/10.1016/0019-1035(73)90110-3
 
 ---
 
-**Tidal Locking and Planetary Habitability:**
 
 17. Kasting, J.F., Whitmire, D.P., & Reynolds, R.T. (1993). "Habitable zones around main sequence stars." *Icarus*, 101(1), 108-128. https://doi.org/10.1006/icar.1993.1010
 
-18. Barnes, R., ed. (2010). *Formation and Evolution of Exoplanets*. Wiley-VCH. ISBN: 978-3527408962
 
-19. Yang, J., Cowan, N.B., & Abbot, D.S. (2013). "Stabilizing cloud feedback dramatically expands the habitable zone of tidally locked planets." *The Astrophysical Journal Letters*, 771(2), L45. https://doi.org/10.1088/2041-8205/771/2/L45
-
-These papers address tidal locking effects on planetary habitability, central to Venus-2's crisis.
+6. Mitchell, P. (1961). "Coupling of phosphorylation to electron and hydrogen transfer by a chemi-osmotic type of mechanism." *Nature*, 191(4784), 144-148. https://doi.org/10.1038/191144a0
 
 ---
 
-**Philosophy and Ancient Wisdom:**
 
 20. Capra, F. (1975). *The Tao of Physics*. Shambhala Publications. ISBN: 978-1590308356
 
-21. Chopra, D., & Kafatos, M.C. (2017). *You Are the Universe: Discovering Your Cosmic Self and Why It Matters*. Harmony Books. ISBN: 978-0307889362
 
-These works explore connections between ancient Eastern philosophy and modern physics, paralleling the novel's integration of the Dancing Lord with cosmic patterns.
-
----
+7. Kasting, J.F., Whitmire, D.P., & Reynolds, R.T. (1993). "Habitable zones around main sequence stars." *Icarus*, 101(1), 108-128. https://doi.org/10.1006/icar.1993.1010
 
 **Traditional Chinese Medicine and Five Element Theory:**
 
-24. Kaptchuk, T.J. (2000). *The Web That Has No Weaver: Understanding Chinese Medicine*. McGraw-Hill. ISBN: 978-0809228409
 
 25. Maciocia, G. (2015). *The Foundations of Chinese Medicine: A Comprehensive Text*. 3rd Edition. Elsevier Health Sciences. ISBN: 978-0702052163
 
-26. Connelly, D.M. (1994). *Traditional Acupuncture: The Law of the Five Elements*. 2nd Edition. Traditional Acupuncture Institute. ISBN: 978-0912381015
 
-27. Hicks, A., Hicks, J., & Mole, P. (2010). "Five Element Constitutional Acupuncture." *Churchill Livingstone*. ISBN: 978-0702031489
+8. Matesanz, R., Domínguez-Gil, B., Coll, E., et al. (2017). "Spanish experience as a leading country: what kind of measures were taken?" *Transplant International*, 24(4), 333-343. https://doi.org/10.1111/j.1432-2277.2011.01205.x
 
 These foundational texts explain the Five Element theory (Wu Xing) in Traditional Chinese Medicine, which associates elements with specific organs and emotional/physical attributes, directly informing the novel's elemental framework linking Fire to heart, Ground/Earth to stomach, Wood/Electricity to liver, Water to kidneys, and Metal/Air to lungs.
 
