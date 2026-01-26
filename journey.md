@@ -322,9 +322,9 @@ These references provide free, English background on ion channels and spiking ne
 
 **Cellular Energy, ATP, and Chemiosmosis:**
 
-1. Nobel Prize Outreach AB. "The Nobel Prize in Chemistry 1978" (Peter Mitchell; chemiosmotic theory). https://www.nobelprize.org/prizes/chemistry/1978/summary/
-2. OpenStax. *Biology 2e* (Cellular respiration / oxidative phosphorylation). https://openstax.org/details/books/biology-2e
-3. OpenStax. *Anatomy & Physiology 2e* (muscle contraction and ATP as the immediate energy source). https://openstax.org/details/books/anatomy-and-physiology-2e
+1. Mitchell, P. (1978). "David Keilin’s Respiratory Chain Concept and Its Chemiosmotic Consequences" (Nobel Lecture). https://www.nobelprize.org/prizes/chemistry/1978/mitchell/lecture/ (PDF: https://www.nobelprize.org/uploads/2018/06/mitchell-lecture.pdf)
+2. OpenStax. *Biology 2e* — "7.4 Oxidative Phosphorylation" (chemiosmosis, ATP synthase, ADP→ATP). https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation
+3. OpenStax. *Anatomy & Physiology 2e* — "10.3 Muscle Fiber Contraction and Relaxation" (ATP hydrolysis, ATP→ADP cross-bridge cycle). https://openstax.org/books/anatomy-and-physiology-2e/pages/10-3-muscle-fiber-contraction-and-relaxation
 
 ---
 
