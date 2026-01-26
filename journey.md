@@ -291,85 +291,66 @@ The images in this novel are placeholder demonstrations using via.placeholder.co
 
 ## REFERENCES
 
-### Scientific Studies Referenced
-
 **Neural Logic Gates and Potassium Channels:**
 
 1. Zhorov, B.S., & Tikhonov, D.B. (2004). "Potassium, sodium, calcium and glutamate‐gated channels: pore architecture and ligand action." *Journal of Neurochemistry*, 88(4), 782-799. https://doi.org/10.1111/j.1471-4159.2004.02261.x
-
 2. Radak, J. (2025). "Solving the XOR Problem Using a Spiking Neural Network." University of Split Repository. https://dabar.srce.hr/object/pmfst:2147
-
 3. Harikesh, P.C., Gao, D., Wu, H.Y., Yang, C.Y., Tu, D., et al. (2025). "Single organic electrochemical neuron capable of anticoincidence detection." *Science Advances*. https://doi.org/10.1126/sciadv.adv3194
-
 4. Reljan-Delaney, M., & Wall, J. (2017). "Solving the linearly inseparable XOR problem with spiking neural networks." *2017 Computing Conference*, IEEE. https://doi.org/10.23919/IConAC.2017.8082068
 
-These studies explore how potassium-gated channels enable XOR logic operations in neurons, forming the scientific basis for the neural enhancement concepts depicted in the novel.
+These studies explore how ion channels and spiking dynamics can support XOR-like logic, forming the scientific inspiration for the neural enhancement concepts depicted in the novel.
 
 ---
 
 **Black Holes and Wormholes:**
 
-
-1. Zhorov, B.S., & Tikhonov, D.B. (2004). "Potassium, sodium, calcium and glutamate‐gated channels: pore architecture and ligand action." *Journal of Neurochemistry*, 88(4), 782-799. https://doi.org/10.1111/j.1471-4159.2004.02261.x
-
----
-
-
-8. Brown, T., Mann, B., Ryder, N., et al. (2020). "Language models are few-shot learners." *Advances in Neural Information Processing Systems*, 33, 1877-1901. https://arxiv.org/abs/2005.14165
-
-
-2. Hawking, S.W. (1974). "Black hole explosions?" *Nature*, 248(5443), 30-31. https://doi.org/10.1038/248030a0
-3. Morris, M.S., & Thorne, K.S. (1988). "Wormholes in spacetime and their use for interstellar travel: A tool for teaching general relativity." *American Journal of Physics*, 56(5), 395-412. https://doi.org/10.1119/1.15620
+1. Hawking, S.W. (1974). "Black hole explosions?" *Nature*, 248(5443), 30-31. https://doi.org/10.1038/248030a0
+2. Morris, M.S., & Thorne, K.S. (1988). "Wormholes in spacetime and their use for interstellar travel: A tool for teaching general relativity." *American Journal of Physics*, 56(5), 395-412. https://doi.org/10.1119/1.15620
 
 ---
 
+**Large Language Models:**
 
-11. Crick, F.H., & Orgel, L.E. (1973). "Directed panspermia." *Icarus*, 19(3), 341-346. https://doi.org/10.1016/0019-1035(73)90110-3
-
-
-4. Brown, T., Mann, B., Ryder, N., et al. (2020). "Language models are few-shot learners." *Advances in Neural Information Processing Systems*, 33, 1877-1901. https://arxiv.org/abs/2005.14165
+1. Brown, T., Mann, B., Ryder, N., et al. (2020). "Language models are few-shot learners." *Advances in Neural Information Processing Systems*, 33, 1877-1901. https://arxiv.org/abs/2005.14165
 
 ---
 
+**Directed Panspermia:**
 
-14. Mitchell, P. (1961). "Coupling of phosphorylation to electron and hydrogen transfer by a chemi-osmotic type of mechanism." *Nature*, 191(4784), 144-148. https://doi.org/10.1038/191144a0
-
-
-5. Crick, F.H., & Orgel, L.E. (1973). "Directed panspermia." *Icarus*, 19(3), 341-346. https://doi.org/10.1016/0019-1035(73)90110-3
+1. Crick, F.H., & Orgel, L.E. (1973). "Directed panspermia." *Icarus*, 19(3), 341-346. https://doi.org/10.1016/0019-1035(73)90110-3
 
 ---
 
+**Cellular Energy and Chemiosmosis (ATP):**
 
-17. Kasting, J.F., Whitmire, D.P., & Reynolds, R.T. (1993). "Habitable zones around main sequence stars." *Icarus*, 101(1), 108-128. https://doi.org/10.1006/icar.1993.1010
-
-
-6. Mitchell, P. (1961). "Coupling of phosphorylation to electron and hydrogen transfer by a chemi-osmotic type of mechanism." *Nature*, 191(4784), 144-148. https://doi.org/10.1038/191144a0
+1. Mitchell, P. (1961). "Coupling of phosphorylation to electron and hydrogen transfer by a chemi-osmotic type of mechanism." *Nature*, 191(4784), 144-148. https://doi.org/10.1038/191144a0
 
 ---
 
+**Habitable Zones and Planetary Habitability:**
 
-20. Capra, F. (1975). *The Tao of Physics*. Shambhala Publications. ISBN: 978-1590308356
+1. Kasting, J.F., Whitmire, D.P., & Reynolds, R.T. (1993). "Habitable zones around main sequence stars." *Icarus*, 101(1), 108-128. https://doi.org/10.1006/icar.1993.1010
 
+---
 
-7. Kasting, J.F., Whitmire, D.P., & Reynolds, R.T. (1993). "Habitable zones around main sequence stars." *Icarus*, 101(1), 108-128. https://doi.org/10.1006/icar.1993.1010
+**Science, Philosophy, and Spiritual Metaphor (Inspiration):**
+
+1. Capra, F. (1975). *The Tao of Physics*. Shambhala Publications. ISBN: 978-1590308356
+
+---
 
 **Traditional Chinese Medicine and Five Element Theory:**
 
+1. Maciocia, G. (2015). *The Foundations of Chinese Medicine: A Comprehensive Text*. 3rd Edition. Elsevier Health Sciences. ISBN: 978-0702052163
 
-25. Maciocia, G. (2015). *The Foundations of Chinese Medicine: A Comprehensive Text*. 3rd Edition. Elsevier Health Sciences. ISBN: 978-0702052163
-
-
-8. Matesanz, R., Domínguez-Gil, B., Coll, E., et al. (2017). "Spanish experience as a leading country: what kind of measures were taken?" *Transplant International*, 24(4), 333-343. https://doi.org/10.1111/j.1432-2277.2011.01205.x
-
-These foundational texts explain the Five Element theory (Wu Xing) in Traditional Chinese Medicine, which associates elements with specific organs and emotional/physical attributes, directly informing the novel's elemental framework linking Fire to heart, Ground/Earth to stomach, Wood/Electricity to liver, Water to kidneys, and Metal/Air to lungs.
+These texts summarize the Five Element theory (Wu Xing) used as inspiration for the novel's elemental framework.
 
 ---
 
 **Organ Transplantation and Global Collaboration:**
 
-22. Matesanz, R., Domínguez-Gil, B., Coll, E., et al. (2017). "Spanish experience as a leading country: what kind of measures were taken?" *Transplant International*, 24(4), 333-343. https://doi.org/10.1111/j.1432-2277.2011.01205.x
-
-23. WHO Global Observatory on Donation and Transplantation. (2023). "International Report on Organ Donation and Transplantation Activities." https://www.transplant-observatory.org
+1. Matesanz, R., Domínguez-Gil, B., Coll, E., et al. (2017). "Spanish experience as a leading country: what kind of measures were taken?" *Transplant International*, 24(4), 333-343. https://doi.org/10.1111/j.1432-2277.2011.01205.x
+2. WHO Global Observatory on Donation and Transplantation. (2023). "International Report on Organ Donation and Transplantation Activities." https://www.transplant-observatory.org
 
 These sources inform the Global Organ Collaboration Network depicted in the Gandhian Revolution section.
 
