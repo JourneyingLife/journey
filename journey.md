@@ -291,21 +291,20 @@ The images in this novel are placeholder demonstrations using via.placeholder.co
 
 ## REFERENCES
 
-**Neural Logic Gates and Potassium Channels:**
+**Neuroscience and Ion Channels (Inspiration for Neural Computation):**
 
-1. Zhorov, B.S., & Tikhonov, D.B. (2004). "Potassium, sodium, calcium and glutamate‐gated channels: pore architecture and ligand action." *Journal of Neurochemistry*, 88(4), 782-799. https://doi.org/10.1111/j.1471-4159.2004.02261.x
-2. Radak, J. (2025). "Solving the XOR Problem Using a Spiking Neural Network." University of Split Repository. https://dabar.srce.hr/object/pmfst:2147
-3. Harikesh, P.C., Gao, D., Wu, H.Y., Yang, C.Y., Tu, D., et al. (2025). "Single organic electrochemical neuron capable of anticoincidence detection." *Science Advances*. https://doi.org/10.1126/sciadv.adv3194
-4. Reljan-Delaney, M., & Wall, J. (2017). "Solving the linearly inseparable XOR problem with spiking neural networks." *2017 Computing Conference*, IEEE. https://doi.org/10.23919/IConAC.2017.8082068
+1. OpenStax. *Anatomy & Physiology 2e* (nervous tissue, membrane potential, ion channels, action potentials). https://openstax.org/details/books/anatomy-and-physiology-2e
+2. Harikesh, P.C., Gao, D., Wu, H.Y., Yang, C.Y., Tu, D., et al. (2025). "Single organic electrochemical neuron capable of anticoincidence detection." *Science Advances* (open access). https://doi.org/10.1126/sciadv.adv3194
+3. Bellec, G., Salaj, D., Subramoney, A., Legenstein, R., & Maass, W. (2018). "Long short-term memory and learning-to-learn in networks of spiking neurons." arXiv:1803.09574. https://arxiv.org/abs/1803.09574
 
-These studies explore how ion channels and spiking dynamics can support XOR-like logic, forming the scientific inspiration for the neural enhancement concepts depicted in the novel.
+These references provide free, English background on ion channels and spiking neural computation that inspired the novel's neural enhancement concepts.
 
 ---
 
-**Black Holes and Wormholes:**
+**Black Holes, Hawking Radiation, and Wormholes (Background):**
 
-1. Hawking, S.W. (1974). "Black hole explosions?" *Nature*, 248(5443), 30-31. https://doi.org/10.1038/248030a0
-2. Morris, M.S., & Thorne, K.S. (1988). "Wormholes in spacetime and their use for interstellar travel: A tool for teaching general relativity." *American Journal of Physics*, 56(5), 395-412. https://doi.org/10.1119/1.15620
+1. NASA Science. "Black Holes." https://science.nasa.gov/universe/black-holes/
+2. Lobo, F.S.N. (2007). "Exotic solutions in General Relativity: Traversable wormholes and warp drive spacetimes." arXiv:0710.4474. https://arxiv.org/abs/0710.4474
 
 ---
 
@@ -315,42 +314,40 @@ These studies explore how ion channels and spiking dynamics can support XOR-like
 
 ---
 
-**Directed Panspermia:**
+**Panspermia / Seeding Life (Speculative Context):**
 
-1. Crick, F.H., & Orgel, L.E. (1973). "Directed panspermia." *Icarus*, 19(3), 341-346. https://doi.org/10.1016/0019-1035(73)90110-3
+1. Wikipedia contributors. "Panspermia." https://en.wikipedia.org/wiki/Panspermia
 
 ---
 
-**Cellular Energy and Chemiosmosis (ATP):**
+**Cellular Energy, ATP, and Chemiosmosis:**
 
-1. Mitchell, P. (1961). "Coupling of phosphorylation to electron and hydrogen transfer by a chemi-osmotic type of mechanism." *Nature*, 191(4784), 144-148. https://doi.org/10.1038/191144a0
+1. Nobel Prize Outreach AB. "The Nobel Prize in Chemistry 1978" (Peter Mitchell; chemiosmotic theory). https://www.nobelprize.org/prizes/chemistry/1978/summary/
+2. OpenStax. *Biology 2e* (Cellular respiration / oxidative phosphorylation). https://openstax.org/details/books/biology-2e
+3. OpenStax. *Anatomy & Physiology 2e* (muscle contraction and ATP as the immediate energy source). https://openstax.org/details/books/anatomy-and-physiology-2e
 
 ---
 
 **Habitable Zones and Planetary Habitability:**
 
-1. Kasting, J.F., Whitmire, D.P., & Reynolds, R.T. (1993). "Habitable zones around main sequence stars." *Icarus*, 101(1), 108-128. https://doi.org/10.1006/icar.1993.1010
-
----
-
-**Science, Philosophy, and Spiritual Metaphor (Inspiration):**
-
-1. Capra, F. (1975). *The Tao of Physics*. Shambhala Publications. ISBN: 978-1590308356
+1. NASA Exoplanet Exploration. "Habitable Zone." https://exoplanets.nasa.gov/what-is-an-exoplanet/habitable-zone/
+2. Kopparapu, R.K., Ramirez, R., Kasting, J.F., et al. (2013). "Habitable Zones around Main-sequence Stars: New Estimates." arXiv:1301.6674. https://arxiv.org/abs/1301.6674
 
 ---
 
 **Traditional Chinese Medicine and Five Element Theory:**
 
-1. Maciocia, G. (2015). *The Foundations of Chinese Medicine: A Comprehensive Text*. 3rd Edition. Elsevier Health Sciences. ISBN: 978-0702052163
+1. National Center for Complementary and Integrative Health (NCCIH). "Traditional Chinese Medicine: What You Need To Know." https://www.nccih.nih.gov/health/traditional-chinese-medicine-what-you-need-to-know
+2. Wikipedia contributors. "Wuxing (Chinese philosophy)." https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)
 
-These texts summarize the Five Element theory (Wu Xing) used as inspiration for the novel's elemental framework.
+These English, free references summarize Five Element theory (Wu Xing) used as inspiration for the novel's elemental framework.
 
 ---
 
 **Organ Transplantation and Global Collaboration:**
 
-1. Matesanz, R., Domínguez-Gil, B., Coll, E., et al. (2017). "Spanish experience as a leading country: what kind of measures were taken?" *Transplant International*, 24(4), 333-343. https://doi.org/10.1111/j.1432-2277.2011.01205.x
-2. WHO Global Observatory on Donation and Transplantation. (2023). "International Report on Organ Donation and Transplantation Activities." https://www.transplant-observatory.org
+1. WHO Global Observatory on Donation and Transplantation. (2023). "International Report on Organ Donation and Transplantation Activities." https://www.transplant-observatory.org
+2. World Health Organization (WHO). "Organ donation and transplantation" (overview and guidance). https://www.who.int/health-topics/transplantation
 
 These sources inform the Global Organ Collaboration Network depicted in the Gandhian Revolution section.
 
