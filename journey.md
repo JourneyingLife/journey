@@ -147,6 +147,8 @@ This metamorphosis—the elevation of noble action above military dominance—be
 
 Daisy took the last breath to say, "Go find a friendly wormhole to send your species ship through".
 
+---
+
 Before going into eternal peace she quipped, "make the scriptures layman-readable. Half-baked knowledge breeds holy wars—they'll slaughter each other in the name of Gods for centuries." Her ancient eyes dimmed, reflecting Earth's blood-soaked history preserved in Journey's archives. "Those surface dwellers nearly annihilated themselves before grasping that honor flows from service, not savagery. It took them ages to comprehend that today's enemy might return as tomorrow's child—all beings recycled from the same six elements, dancing through infinite cycles."
 
 She paused, voice barely a whisper. "Why? Because the same cosmic scripts their predecessors sent were received at different geographies across Earth. Each region interpreted them through their own lens. They kept building shrines, studying them separately for centuries, each convinced their interpretation revealed the 'true' God. Then few researchers noticed the pattern in the cosmic codes. Every deity pointed to the same universal constants—identical mathematics, same truths. They'd been fragmenting what was always whole. The wars only stopped when they realized they'd been fighting over different translations of the same message. Cost them millions of lives to learn what should have been clear from the start."
