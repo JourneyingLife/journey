@@ -106,9 +106,9 @@ The dying turtle Daisy brought up all her might to explain the coding in The Dan
 
 ![Abstract visualization of the universe showing planetary orbits mirroring subatomic particle orbits in a fractal pattern](Pictures/Blackholes%20and%20Wormholes.jpg)
 
-Mars researchers pursued a fundamental mystery: how larger celestial bodies attracted smaller ones without visible tethers. They theorized gravity resulted from asymmetric collisions—free-moving masses creating higher pressure on far-side surfaces. Yet the composition of these masses remained enigmatic. While light traveled an astonishing three hundred million meters per second, cosmic bodies just drifted.
+Solar planet dwellers pursued a fundamental mystery: how larger celestial bodies attracted smaller ones without visible tethers. They theorized gravity resulted from asymmetric collisions—free-moving masses creating higher pressure on far-side surfaces. Yet the composition of these masses remained enigmatic. While light traveled an astonishing three hundred million meters per second, cosmic bodies just drifted.
 
-Many eras later, Earth's greatest minds debated the universe's origin. They observed cosmos exhibiting recursive patterns—solar planetary orbits mirroring subatomic particle trajectories.
+Many eras later, Mars's greatest minds debated the universe's origin. They observed cosmos exhibiting recursive patterns—solar planetary orbits mirroring subatomic particle trajectories.
 
 They concluded that shapes and motion were merely impressions perceived by conscious beings. The universe appeared to be an endlessly recurring microcosmic pattern, as The Dancing Deity depicted—with ripples propagating omnidirectionally, generating the illusion of form and movement across higher dimensions. This theory elegantly explained both black holes and wormholes: black holes materialized at ripple collapse points, while wormholes formed along the pathways these distortions carved through spacetime, reemerging in alternate dimensions and cosmic geographies.
 
@@ -122,7 +122,7 @@ Earth's scholars institutionalized cosmic studies at Chidambaram, creating a mic
 
 ![Diverse leaders from different nations gathering around a holographic display showing interconnected people across continents, with weapons being dismantled in the background](Pictures/Children%20of%20free%20world.jpg)
 
-But the Earth Gods' greatest triumph wasn't understanding the cosmos—it was transcending their own nature through centuries of bloodshed.
+But the Earth Gods' greatest triumph wasn't understanding the cosmos as preserved in ancestral scripts—it was transcending their own nature through centuries of bloodshed.
 
 For millennia, Earth's kingdoms had waged brutal competition, each projecting supremacy through arsenals capable of obliterating continents. Nuclear warheads promised total extinction. Chemical agents threatened to poison entire generations. The arms race had devolved into a suicidal sprint.
 
@@ -147,9 +147,9 @@ This metamorphosis—the elevation of noble action above military dominance—be
 
 Daisy took the last breath to say, "Go find a friendly wormhole to send your species ship through".
 
-Before going into eternal peace she quipped, "make the scriptures layman readable. Half-baked knowledge breeds holy wars—they'll slaughter each other in the name of Gods for centuries." Her ancient eyes dimmed, reflecting Earth's blood-soaked history preserved in Journey's archives. "Those surface dwellers nearly annihilated themselves before grasping that honor flows from service, not savagery. It took them ages to comprehend that today's enemy might return as tomorrow's child—all beings recycled from the same six elements, dancing through infinite cycles."
+Before going into eternal peace she quipped, "make the scriptures layman-readable. Half-baked knowledge breeds holy wars—they'll slaughter each other in the name of Gods for centuries." Her ancient eyes dimmed, reflecting Earth's blood-soaked history preserved in Journey's archives. "Those surface dwellers nearly annihilated themselves before grasping that honor flows from service, not savagery. It took them ages to comprehend that today's enemy might return as tomorrow's child—all beings recycled from the same six elements, dancing through infinite cycles."
 
-She paused, her voice dropping to barely a whisper. "Here's what took them longest to see: The Prophet, the Buddha, the Dancing Lord, the Shepherd—they kept building shrines to each, studying them separately for centuries. Then one researcher noticed the pattern in the cosmic codes. Every deity pointed to the same universal constants, just expressed through different cultural lenses. The mathematics was identical. They'd been fragmenting what was always whole." Her breathing grew shallow. "The wars only stopped when they realized they'd been fighting over different names for the same thing. Cost them millions of lives to learn what should have been clear from the start."
+She paused, her voice dropping to barely a whisper. "Here's what took them longest to see: The same cosmic scripts their predecessors sent were received at different geographies across Earth. Each region interpreted them through their own lens. They kept building shrines, studying them separately for centuries, each convinced their interpretation revealed the 'true' God. Then few researchers noticed the pattern in the cosmic codes. Every deity pointed to the same universal constants—identical mathematics, same truths. They'd been fragmenting what was always whole." Her breathing grew shallow. "The wars only stopped when they realized they'd been fighting over different translations of the same message. Cost them millions of lives to learn what should have been clear from the start."
 
 ![Biologists examining holographic DNA strands while space engineers study wormhole trajectories on massive displays](Pictures/DNA%20strands%20and%20%20wormhole%20trajectories.jpg)
 
