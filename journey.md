@@ -1,6 +1,6 @@
 # JOURNEY
 **Disclaimer:**
-This is a work of fiction. Names, characters, places, events, and incidents are products of the author's imagination or are used fictitiously. Any resemblance to actual persons, living or dead, or actual events is purely coincidental. Scientific references and concepts are included solely to enhance the narrative and do not represent real probabilities or predictions. The story is intended for entertainment and creative exploration only.
+This is a work of fiction. Names, characters, places, events, and incidents are products of the author's imagination or are used fictitiously. Any resemblance to actual persons, living or dead, or actual events is purely coincidental. The story is intended for entertainment and creative exploration only.
 ## *A Tale Across Time and Space*
 **Author:** Kamalakannan Vasavaiah and friends  
 **Source:** https://github.com/JourneyingLife/journey  
@@ -14,7 +14,7 @@ This is a work of fiction. Names, characters, places, events, and incidents are 
 
 ![The last planet approaching Phoenix Cluster](Pictures/PL67.jpg)
 
-Wee sensed an approaching apocalypse in his bones. The sky flickered constantly, hurling fireballs toward a horizon where something vast devoured everything that ventured near. His tribe, the most advanced species on their planet, still ignored these omens.
+Wee sensed an approaching apocalypse. The sky flickered constantly, hurling fireballs toward a horizon where something vast devoured everything that ventured near. His tribe, the most advanced species on their planet, still ignored these omens.
 
 At sixteen, Wee disappointed his mother. While his cousins struck at prey at first sight, Wee had to clear a why before swinging his flint. That pause branded him a loser among his peers, except a handful who knew he could craft weapons that fell beasts of any size.
 
