@@ -263,15 +263,22 @@ This story explores the concept of "Reverse Gods" - beings from the future who a
 
 ## GLOSSARY
 
-**XOR logic gates**: Exclusive-or operations that enable 'yes-but-not-both'. A result is true only when one condition is true and the other is not—the kind of distinction that allows complex reasoning. Early marine brains, like those of most animals, ran on sodium-based circuitry and lacked the potassium-based networks that support XOR. Earth scientists later calibrated potassium channel thresholds so even non-primate neurons could perform anticoincidence detection and XOR operations.
+Each note below belongs to a line in the story. The references at the end open the same idea.
 
-**Gravity (asymmetric collisions)**: One theory in the story holds that gravity forms when free-moving masses strike a body more on its far side than on the near sides facing each other, raising pressure on the far-side surfaces.
+**XOR logic gates**: Exclusive-or operations that enable 'yes-but-not-both'. A result is true only when one condition is true and the other is not—the kind of distinction that allows complex reasoning. Early marine brains, like those of most animals, ran on sodium-based circuitry and lacked the potassium-based networks that support XOR. Earth scientists later calibrated potassium channel thresholds so even non-primate neurons could perform anticoincidence detection and XOR operations.  
+*In the story:* "Earth scientists had enhanced the empathy pathways in dolphins and octopuses, bridging a gap that once kept marine minds from complex reasoning."
 
-**Large language models**: The thinking machines Nova first imagined. In her era a typical model used about 70 billion parameters, 140 GB of GPU memory, 4 GPUs per instance, and 50 kW per serving cluster—too much mass and power to ship dormant across several million years.
+**Gravity (asymmetric collisions)**: One theory in the story holds that gravity forms when free-moving masses strike a body more on its far side than on the near sides facing each other, raising pressure on the far-side surfaces.  
+*In the story:* "They still could not say what pulled world toward world."
 
-**The six elements**: Fire (passion, heart; about seventy beats a minute). Ground (stability, stomach; food broken into the energy the body spends). Air (freedom, lungs; about twenty thousand breaths a day). Water (adaptability, kidneys; about two hundred liters of blood filtered daily). Electricity (love and nerve signals; sky in ancient Indian scripts, wood in Chinese scripts; the liver running hundreds of transformations at once). Destiny carrier (the blueprint of new life, depicted as the Vel in the hands of Mars Lord Muruga, the enlightener of the sixth).
+**Large language models**: The thinking machines Nova first imagined. In her era a typical model used about 70 billion parameters, 140 GB of GPU memory, 4 GPUs per instance, and 50 kW per serving cluster—too much mass and power to ship dormant across several million years.  
+*In the story:* "Those machines were too heavy to ship and keep asleep across several millions of years."
 
-**ATP / ADP**: ATP (adenosine triphosphate) is the energy currency of living cells. When ATP implodes into ADP (adenosine diphosphate), it releases energy that powers muscular contraction while the leftover heat feeds metabolism. This is the motor Krish says no machine has matched.
+**The six elements**: Fire (passion, heart; about seventy beats a minute). Ground (stability, stomach; food broken into the energy the body spends). Air (freedom, lungs; about twenty thousand breaths a day). Water (adaptability, kidneys; about two hundred liters of blood filtered daily). Electricity (love and nerve signals; sky in ancient Indian scripts, wood in Chinese scripts; the liver running hundreds of transformations at once). Destiny carrier (the blueprint of new life, depicted as the Vel in the hands of Mars Lord Muruga, the enlightener of the sixth).  
+*In the story:* "Fire in the heart. Ground in the stomach. Air in the lungs. Water in the kidneys."
+
+**ATP / ADP**: ATP (adenosine triphosphate) is the energy currency of living cells. When ATP implodes into ADP (adenosine diphosphate), it releases energy that powers muscular contraction while the leftover heat feeds metabolism. This is the motor Krish says no machine has matched.  
+*In the story:* "Living forms possess the most efficient motor system ever devised."
 
 ---
 
@@ -298,65 +305,96 @@ The images in this novel were generated with OpenAI ChatGPT 5.2 and Sora to matc
 
 ## REFERENCES
 
-**Neuroscience and Ion Channels (Inspiration for Neural Computation):**
+Each source sits under a line from the story. The science is background for that line, not a proof of it.
+
+**Chapter 1 — dolphins and octopuses thinking together**
+
+*"Earth scientists had enhanced the empathy pathways in dolphins and octopuses, bridging a gap that once kept marine minds from complex reasoning."*
+
+Neuroscience and ion channels:
 
 1. OpenStax. *Anatomy & Physiology 2e* (nervous tissue, membrane potential, ion channels, action potentials). https://openstax.org/details/books/anatomy-and-physiology-2e
 2. Harikesh, P.C., Gao, D., Wu, H.Y., Yang, C.Y., Tu, D., et al. (2025). "Single organic electrochemical neuron capable of anticoincidence detection." *Science Advances* (open access). https://doi.org/10.1126/sciadv.adv3194
 3. Bellec, G., Salaj, D., Subramoney, A., Legenstein, R., & Maass, W. (2018). "Long short-term memory and learning-to-learn in networks of spiking neurons." arXiv:1803.09574. https://arxiv.org/abs/1803.09574
 
-These references provide free, English background on ion channels and spiking neural computation that inspired the novel's neural enhancement concepts.
-
 ---
 
-**Black Holes, Hawking Radiation, and Wormholes (Background):**
+**Chapter 1 — why this world was seeded, and why it is dying**
 
-1. NASA Science. "Black Holes." https://science.nasa.gov/universe/black-holes/
-2. Lobo, F.S.N. (2007). "Exotic solutions in General Relativity: Traversable wormholes and warp drive spacetimes." arXiv:0710.4474. https://arxiv.org/abs/0710.4474
+*"The Gods seeded life here 200 million years ago, drawn by the optimal mix of elements and motions around our sun."*  
+*"But like those before us, we're sliding into tidal lock with the sun."*
 
----
-
-**Large Language Models:**
-
-1. Brown, T., Mann, B., Ryder, N., et al. (2020). "Language models are few-shot learners." *Advances in Neural Information Processing Systems*, 33, 1877-1901. https://arxiv.org/abs/2005.14165
-
----
-
-**Panspermia / Seeding Life (Speculative Context):**
-
-1. Wikipedia contributors. "Panspermia." https://en.wikipedia.org/wiki/Panspermia
-
----
-
-**Cellular Energy, ATP, and Chemiosmosis:**
-
-1. Mitchell, P. (1978). "David Keilin’s Respiratory Chain Concept and Its Chemiosmotic Consequences" (Nobel Lecture). https://www.nobelprize.org/prizes/chemistry/1978/mitchell/lecture/ (PDF: https://www.nobelprize.org/uploads/2018/06/mitchell-lecture.pdf)
-2. OpenStax. *Biology 2e* — "7.4 Oxidative Phosphorylation" (chemiosmosis, ATP synthase, ADP→ATP). https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation
-3. OpenStax. *Anatomy & Physiology 2e* — "10.3 Muscle Fiber Contraction and Relaxation" (ATP hydrolysis, ATP→ADP cross-bridge cycle). https://openstax.org/books/anatomy-and-physiology-2e/pages/10-3-muscle-fiber-contraction-and-relaxation
-
----
-
-**Habitable Zones and Planetary Habitability:**
+Habitable zones and planetary habitability:
 
 1. NASA Exoplanet Exploration. "Habitable Zone." https://exoplanets.nasa.gov/what-is-an-exoplanet/habitable-zone/
 2. Kopparapu, R.K., Ramirez, R., Kasting, J.F., et al. (2013). "Habitable Zones around Main-sequence Stars: New Estimates." arXiv:1301.6674. https://arxiv.org/abs/1301.6674
 
 ---
 
-**Traditional Chinese Medicine and Five Element Theory:**
+**Chapter 2 — DNA carried across the stars**
 
-1. National Center for Complementary and Integrative Health (NCCIH). "Traditional Chinese Medicine: What You Need To Know." https://www.nccih.nih.gov/health/traditional-chinese-medicine-what-you-need-to-know
-2. Wikipedia contributors. "Wuxing (Chinese philosophy)." https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)
+*"Ancient engineers had transported DNA capsules across light-years to seed their world."*
 
-These English, free references summarize Five Element theory (Wu Xing) used as inspiration for the novel's elemental framework.
+Panspermia / seeding life:
+
+1. Wikipedia contributors. "Panspermia." https://en.wikipedia.org/wiki/Panspermia
 
 ---
 
-**Organ Transplantation and Global Collaboration:**
+**Chapter 3 — Phoenix, black holes, and a friendly wormhole**
+
+*"Go find a friendly wormhole to send your Species Ship through."*  
+*"Black holes materialized at ripple collapse points."*
+
+Black holes and wormholes:
+
+1. NASA Science. "Black Holes." https://science.nasa.gov/universe/black-holes/
+2. Lobo, F.S.N. (2007). "Exotic solutions in General Relativity: Traversable wormholes and warp drive spacetimes." arXiv:0710.4474. https://arxiv.org/abs/0710.4474
+
+---
+
+**Chapter 3 — the soldier's heart**
+
+*"Her match came from a soldier of the 'enemy' nation who had fallen shielding civilians."*  
+*"How do you despise the people whose gift gave your daughter another sunrise?"*
+
+Organ transplantation:
 
 1. WHO Global Observatory on Donation and Transplantation. (2023). "International Report on Organ Donation and Transplantation Activities." https://www.transplant-observatory.org
 2. World Health Organization (WHO). "Organ donation and transplantation" (overview and guidance). https://www.who.int/health-topics/transplantation
 
-These sources inform the Global Organ Collaboration Network depicted in the Gandhian Revolution section.
+---
+
+**Chapter 4 — machines too heavy to sleep through evolution**
+
+*"Those machines were too heavy to ship and keep asleep across several millions of years."*
+
+Large language models:
+
+1. Brown, T., Mann, B., Ryder, N., et al. (2020). "Language models are few-shot learners." *Advances in Neural Information Processing Systems*, 33, 1877-1901. https://arxiv.org/abs/2005.14165
+
+---
+
+**Chapter 4 — the six elements and the Destiny carrier**
+
+*"Fire in the heart. Ground in the stomach. Air in the lungs. Water in the kidneys. Electricity—sky in the old Indian scripts, wood in the Chinese—working through the liver."*
+
+Five Element theory:
+
+1. National Center for Complementary and Integrative Health (NCCIH). "Traditional Chinese Medicine: What You Need To Know." https://www.nccih.nih.gov/health/traditional-chinese-medicine-what-you-need-to-know
+2. Wikipedia contributors. "Wuxing (Chinese philosophy)." https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)
+
+---
+
+**Chapter 4 — life as the motor no machine has matched**
+
+*"Creating life remains nature's exclusive mystery. Living forms possess the most efficient motor system ever devised."*
+
+Cellular energy, ATP, and chemiosmosis:
+
+1. Mitchell, P. (1978). "David Keilin’s Respiratory Chain Concept and Its Chemiosmotic Consequences" (Nobel Lecture). https://www.nobelprize.org/prizes/chemistry/1978/mitchell/lecture/ (PDF: https://www.nobelprize.org/uploads/2018/06/mitchell-lecture.pdf)
+2. OpenStax. *Biology 2e* — "7.4 Oxidative Phosphorylation" (chemiosmosis, ATP synthase, ADP→ATP). https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation
+3. OpenStax. *Anatomy & Physiology 2e* — "10.3 Muscle Fiber Contraction and Relaxation" (ATP hydrolysis, ATP→ADP cross-bridge cycle). https://openstax.org/books/anatomy-and-physiology-2e/pages/10-3-muscle-fiber-contraction-and-relaxation
 
 ---
 
