@@ -114,10 +114,6 @@ They concluded that shapes and motion were merely impressions perceived by consc
 
 The puzzle of how the universe originated seemed less perplexing than explaining why a silent, static void didn't exist instead.
 
-Earth's scholars institutionalized the cosmic studies at the ancient Indian city Chidambaram, creating a microcosm of the universe itself. At nearby Kalahasti, they investigated the black hole naming as a deity Raahu and wormhole naming as a deity Kethu alongside seven celestial bodies - Sun, Moon, Mars, Venus, Jupiter, Mercury, and Saturn. Blackholes devouring the surroundings were depicted with a human torso and a serpent's tail while a wormhole was shown as a serpent's torso and human lower side.
-
-
-
 ### *The Great Awakening*
 
 But the Earth Gods' greatest triumph wasn't understanding the cosmos as preserved in ancestral scripts—it was transcending their own nature through centuries of bloodshed.
