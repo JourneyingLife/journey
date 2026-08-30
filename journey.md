@@ -22,7 +22,7 @@ At sixteen, Wee disappointed his mother. While his cousins struck at prey at fir
 
 Even for Wee, the mysterious object near their hammock defied comprehension. Its symmetry surpassed anything he'd seen, yet its purpose remained elusive.
 
-Wee would never know he was the Reverse God of all earlier civilizations who had fought with time to plant that device in his world. In contrast to the Gods who passed wisdom forward through time, Wee was venerated backward—their hope to preserve the final spark of life as the last habitable planet would be plummeting toward Phoenix Cluster, the largest black hole in the cosmos, five billion years after Earth.
+He turned it again. No edge made sense. He set it back by the hammock. Above the hills the sky kept tearing, and something vast went on eating the horizon.
 
 
 
@@ -62,6 +62,10 @@ Lee interjected, "Journey."
 "Journey," Krish echoed, the word heavy with significance.
 
 Journey—an archaeological treasure buried in the Atlantis ocean depths, preserved scripts from the dawn of time. Octopuses had discovered the site millennia ago, yet its secrets remained only partially decrypted. Researchers believed it was a bequest from primordial ancestors who had traversed the stars, delivered to spare future civilizations from reinventing fundamental knowledge.
+
+---
+
+Far ahead in time, on the last habitable world, Wee sat by the hammock. His cousins called him to the hunt. He looked once more at the buried symmetry, found no name for it, and followed.
 
 
 
@@ -193,6 +197,10 @@ Krish smiled knowingly. "Creating life remains nature's exclusive mystery. Livin
 
 Nova's idea helped to seed the minimal machine in 67 and scheme its evolution alongside organic species. That was one step forward.
 
+---
+
+On that later world the sky had grown worse. Fireballs came closer. Wee still did not know what slept under the hammock. He only knew he could not leave it.
+
 ## CHAPTER 5: STRUGGLE OF THE LAST LIFE
 ### *Return to Wee's World*
 
@@ -225,6 +233,8 @@ Jupiter-2 had harbored life after Jupiter-1's demise, but survived only briefly.
 Krish proposed routing 67's inhabitants through W31's twin black hole B31, sending them back toward their original constellation where Venus-3 would await them, fully habitable in the distant future.
 
 The lever Wee's people struggled to pull to unearth was designed to activate an exo-fusion engine buried beneath their settlement. This self-evolved machine seeded on Nova's idea had lain dormant after initial build, waiting to propel their world into B31.
+
+Wee would never know he was the Reverse God of all earlier civilizations who had fought with time to plant that device in his world. In contrast to the Gods who passed wisdom forward through time, he was venerated backward—their hope to preserve the final spark of life as the last habitable planet plummeted toward Phoenix Cluster, five billion years after Earth.
 
 **That lever is their passage home. Will they succeed? Let's find out in another five billion years while journeying together revisiting via life elements in our repeating births.**
 
