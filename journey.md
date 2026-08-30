@@ -22,7 +22,7 @@ At sixteen, Wee disappointed his mother. While his cousins struck at prey at fir
 
 Even for Wee, the mysterious object near their hammock defied comprehension. Its symmetry surpassed anything he'd seen, yet its purpose remained elusive.
 
-Wee would never know he was the Reverse God of all earlier civilizations who had strove to plant that device in his world. In contrast to the Gods who passed wisdom forward through time, Wee was venerated backward—their hope to preserve the final spark of life as the last habitable planet would be plummeting toward Phoenix Cluster, the largest black hole in the cosmos, five billion years after Earth.
+Wee would never know he was the Reverse God of all earlier civilizations who had fought with time to plant that device in his world. In contrast to the Gods who passed wisdom forward through time, Wee was venerated backward—their hope to preserve the final spark of life as the last habitable planet would be plummeting toward Phoenix Cluster, the largest black hole in the cosmos, five billion years after Earth.
 
 
 
@@ -90,7 +90,7 @@ Lord Buddha followed, radiating enlightenment about the sovereignty of the inner
 
 Einstein bore the nuclear formula that had equipped every civilization with abundant nuclear energy. Free-moving subatomic masses traveling at Light speed, breaching another mass's boundary, locked into an eternal dance treasured their combined kinetic energy for a shrewd engineer to harvest.
 
-Amid the countless sculptures streaming past, they nearly overlooked the ring-bound Dancing Lord until curious young Rafi questioned its significance amongst the other academic settings.
+Amid the countless sculptures streaming past, they nearly missed the ring-bound Dancing Lord until curious young Rafi questioned its significance amongst the other profound academic settings.
 
 Tory, startled by the teenager's perceptive inquiry about the Shiv Tandav, wisely chose not to contaminate the kid's pristine curiosity with his own rudimentary knowledge. He mechanically murmured, "He who transcends comprehension," then rushed to contact Krish on teleview.
 
