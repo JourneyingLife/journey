@@ -10,7 +10,7 @@ This is a work of fiction. Names, characters, places, events, and incidents are 
 
 
 ## PROLOGUE: THE LAST PLANET
-### *Era 5: Year 25357: Day 78*
+### *Era 5 — the last world — Year 253: Day 78*
 
 ![The last planet approaching Phoenix Cluster](Pictures/PL67.jpg)
 
@@ -20,14 +20,14 @@ At sixteen, Wee disappointed his mother. While his cousins struck at prey at fir
 
 ![Wee examining the mysterious object](Pictures/Wee.jpg)
 
-Even for Wee, the mysterious object near their hammock defied comprehension. Its symmetry surpassed anything he'd seen, yet its purpose remained elusive.
+Even for Wee, the mysterious object buried by their hammock defied comprehension. Its symmetry surpassed anything he'd seen, yet its purpose remained elusive.
 
-He turned it again. No edge made sense. He set it back by the hammock. Above the hills the sky kept tearing, and something vast went on eating the horizon.
+He gripped what looked like a handle. It would not come. He left it in the ground. Above the hills the sky kept tearing, and something vast went on eating the horizon.
 
 
 
 ## CHAPTER 1: THE COUNCIL OF VENUS-2
-### *Era 4: Year 54728: Day 105*
+### *Era 4 — two eras earlier — Year 54,728: Day 105*
 
 ![The Council of Venus-2](Pictures/Gallery.jpg)
 
@@ -35,7 +35,7 @@ Venus-2's core committee gathered in the virtual gallery, their faces heavy with
 
 The Dolphins currently held governance while the Octopuses enjoyed their Rulers' Holiday. Leadership alternated peacefully, allowing former administrators to rest and reflect before the cycle renewed. This wasn't about winning elections or clinging to authority. It was simply how responsible societies honored those who carried civilization's burden.
 
-Their ancestors had learned from Earth's archives how this collaboration became possible. Earth scientists had enhanced the empathy pathways in dolphins and octopuses, bridging a gap that once kept marine minds from complex reasoning. The result was species that thought differently yet complemented each other perfectly. Where dolphins excelled at long-term strategic vision, octopuses mastered immediate problem-solving. Together, they accomplished what neither could do alone.
+Their ancestors had learned from Earth's archives how dolphins and octopuses came to work together. Earth scientists had enhanced the empathy pathways in dolphins and octopuses, bridging a gap that once kept marine minds from complex reasoning. The result was species that thought differently yet complemented each other perfectly. Where dolphins excelled at long-term strategic vision, octopuses mastered immediate problem-solving. Together, they accomplished what neither could do alone.
 
 Chieftain Krish began the dire pronouncement. "Dear friends, our world is slowing down."
 
@@ -47,7 +47,7 @@ Krish continued. "The Gods seeded life here 200 million years ago, drawn by the 
 
 Octopus chief Lee, who joined remotely from his holiday retreat, cut to the point. "So our time here is running out. Haven't we identified PL67 as our next home? Are we preparing the endgame?"
 
-Endgame—a solemn word. Only a select few aboard the species ship would survive by leaving the dying planet. Even they would arrive as fossilized relics at the new home.
+Endgame—a solemn word. Only a select few aboard the Species Ship would survive by leaving the dying planet. Even they would arrive as fossilized relics at the new home.
 
 Krish nodded thoughtfully. "Thank you, Lee. But here's our challenge. Unlike previous migrations, 67 sits perilously close to Phoenix. Even if we successfully seed life there, evolution will not have matured to save life from extinction when the world gets to the brink of the event horizon."
 
@@ -84,7 +84,7 @@ Pilot Tory peered through binoculars and read the inscription aloud: "Change of 
 
 Drawing closer, the seafloor blazed luminous despite the crushing depth. The gods had forged these structures in gold, ensuring they would resist erosion across countless millennia.
 
-The species ship sculpture towered above them, depicting The Lord Shepherd surrounded by every form of life. Ancient engineers had transported DNA capsules across light-years to seed their world.
+The Species Ship sculpture towered above them, depicting The Lord Shepherd surrounded by every form of life. Ancient engineers had transported DNA capsules across light-years to seed their world.
 
 ![The Divine Prophet's Kaaba](Pictures/The%20Dive%20-%20Buddha%20and%20Kaaba.jpg)
 
@@ -140,7 +140,7 @@ Families realized the stranger who saved their child wore yesterday's enemy unif
 
 Within three generations, the phrase "enemy nations" became an archaic terminology. How do you despise the people whose gift gave your daughter another sunrise?
 
-Daisy's voice thinned. "Go find a friendly wormhole to send your species ship through."
+Daisy's voice thinned. "Go find a friendly wormhole to send your Species Ship through."
 
 She drew one more breath. "Make the scriptures layman-readable. Half-baked knowledge breeds holy wars. The same cosmic scripts arrived in different lands. Each society called its reading the true God. They were fighting over translations of one message. Cost them millions of lives to learn what should have been clear from the start."
 
@@ -155,9 +155,9 @@ Space engineers calculated they could traverse the journey in seven thousand yea
 
 ![A brilliant female AI engineer (Nova) presenting holographic models of neural networks and biological elements intertwined](Pictures/Nova's%20model.jpg)
 
-Yet a new obstacle emerged. Despite delivering diverse genetic material to 67, the terrain would require a billion years to become habitable. The world would be consumed by Phoenix Cluster in merely fifty million. Redirecting this final sanctuary before annihilation remained unsolved.
+Yet a new obstacle emerged. Despite delivering diverse genetic material to 67, evolving a scientifically advanced species would take a billion years. The world would be consumed by Phoenix Cluster in merely fifty million. Redirecting this final sanctuary before annihilation remained unsolved.
 
-Right at the moment, AI engineer Nova voiced a half-formed concept to the senior council. Instead of waiting for organic evolution to rescue their future habitat, why not deploy intelligent machines for the task? Her challenge was the thinking machines they already knew. Those machines were too heavy to ship and keep asleep across a thousand years.
+Right at the moment, AI engineer Nova voiced a half-formed concept to the senior council. Instead of waiting for organic evolution to rescue their future habitat, why not deploy intelligent machines for the task? Her challenge was the thinking machines they already knew. Those machines were too heavy to ship and keep asleep across several millions of years.
 
 Yet Chieftain Krish and Chief Lee exchanged knowing glances, as if they'd already glimpsed the solution.
 
@@ -165,9 +165,9 @@ Krish began illuminating Nova's path. "Your proposal fits perfectly. Don't worry
 
 ![Visual representation of the six elements: Fire, Ground, Air, Water, Electricity/Sky, and Destiny - each with symbolic imagery connected to different organs](Pictures/The%20Elements.jpg)
 
-Lee named the six in one breath. "Fire in the heart. Ground in the stomach. Air in the lungs. Water in the kidneys. Electricity—sky in the old Indian scripts, wood in the Chinese—working through the liver. And the sixth, the Destiny carrier, holds the blueprint of life. Early humans mistook the one in Mars Lord Muruga's hand for a weapon."
+Lee named the six in one breath. "Fire in the heart. Ground in the stomach. Air in the lungs. Water in the kidneys. Electricity—sky in the old Indian scripts, wood in the Chinese—working through the liver. And the sixth, the Destiny carrier, holds the blueprint of life as depicted as Vel in the hands of Mars Lord Muruga the enlightener of the sixth."
 
-The vessel they needed was not a rack of sleeping machines. It was life itself.
+The carrier they needed was not a rack of sleeping machines. It was life itself.
 
 Nova, emboldened, posed an ambitious question. "If we understand life's elemental foundation, why can't we construct living organisms directly instead of machines?"
 
@@ -223,7 +223,7 @@ Jupiter-2 had harbored life after Jupiter-1's demise. It survived only briefly. 
 
 Krish proposed routing 67's inhabitants through W31's twin black hole B31. That path would send them back toward their original constellation, where Venus-3 would await them, fully habitable in the distant future.
 
-The lever Wee's people struggled to pull to unearth was designed to activate an exo-fusion engine. That engine lay buried beneath their settlement. This self-evolved machine, seeded on Nova's idea, had lain dormant after the initial build. It was waiting to propel their world into B31.
+The lever Wee's people struggled to pull to unearth was designed to activate an exo-fusion engine. This self-evolved machine, seeded on Nova's idea, had lain dormant after the initial build. It was waiting to propel their world into B31.
 
 Wee would never know he was the Reverse God of all earlier civilizations who had fought with time to plant that device in his world. In contrast to the Gods who passed wisdom forward through time, he was venerated backward—their hope to preserve the final spark of life as the last habitable planet plummeted toward Phoenix Cluster, five billion years after Earth.
 
@@ -267,9 +267,9 @@ This story explores the concept of "Reverse Gods" - beings from the future who a
 
 **Gravity (asymmetric collisions)**: One theory in the story holds that gravity forms when free-moving masses strike a body more on its far side than on the near sides facing each other, raising pressure on the far-side surfaces.
 
-**Large language models**: The thinking machines Nova first imagined. In her era a typical model used about 70 billion parameters, 140 GB of GPU memory, 4 GPUs per instance, and 50 kW per serving cluster—too much mass and power to ship dormant across millennia.
+**Large language models**: The thinking machines Nova first imagined. In her era a typical model used about 70 billion parameters, 140 GB of GPU memory, 4 GPUs per instance, and 50 kW per serving cluster—too much mass and power to ship dormant across several million years.
 
-**The six elements**: Fire (passion, heart; about seventy beats a minute). Ground (stability, stomach; food broken into the energy the body spends). Air (freedom, lungs; about twenty thousand breaths a day). Water (adaptability, kidneys; about two hundred liters of blood filtered daily). Electricity (love and nerve signals; sky in ancient Indian scripts, wood in Chinese scripts; the liver running hundreds of transformations at once). Destiny carrier (the blueprint of new life; early humans mistook its form in Mars Lord Muruga's hand for a weapon).
+**The six elements**: Fire (passion, heart; about seventy beats a minute). Ground (stability, stomach; food broken into the energy the body spends). Air (freedom, lungs; about twenty thousand breaths a day). Water (adaptability, kidneys; about two hundred liters of blood filtered daily). Electricity (love and nerve signals; sky in ancient Indian scripts, wood in Chinese scripts; the liver running hundreds of transformations at once). Destiny carrier (the blueprint of new life, depicted as the Vel in the hands of Mars Lord Muruga, the enlightener of the sixth).
 
 **ATP / ADP**: ATP (adenosine triphosphate) is the energy currency of living cells. When ATP implodes into ADP (adenosine diphosphate), it releases energy that powers muscular contraction while the leftover heat feeds metabolism. This is the motor Krish says no machine has matched.
 
