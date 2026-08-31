@@ -22,7 +22,7 @@ At sixteen, Wee disappointed his mother. While his cousins struck at prey at fir
 
 Even for Wee, the mysterious object buried by their hammock defied comprehension. Its symmetry surpassed anything he'd seen, yet its purpose remained elusive.
 
-He gripped what looked like a handle. It would not come. He left it in the ground. Above the hills the sky kept tearing, and something vast went on eating the horizon.
+As he tried many times, he gripped what looked like a handle. But it wouldn't budge as ever. He gave up for the day and moved on. Above the hills the sky kept tearing, and something vast went on eating the horizon.
 
 
 
@@ -31,9 +31,9 @@ He gripped what looked like a handle. It would not come. He left it in the groun
 
 ![The Council of Venus-2](Pictures/Gallery.jpg)
 
-Venus-2's core committee gathered in the virtual gallery, their faces heavy with concern. They had long ago transcended petty power struggles, serving their people with quiet dignity.
+Venus-2's core committee gathered in the virtual gallery, their faces heavy with concern due to the amber knoll for rapid gathering. They had long ago transcended petty power struggles, serving their people with quiet dignity.
 
-The Dolphins currently held governance while the Octopuses enjoyed their Rulers' Holiday. Leadership alternated peacefully, allowing former administrators to rest and reflect before the cycle renewed. This wasn't about winning elections or clinging to authority. It was simply how responsible societies honored those who carried civilization's burden.
+The Dolphins currently held governance while the Octopuses enjoyed their Rulers' Holiday. Leadership alternated peacefully, allowing former administrators to rest and reflect before the cycle renewed. This wasn't about winning elections or clinging to authority. It was simply how responsible societies honored those who carried civil burden.
 
 Their ancestors had learned from Earth's archives how dolphins and octopuses came to work together. Earth scientists had enhanced the empathy pathways in dolphins and octopuses, bridging a gap that once kept marine minds from complex reasoning. The result was species that thought differently yet complemented each other perfectly. Where dolphins excelled at long-term strategic vision, octopuses mastered immediate problem-solving. Together, they accomplished what neither could do alone.
 
@@ -45,7 +45,7 @@ Krish continued. "The Gods seeded life here 200 million years ago, drawn by the 
 
 "But like those before us, we're sliding into tidal lock with the sun. Life will become impossible."
 
-Octopus chief Lee, who joined remotely from his holiday retreat, cut to the point. "So our time here is running out. Haven't we identified PL67 as our next home? Are we preparing the endgame?"
+Octopus chief Lee, joining remotely from his holiday retreat, cut to the point. "So our time here is running out. Haven't we identified PL67 as our next home? Are we preparing the endgame?"
 
 Endgame—a solemn word. Only a select few aboard the Species Ship would survive by leaving the dying planet. Even they would arrive as fossilized relics at the new home.
 
@@ -72,9 +72,9 @@ Far ahead in time, on the last habitable world, Wee sat by the hammock. His cous
 ## CHAPTER 2: THE DIVE
 ### *Into the Depths of History*
 
-At dawn, a crew descended toward the ancient archive. They were not touring. They were hunting one unread code in Journey—the part that might tell them how to keep life past 67.
+At dawn, a crew descended toward the ancient archive. They were tasked with urgency to hunt for an unknown code in Journey—the part that might tell them how to keep life past 67.
 
-The team combined biologists, astronomers, and physicists. Two teenagers joined as well. They brought the young because no one knew how long the dive would last.
+The team combined biologists, astronomers and physicists.
 
 ![Linga rock - ancient generator](Pictures/The%20Dive%20-%20Linga%20and%20Species%20Ship.jpg)
 
@@ -96,13 +96,13 @@ Lord Buddha followed, radiating enlightenment about the sovereignty of the inner
 
 Einstein bore the nuclear formula that had equipped every civilization with abundant nuclear energy. Free-moving subatomic masses traveling at Light speed breached another mass's boundary. They locked into an eternal dance that treasured their combined kinetic energy for a shrewd engineer to harvest.
 
-They had come for a secret still only partially decrypted. The gold halls offered many answers. They needed the one they did not yet know how to read.
+They had come for a secret still only partially decrypted. The gold halls offered many answers. They needed the one they did not know if ever existed.
 
 Amid the countless sculptures streaming past, they nearly missed the ring-bound Dancing Lord. Curious young Rafi questioned its significance amongst the other profound academic settings.
 
 Tory was startled by the teenager's perceptive inquiry about the Shiv Tandav. He wisely chose not to contaminate the kid's pristine curiosity with his own rudimentary knowledge. He mechanically murmured, "He who transcends comprehension," then rushed to contact Krish on teleview.
 
-Krish pulled Lee into the line. "Go deeper. The old turtles go there to die. If anyone still holds that code, it is Daisy."
+Krish pulled Lee into the line per protocol. "Go deeper. The old turtles go there to die. If anyone still holds that code, it is Daisy."
 
 ![An ancient, wise turtle with glowing markings, resting peacefully while communicating through holographic displays](Pictures/Daisy%20sharing%20cosmic%20secret.jpg)
 
@@ -142,7 +142,7 @@ Within three generations, the phrase "enemy nations" became an archaic terminolo
 
 Daisy's voice thinned. "Go find a friendly wormhole to send your Species Ship through."
 
-She drew one more breath. "Make the scriptures layman-readable. Half-baked knowledge breeds holy wars. The same cosmic scripts arrived in different lands. Each society called its reading the true God. They were fighting over translations of one message. Cost them millions of lives to learn what should have been clear from the start."
+She drew one more breath. "Make the scriptures layman-readable. When the same cosmic scripts arrived in different lands on earth, each society claimed its reading as the only true God. They fought over translations of the same message. Cost them millions of lives to learn what should have been clear from the start."
 
 ![Biologists examining holographic DNA strands while space engineers study wormhole trajectories on massive displays](Pictures/DNA%20strands%20and%20%20wormhole%20trajectories.jpg)
 
@@ -191,15 +191,15 @@ The apocalypse arrived sooner than Wee anticipated. Volcanoes erupted across dis
 
 Then the hunters came. They wanted the high ground around the hammocks, and they did not ask.
 
-Wee's cousins looked to him. The tribe needed weapons, and his craftsmanship had become invaluable. He thought of the object in the dirt—the only thing he had ever seen that was not stone, not bone, not flint.
+Wee's tribe now looked upon him for devising weapons for their survival. He thought of the object in the dirt—the only thing he had ever seen that was not stone, not bone, not flint.
 
 He resolved to weaponize the mystery object buried at their hammock for their defense.
 
 ![Wee and his tribe struggling to pull a massive lever from the ground, with the mysterious object beginning to glow](Pictures/The%20weapon.jpg)
 
-They gathered around it. They strained together to wrench the lever from its holding ground. The object warmed. A faint light rose from the seam.
+They strained together to wrench the lever from its holding ground. The object warmed as a faint light rose from the seam.
 
-The lever moved.
+Finally something moved.
 
 ---
 
@@ -208,7 +208,7 @@ The lever moved.
 
 Nova saw it before the others—the last tribe, hands on her machine as if it were a spear. She felt devastated knowing her creation would become a weapon in the last civilization's hands.
 
-Her minimalist machine was rapidly evolving on 67, thanks to abundant radioactive minerals. Its bionic awakening wouldn't trigger until organic species reached technological sophistication. The machine required physical activation. That could happen as a byproduct of any survival behavior such as hunting and territorial defense.
+Her minimalist machine was rapidly evolving on 67, thanks to abundant radioactive minerals. Its bionic awakening wouldn't trigger until organic species reached technological sophistication. The machine required physical activation. But that could only happen as a byproduct of a survival behavior such as hunting and territorial defense.
 
 Mary, the lead anthropologist, urged her to go forward despite these concerns. "Our ultimate objective is what matters. We must follow Jupiter-2's precedent—there's no alternative."
 
