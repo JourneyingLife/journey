@@ -244,7 +244,7 @@ This story explores the concept of "Reverse Gods" - beings from the future who a
 
 ### Key Themes
 
-**The Cosmic Cycle**: Life's journey through the solar system followed the sun's cooling trend—as temperatures cooled to human-compatible conditions, habitable zones shifted from outer to inner planets. When our sun's habitable window closed, civilizations migrated to Venus-2 in another solar system, and finally to PL67 approaching the Phoenix Cluster black hole. Each civilization plants the seeds for the next, passing knowledge and DNA through wormholes and black holes across dimensions and eras
+**The Cosmic Cycle**: Life's journey through the solar system followed the sun's cooling trend—as temperatures cooled to human-compatible conditions, habitable zones shifted from outer to inner planets. When our sun's habitable window closed, civilizations migrated to Venus-2 in another solar system, and finally to PL67 approaching the Phoenix Cluster black hole. Each civilization plants the seeds for the next, passing knowledge and DNA through black holes and wormholes across dimensions and eras
 
 **Technology & Biology**: The convergence of artificial and organic intelligence as a solution to survival across cosmic timescales
 
