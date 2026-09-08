@@ -165,7 +165,7 @@ Krish began illuminating Nova's path. "Your proposal fits perfectly. Don't worry
 
 ![Visual representation of the six elements: Fire, Ground, Air, Water, Electricity/Sky, and Destiny - each with symbolic imagery connected to different organs](Pictures/The%20Elements.jpg)
 
-Lee named the six in one breath. "Fire in the heart. Ground in the stomach. Air in the lungs. Water in the kidneys. Electricity—sky in the old Indian scripts, wood in the Chinese—working through the liver. And the sixth, the Destiny carrier, holds the blueprint of life as depicted as Vel in the hands of Mars Lord Muruga the enlightener of the sixth."
+Lee named the six in one breath. "Fire in the heart. Ground in the stomach. Air in the lungs. Water in the kidneys. Electricity—sky in the old Indian scripts, wood in the Chinese—working through the liver. And the sixth, the Destiny carrier, holds the blueprint of life—the inherited code that builds every new organism."
 
 The carrier they needed was not a rack of sleeping machines. It was life itself.
 
@@ -274,7 +274,7 @@ Each note below belongs to a line in the story. The references at the end open t
 **Large language models**: The thinking machines Nova first imagined. In her era a typical model used about 70 billion parameters, 140 GB of GPU memory, 4 GPUs per instance, and 50 kW per serving cluster—too much mass and power to ship dormant across several million years.  
 *In the story:* "Those machines were too heavy to ship and keep asleep across several millions of years."
 
-**The six elements**: Fire (passion, heart; about seventy beats a minute). Ground (stability, stomach; food broken into the energy the body spends). Air (freedom, lungs; about twenty thousand breaths a day). Water (adaptability, kidneys; about two hundred liters of blood filtered daily). Electricity (love and nerve signals; sky in ancient Indian scripts, wood in Chinese scripts; the liver running hundreds of transformations at once). Destiny carrier (the blueprint of new life, depicted as the Vel in the hands of Mars Lord Muruga, the enlightener of the sixth).  
+**The six elements**: Fire (passion, heart; about seventy beats a minute). Ground (stability, stomach; food broken into the energy the body spends). Air (freedom, lungs; about twenty thousand breaths a day). Water (adaptability, kidneys; about two hundred liters of blood filtered daily). Electricity (love and nerve signals; sky in ancient Indian scripts, wood in Chinese scripts; the liver running hundreds of transformations at once). Destiny carrier (the inherited code that builds every new organism).  
 *In the story:* "Fire in the heart. Ground in the stomach. Air in the lungs. Water in the kidneys."
 
 **ATP / ADP**: ATP (adenosine triphosphate) is the energy currency of living cells. When ATP implodes into ADP (adenosine diphosphate), it releases energy that powers muscular contraction while the leftover heat feeds metabolism. This is the motor Krish says no machine has matched.  
