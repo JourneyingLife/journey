@@ -215,11 +215,11 @@ Finally something moved.
 ## CHAPTER 6: THE GOD'S HEARTBREAK
 ### *When Plans Meet Reality*
 
-Nova saw it before the others—the last tribe, hands on her machine as if it were a spear. She felt devastated knowing her creation would become a weapon in the last civilization's hands.
+Nova saw it before the others—the last tribe, hands on her machine as if it were a spear. She felt devastated knowing her creation would become a weapon in the last civilization's hands. "We stop," she said. "I will not seed a spear."
 
 Her minimalist machine was rapidly evolving on 67, thanks to abundant radioactive minerals. Its bionic awakening wouldn't trigger until organic species reached technological sophistication. The machine required physical activation. But that could only happen as a byproduct of a survival behavior such as hunting and territorial defense.
 
-Mary, the lead anthropologist, urged her to go forward despite these concerns. "Our ultimate objective is what matters. We must follow Jupiter-2's precedent—there's no alternative."
+Mary, the lead anthropologist, would not let her pull the plan back. "You do not get to stop. The objective is what matters. Jupiter-2 hesitated and burned. We seed it. There is no alternative."
 
 ![Asteroids floating in space representing the remains of Jupiter 2's desperate attempt to survive](Pictures/Astroids%20from%20Venus2.jpg)
 
