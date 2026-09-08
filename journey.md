@@ -22,7 +22,7 @@ At sixteen, Wee disappointed his mother. While his cousins struck at prey at fir
 
 Even for Wee, the mysterious object buried by their hammock defied comprehension. Its symmetry surpassed anything he'd seen, yet its purpose remained elusive.
 
-He gripped what looked like a handle. It would not budge. A shout rose from the ridge. He did not let go.
+Hunters were coming for the high ground around the hammocks. They didn't ask. The tribe would need a weapon, and this buried thing was the only shape Wee had ever seen that was not stone, not bone, not flint. He gripped what looked like a handle. It would not budge. He did not let go.
 
 Above the hills the sky kept tearing, and something vast went on eating the horizon.
 
@@ -47,11 +47,11 @@ Krish continued. "The Gods seeded life here 200 million years ago, drawn by the 
 
 "But like those before us, we're sliding into tidal lock with the sun. Life will become impossible."
 
-Octopus chief Lee, joining remotely from his holiday retreat, cut to the point. "So our time here is running out. Haven't we identified PL67 as our next home? Are we preparing the endgame?"
+Octopus chief Lee, joining remotely from his holiday retreat, cut to the point. "So our time here is running out. Haven't we identified PL67 as our next home? Endgame can wait until I return."
 
 Endgame—a solemn word. Only a select few aboard the Species Ship would survive by leaving the dying planet. Even they would arrive as fossilized relics at the new home.
 
-Krish nodded thoughtfully. "Thank you, Lee. But here's our challenge. Unlike previous migrations, 67 sits perilously close to Phoenix. Even if we successfully seed life there, evolution will not have matured to save life from extinction when the world gets to the brink of the event horizon."
+Krish did not wait. "Thank you, Lee. Here's why it cannot wait. Unlike previous migrations, 67 sits perilously close to Phoenix. Even if we successfully seed life there, evolution will not have matured to save life from extinction when the world gets to the brink of the event horizon."
 
 "Our entire archive offers no solution for preserving life beyond 67."
 
@@ -59,15 +59,15 @@ Krish nodded thoughtfully. "Thank you, Lee. But here's our challenge. Unlike pre
 
 "We must revisit..."
 
-Lee interjected, "Journey."
+Lee cut in. "Not Journey. Not while I am away and the vault is still only partly read."
 
-"Journey," Krish echoed, the word heavy with significance.
+"Journey," Krish said. The amber knoll kept ringing.
 
 Journey—an archaeological treasure buried in the Atlantis ocean depths. It held preserved scripts from the dawn of time. Octopuses had discovered the site millennia ago, yet its secrets remained only partially decrypted. Researchers believed it was a bequest from primordial ancestors who had traversed the stars, delivered to spare future civilizations from reinventing fundamental knowledge.
 
 ---
 
-Far ahead in time, on the last habitable world, Wee's hands were still on the handle. The shout came again from the ridge. He did not look up.
+Far ahead in time, on the last habitable world, Wee's hands were still on the handle. The hunters had reached the ridge above the hammocks. He did not look up.
 
 
 
@@ -104,22 +104,24 @@ Amid the countless sculptures streaming past, they nearly missed the ring-bound 
 
 Tory was startled by the teenager's perceptive inquiry about the Shiv Tandav. He wisely chose not to contaminate the kid's pristine curiosity with his own rudimentary knowledge. He mechanically murmured, "He who transcends comprehension," then rushed to contact Krish on teleview.
 
+"Daisy has minutes," Tory said. "We have no order to leave these halls."
+
 Krish pulled Lee into the line per protocol. "Go deeper. The old turtles go there to die. If anyone still holds that code, it is Daisy."
 
 ![An ancient, wise turtle with glowing markings, resting peacefully while communicating through holographic displays](Pictures/Daisy%20sharing%20cosmic%20secret.jpg)
 
-The dying turtle Daisy brought up all her might to open the coding in The Dancing Lord.
+She had little time left. The dying turtle Daisy brought up all her might to open the coding in The Dancing Lord.
 
 ---
 
-The shout came closer. Dirt shifted around the buried symmetry. Wee pulled. The sky answered with fire.
+The hunters came down from the ridge. Dirt shifted around the buried symmetry. Wee pulled. The sky answered with fire.
 
 ## CHAPTER 3: THE ORIGIN
 ### *Understanding the Cosmic Dance*
 
 ![Abstract visualization of the universe showing planetary orbits mirroring subatomic particle orbits in a fractal pattern](Pictures/Blackholes%20and%20Wormholes.jpg)
 
-Through Daisy they saw how solar planet dwellers had pursued a fundamental mystery: how larger celestial bodies attracted smaller ones without visible tethers. They still could not say what pulled world toward world. While light traveled an astonishing three hundred million meters per second, cosmic bodies just stayed put, drifting around the same spot.
+She held the code open while she still could. Through Daisy they saw how solar planet dwellers had pursued a fundamental mystery: how larger celestial bodies attracted smaller ones without visible tethers. They still could not say what pulled world toward world. While light traveled an astonishing three hundred million meters per second, cosmic bodies just stayed put, drifting around the same spot.
 
 Mars's greatest minds debated the universe's origin. They observed cosmos exhibiting recursive patterns—solar planetary orbits mirroring subatomic particle trajectories.
 
@@ -151,7 +153,7 @@ She drew one more breath. "Make the scriptures layman-readable. When the same co
 
 ![Biologists examining holographic DNA strands while space engineers study wormhole trajectories on massive displays](Pictures/DNA%20strands%20and%20%20wormhole%20trajectories.jpg)
 
-Elated by discovering a viable pathway to 67, the biologists began selecting the DNA sequences to transport.
+They had a path to 67. They did not yet have a way to keep it alive. The biologists began selecting the DNA sequences to transport.
 
 Space engineers calculated they could traverse the journey in seven thousand years via wormhole W31. That wormhole exhibited reversal characteristics matching 67's properties.
 
@@ -168,9 +170,9 @@ Yet a new obstacle emerged. Despite delivering diverse genetic material to 67, e
 
 Right at the moment, AI engineer Nova voiced a half-formed concept to the senior council. Instead of waiting for organic evolution to rescue their future habitat, why not deploy intelligent machines for the task? Her challenge was the thinking machines they already knew. Those machines were too heavy to ship and keep asleep across several millions of years.
 
-Yet Chieftain Krish and Chief Lee exchanged knowing glances, as if they'd already glimpsed the solution.
+Yet Chieftain Krish and Chief Lee exchanged a look. They did not have a finished answer.
 
-Krish began illuminating Nova's path. "Your proposal fits perfectly. Don't worry about infrastructure—we're not the first to solve this. The answer lies in the element scripture. We just need to encode the five elemental interactions onto the sixth: the destiny-carrier."
+Krish turned to Nova. "Your proposal is the only one in the room. Infrastructure is still unsolved. The element scripture may be the carrier—if we can encode the five elemental interactions onto the sixth: the destiny-carrier."
 
 ![Visual representation of the six elements: Fire, Ground, Air, Water, Electricity/Sky, and Destiny - each with symbolic imagery connected to different organs](Pictures/The%20Elements.jpg)
 
@@ -198,11 +200,9 @@ They were on the ridge now. Wee still did not know what slept under the hammock.
 
 The apocalypse arrived sooner than Wee anticipated. Volcanoes erupted across distant horizons, belching dark plumes skyward. Nomads and herds stampeded in terror.
 
-Then the hunters came. They wanted the high ground around the hammocks, and they did not ask.
+The hunters were on the high ground now. They had not asked.
 
-Wee's tribe now looked upon him for devising weapons for their survival. He thought of the object in the dirt—the only thing he had ever seen that was not stone, not bone, not flint.
-
-He resolved to weaponize the mystery object buried at their hammock for their defense.
+Wee's tribe now looked upon him for devising weapons for their survival. He resolved to weaponize the mystery object buried at their hammock for their defense.
 
 ![Wee and his tribe struggling to pull a massive lever from the ground, with the mysterious object beginning to glow](Pictures/The%20weapon.jpg)
 
