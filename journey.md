@@ -233,79 +233,43 @@ Wee would never know he was the Reverse God of all earlier civilizations who had
 
 ## ABOUT THE NOVEL
 
-*The Journey* is an epic science fiction tale spanning billions of years and multiple civilizations. It weaves together themes of:
+Civilizations move as their suns cool: first through our solar system, then to Venus-2, then to PL67 as it falls toward the Phoenix Cluster. Each age seeds the next with knowledge and DNA. Later lives may complete a plan the earlier ones began.
 
-- **Cyclical Time**: How civilizations pass knowledge to future species
-- **Cosmic Evolution**: The interconnection between organic and artificial intelligence
-- **Ancient Wisdom**: How religious and scientific knowledge encode universal truths
-- **Survival**: The desperate measures species take to preserve life
+**People**
 
-This story explores the concept of "Reverse Gods" - beings from the future who are worshipped by the past, and how the universe itself may be a repeating pattern across dimensions.
-
-### Key Themes
-
-**The Cosmic Cycle**: Life's journey through the solar system followed the sun's cooling trend—as temperatures cooled to human-compatible conditions, habitable zones shifted from outer to inner planets. When our sun's habitable window closed, civilizations migrated to Venus-2 in another solar system, and finally to PL67 approaching the Phoenix Cluster black hole. Each civilization plants the seeds for the next, passing knowledge and DNA through black holes and wormholes across dimensions and eras
-
-**Technology & Biology**: The convergence of artificial and organic intelligence as a solution to survival across cosmic timescales
-
-**The Six Elements of Life**: Fire (passion/heart), Ground (stability/stomach), Air (freedom/lungs), Water (adaptability/kidneys), Electricity/Sky (growth/liver), and Destiny (the carrier of all elements)
-
-### Character Guide
-
-- **Wee**: A young thinker in the last era, unknowingly the Reverse God
-- **Chieftain Krish**: Dolphin leader of Venus-2 in Era 4
-- **Chief Lee**: Octopus leader, wise and strategic
-- **Nova**: AI engineer who devises the bionic evolution plan
-- **Daisy**: Ancient turtle with knowledge of the cosmic codes
-- **Tory/Rafi**: Pilots and explorers who discover the Dancing Lord's secrets
+- **Wee**: A young thinker on the last world. He does not know earlier ages planted the object by his hammock.
+- **Krish**: Dolphin chieftain of Venus-2.
+- **Lee**: Octopus chief.
+- **Nova**: Engineer who seeds a small machine to evolve beside organic life.
+- **Daisy**: An old turtle who still holds Journey's unread code.
+- **Tory and Rafi**: Divers who find the pattern the others almost miss.
 
 ---
 
 ## GLOSSARY
 
-Each note below belongs to a line in the story. The references at the end open the same idea.
+Short notes for lines in the story. Sources follow.
 
-**XOR logic gates**: Exclusive-or operations that enable 'yes-but-not-both'. A result is true only when one condition is true and the other is not—the kind of distinction that allows complex reasoning. Early marine brains, like those of most animals, ran on sodium-based circuitry and lacked the potassium-based networks that support XOR. Earth scientists later calibrated potassium channel thresholds so even non-primate neurons could perform anticoincidence detection and XOR operations.  
+**XOR**: A yes-but-not-both rule. One path is true, the other is not. That kind of distinction supports complex reasoning.  
 *In the story:* "Earth scientists had enhanced the empathy pathways in dolphins and octopuses, bridging a gap that once kept marine minds from complex reasoning."
 
-**Gravity (asymmetric collisions)**: One theory in the story holds that gravity forms when free-moving masses strike a body more on its far side than on the near sides facing each other, raising pressure on the far-side surfaces.  
+**Gravity**: One idea in the story is that unseen masses strike a body more on its far side than on the near sides facing each other.  
 *In the story:* "They still could not say what pulled world toward world."
 
-**Large language models**: The thinking machines Nova first imagined. In her era a typical model used about 70 billion parameters, 140 GB of GPU memory, 4 GPUs per instance, and 50 kW per serving cluster—too much mass and power to ship dormant across several million years.  
+**Large language models**: The heavy thinking machines Nova first pictured. Too much mass and power to ship asleep for millions of years.  
 *In the story:* "Those machines were too heavy to ship and keep asleep across several millions of years."
 
-**The six elements**: Fire (passion, heart; about seventy beats a minute). Ground (stability, stomach; food broken into the energy the body spends). Air (freedom, lungs; about twenty thousand breaths a day). Water (adaptability, kidneys; about two hundred liters of blood filtered daily). Electricity (love and nerve signals; sky in ancient Indian scripts, wood in Chinese scripts; the liver running hundreds of transformations at once). Destiny carrier (the inherited code that builds every new organism).  
+**The six elements**: Fire (heart), Ground (stomach), Air (lungs), Water (kidneys), Electricity (liver), Destiny carrier (the inherited code that builds a new organism).  
 *In the story:* "Fire in the heart. Ground in the stomach. Air in the lungs. Water in the kidneys."
 
-**ATP / ADP**: ATP (adenosine triphosphate) is the energy currency of living cells. When ATP implodes into ADP (adenosine diphosphate), it releases energy that powers muscular contraction while the leftover heat feeds metabolism. This is the motor Krish says no machine has matched.  
+**ATP / ADP**: The energy currency of cells. ATP breaking into ADP powers muscle and feeds leftover heat into metabolism.  
 *In the story:* "Living forms possess the most efficient motor system ever devised."
-
----
-
-*"In the dance of the cosmos, every ending is a beginning, and every species carries the hope of all who came before."*
-
----
-
-## NOTES ON THE ILLUSTRATIONS
-
-The images in this novel were generated with OpenAI ChatGPT 5.2 and Sora to match each scene. They are story illustrations, not scientific diagrams.
-
-### Art approach by section
-
-- **Prologue & Chapter 5**: Gritty, post-apocalyptic realism
-- **Chapter 1**: Sleek, bioluminescent futurism
-- **Chapter 2**: Majestic underwater archaeological photography style
-- **Chapter 3**: Abstract cosmic art with scientific accuracy
-- **The Great Awakening**: War and arsenals first, then the turn toward peace and shared care
-- **Chapter 4**: Technical diagrams merged with organic patterns
-- **Chapter 6**: Emotional character-focused art
-- **Epilogue**: Epic space opera cinematography
 
 ---
 
 ## REFERENCES
 
-Each source sits under a line from the story. The science is background for that line, not a proof of it.
+Each source sits under a story line. It is background, not proof.
 
 **Chapter 1 — dolphins and octopuses thinking together**
 
@@ -395,7 +359,3 @@ Cellular energy, ATP, and chemiosmosis:
 1. Mitchell, P. (1978). "David Keilin’s Respiratory Chain Concept and Its Chemiosmotic Consequences" (Nobel Lecture). https://www.nobelprize.org/prizes/chemistry/1978/mitchell/lecture/ (PDF: https://www.nobelprize.org/uploads/2018/06/mitchell-lecture.pdf)
 2. OpenStax. *Biology 2e* — "7.4 Oxidative Phosphorylation" (chemiosmosis, ATP synthase, ADP→ATP). https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation
 3. OpenStax. *Anatomy & Physiology 2e* — "10.3 Muscle Fiber Contraction and Relaxation" (ATP hydrolysis, ATP→ADP cross-bridge cycle). https://openstax.org/books/anatomy-and-physiology-2e/pages/10-3-muscle-fiber-contraction-and-relaxation
-
----
-
-**End of Novel**
