@@ -22,7 +22,9 @@ At sixteen, Wee disappointed his mother. While his cousins struck at prey at fir
 
 Even for Wee, the mysterious object buried by their hammock defied comprehension. Its symmetry surpassed anything he'd seen, yet its purpose remained elusive.
 
-As he tried many times, he gripped what looked like a handle. But it wouldn't budge as ever. He gave up for the day and moved on. Above the hills the sky kept tearing, and something vast went on eating the horizon.
+He gripped what looked like a handle. It would not budge. A shout rose from the ridge. He did not let go.
+
+Above the hills the sky kept tearing, and something vast went on eating the horizon.
 
 
 
@@ -65,7 +67,7 @@ Journey—an archaeological treasure buried in the Atlantis ocean depths. It hel
 
 ---
 
-Far ahead in time, on the last habitable world, Wee sat by the hammock. His cousins called him to the hunt. He looked once more at the buried symmetry, found no name for it, and followed.
+Far ahead in time, on the last habitable world, Wee's hands were still on the handle. The shout came again from the ridge. He did not look up.
 
 
 
@@ -108,6 +110,9 @@ Krish pulled Lee into the line per protocol. "Go deeper. The old turtles go ther
 
 The dying turtle Daisy brought up all her might to open the coding in The Dancing Lord.
 
+---
+
+The shout came closer. Dirt shifted around the buried symmetry. Wee pulled. The sky answered with fire.
 
 ## CHAPTER 3: THE ORIGIN
 ### *Understanding the Cosmic Dance*
@@ -150,6 +155,10 @@ Elated by discovering a viable pathway to 67, the biologists began selecting the
 
 Space engineers calculated they could traverse the journey in seven thousand years via wormhole W31. That wormhole exhibited reversal characteristics matching 67's properties.
 
+---
+
+Figures took the high ground around the hammocks. Wee's tribe looked at him. His hands were already bleeding on the handle.
+
 ## CHAPTER 4: THE MACHINE
 ### *Merging Biology with Technology*
 
@@ -180,7 +189,7 @@ Nova's idea helped to seed the minimal machine in 67 and scheme its evolution al
 
 ---
 
-On that later world the sky had grown worse. Fireballs came closer. Wee still did not know what slept under the hammock. He only knew he could not leave it.
+They were on the ridge now. Wee still did not know what slept under the hammock. He only knew that if he let go, it was over.
 
 ## CHAPTER 5: STRUGGLE OF THE LAST LIFE
 ### *Return to Wee's World*
@@ -221,13 +230,9 @@ Jupiter-2 had harbored life after Jupiter-1's demise. It survived only briefly. 
 ## EPILOGUE: THE RETURN TICKET
 ### *A Journey Home*
 
-Krish proposed routing 67's inhabitants through W31's twin black hole B31. That path would send them back toward their original constellation, where Venus-3 would await them, fully habitable in the distant future.
+The lever had moved.
 
-The lever Wee's people struggled to pull to unearth was designed to activate an exo-fusion engine. This self-evolved machine, seeded on Nova's idea, had lain dormant after the initial build. It was waiting to propel their world into B31.
-
-Wee would never know he was the Reverse God of all earlier civilizations who had fought with time to plant that device in his world. In contrast to the Gods who passed wisdom forward through time, he was venerated backward—their hope to preserve the final spark of life as the last habitable planet plummeted toward Phoenix Cluster, five billion years after Earth.
-
-**That lever is their passage home. Will they succeed? Let's find out in another five billion years while journeying together revisiting via life elements in our repeating births.**
+**Will they succeed?**
 
 ---
 
