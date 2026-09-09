@@ -80,11 +80,11 @@ Known answers, all of them, already mapped. They needed the one they were not su
 
 Amid the sculptures streaming past they nearly missed the ring-bound Dancing Lord. Young Rafi asked why it stood among the other academic settings.
 
-Tory would not load the boy's question with a half-answer. He murmured, "He who transcends comprehension," and called Krish on teleview.
+Tory would not guess at an answer he did not have. He murmured, "This one is beyond what we can read," and called Krish on teleview.
 
-"This is not the unread code," Tory said. "If we leave the mapped halls, we can lose the crew."
+"This statue is not the missing answer we came for," Tory said. "If we leave the halls we already know, we can lose the crew in the dark."
 
-Krish pulled Lee into the line per protocol. "Go deeper. The old turtles go there to die. If anyone still holds that code, it is Daisy."
+Krish pulled Lee into the line per protocol. "Go deeper. The old turtles go there to die. If anyone still holds that answer, it is Daisy."
 
 ![An ancient, wise turtle with glowing markings, resting peacefully while communicating through holographic displays](Pictures/Daisy%20sharing%20cosmic%20secret.jpg)
 
