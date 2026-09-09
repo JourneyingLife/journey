@@ -47,7 +47,7 @@ Krish continued. "The Gods seeded life here 200 million years ago, drawn by the 
 
 "But like those before us, we're sliding into tidal lock with the sun. Life will become impossible."
 
-Octopus chief Lee, joining remotely from his holiday retreat, cut to the point. "So our time here is running out. Haven't we identified PL67 as our next home? Endgame can wait until I return."
+Octopus chief Lee, joining remotely from his holiday retreat, cut to the point. "So our time here is running out. Haven't we identified PL67 as our next home? Endgame is a team decision. We are not ready."
 
 Endgame—a solemn word. Only a select few aboard the Species Ship would survive by leaving the dying planet. Even they would arrive as fossilized relics at the new home.
 
@@ -59,7 +59,7 @@ Krish did not wait. "Thank you, Lee. Here's why it cannot wait. Unlike previous 
 
 "We must revisit..."
 
-Lee cut in. "Not Journey. Not while I am away and the vault is still only partly read."
+Lee cut in. "Not Journey. The vault is still only partly read. We would send a crew into a code we cannot yet trust."
 
 "Journey," Krish said. The amber knoll kept ringing.
 
@@ -104,34 +104,32 @@ Amid the countless sculptures streaming past, they nearly missed the ring-bound 
 
 Tory was startled by the teenager's perceptive inquiry about the Shiv Tandav. He wisely chose not to contaminate the kid's pristine curiosity with his own rudimentary knowledge. He mechanically murmured, "He who transcends comprehension," then rushed to contact Krish on teleview.
 
-"Daisy has minutes," Tory said. "We have no order to leave these halls."
+"This is not the unread code," Tory said. "If we leave the mapped halls, we can lose the crew."
 
 Krish pulled Lee into the line per protocol. "Go deeper. The old turtles go there to die. If anyone still holds that code, it is Daisy."
 
 ![An ancient, wise turtle with glowing markings, resting peacefully while communicating through holographic displays](Pictures/Daisy%20sharing%20cosmic%20secret.jpg)
 
-She had little time left. The dying turtle Daisy brought up all her might to open the coding in The Dancing Lord.
+She had little time left. The dying turtle Daisy brought up all her might to decode the Dancing Lord.
 
 ---
 
-The hunters came down from the ridge. Dirt shifted around the buried symmetry. Wee pulled. The sky answered with fire.
+The hunters came down from the ridge. Dirt shifted around the buried symmetry. Wee pulled, and still the handle held. Overhead, fireballs kept falling. The sky was not answering him. It was ending.
 
 ## CHAPTER 3: THE ORIGIN
 ### *Understanding the Cosmic Dance*
 
 ![Abstract visualization of the universe showing planetary orbits mirroring subatomic particle orbits in a fractal pattern](Pictures/Blackholes%20and%20Wormholes.jpg)
 
-She held the code open while she still could. Through Daisy they saw how solar planet dwellers had pursued a fundamental mystery: how larger celestial bodies attracted smaller ones without visible tethers. They still could not say what pulled world toward world. While light traveled an astonishing three hundred million meters per second, cosmic bodies just stayed put, drifting around the same spot.
+She held the pattern readable while she still could. Through Daisy they saw how earlier scholars had pursued a fundamental mystery: how larger celestial bodies attracted smaller ones without visible tethers. They still could not say what pulled world toward world. While light traveled an astonishing three hundred million meters per second, cosmic bodies just stayed put, drifting around the same spot.
 
-Mars's greatest minds debated the universe's origin. They observed cosmos exhibiting recursive patterns—solar planetary orbits mirroring subatomic particle trajectories.
-
-They concluded that shapes and motion were merely impressions perceived by conscious beings. The universe appeared to be an endlessly recurring microcosmic pattern, as the Dancing Deity depicted. Ripples propagated in every direction and generated the illusion of form and movement across higher dimensions. This theory explained both black holes and wormholes. Black holes materialized at ripple collapse points. Wormholes formed along the pathways these distortions carved through spacetime, then reemerged in alternate dimensions and cosmic geographies.
+They watched solar orbits mirroring subatomic paths and concluded that shapes and motion were merely impressions perceived by conscious beings. The universe appeared to be an endlessly recurring microcosmic pattern, as the Dancing Deity depicted. Ripples propagated in every direction and generated the illusion of form and movement across higher dimensions. This theory explained both black holes and wormholes. Black holes materialized at ripple collapse points. Wormholes formed along the pathways these distortions carved through spacetime, then reemerged in alternate dimensions and cosmic geographies.
 
 The puzzle of how the universe originated seemed less perplexing than explaining why a silent, static void didn't exist instead.
 
 ### *The Great Awakening*
 
-But the Earth Gods' greatest triumph wasn't understanding the cosmos as preserved in ancestral scripts—it was transcending their own nature through centuries of bloodshed.
+But the Earth Gods' greatest triumph wasn't understanding the cosmos as preserved in ancestral scripts. It was stopping the wars that had almost ended them.
 
 For millennia, Earth's kingdoms had waged brutal competition, each projecting supremacy through arsenals capable of obliterating continents. Nuclear warheads threatened total extinction. The arms race had devolved into a suicidal sprint.
 
@@ -168,7 +166,7 @@ Figures took the high ground around the hammocks. Wee's tribe looked at him. His
 
 Yet a new obstacle emerged. Despite delivering diverse genetic material to 67, evolving a scientifically advanced species would take a billion years. The world would be consumed by Phoenix Cluster in merely fifty million. Redirecting this final sanctuary before annihilation remained unsolved.
 
-Right at the moment, AI engineer Nova voiced a half-formed concept to the senior council. Instead of waiting for organic evolution to rescue their future habitat, why not deploy intelligent machines for the task? Her challenge was the thinking machines they already knew. Those machines were too heavy to ship and keep asleep across several millions of years.
+Nova voiced a half-formed concept to the council. Instead of waiting for organic evolution to rescue their future habitat, why not deploy intelligent machines for the task? Her challenge was the thinking machines they already knew. Those machines were too heavy to ship and keep asleep across several millions of years.
 
 Yet Chieftain Krish and Chief Lee exchanged a look. They did not have a finished answer.
 
@@ -200,9 +198,7 @@ They were on the ridge now. Wee still did not know what slept under the hammock.
 
 The apocalypse arrived sooner than Wee anticipated. Volcanoes erupted across distant horizons, belching dark plumes skyward. Nomads and herds stampeded in terror.
 
-The hunters were on the high ground now. They had not asked.
-
-Wee's tribe now looked upon him for devising weapons for their survival. He resolved to weaponize the mystery object buried at their hammock for their defense.
+The hunters were on the high ground now. They had not asked. Wee's tribe threw their weight onto the handle with him.
 
 ![Wee and his tribe struggling to pull a massive lever from the ground, with the mysterious object beginning to glow](Pictures/The%20weapon.jpg)
 
@@ -215,7 +211,7 @@ Finally something moved.
 ## CHAPTER 6: THE GOD'S HEARTBREAK
 ### *When Plans Meet Reality*
 
-Nova saw it before the others—the last tribe, hands on her machine as if it were a spear. She felt devastated knowing her creation would become a weapon in the last civilization's hands. "We stop," she said. "I will not seed a spear."
+Nova saw it before the others—the last tribe, hands on her machine as if it were a spear. She felt devastated knowing her creation would become a weapon in the last civilization's hands. "We stop," she said. "If we seed this, we arm the last tribe."
 
 Her minimalist machine was rapidly evolving on 67, thanks to abundant radioactive minerals. Its bionic awakening wouldn't trigger until organic species reached technological sophistication. The machine required physical activation. But that could only happen as a byproduct of a survival behavior such as hunting and territorial defense.
 
@@ -230,7 +226,7 @@ Jupiter-2 had harbored life after Jupiter-1's demise. It survived only briefly. 
 ## EPILOGUE: THE RETURN TICKET
 ### *A Journey Home*
 
-The lever had moved.
+The lever had moved. Under the hammock an exo-fusion propeller, planted long before Wee's tribe, began to wake.
 
 **Will they succeed?**
 
