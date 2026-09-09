@@ -16,15 +16,17 @@ This is a work of fiction. Names, characters, places, events, and incidents are 
 
 Wee sensed an approaching apocalypse. The sky flickered without rest, hurling fireballs toward a horizon where something vast devoured everything that ventured near. His tribe, the most advanced species left on their planet, still treated those omens as weather.
 
-At sixteen, Wee disappointed his mother. While his cousins struck at prey at first sight, Wee had to clear a why before swinging his flint. That pause branded him a loser among his peers, except a handful who knew he could craft weapons that fell beasts of any size. The same pause is why he stayed by the hammock when others would have run.
+At sixteen, Wee disappointed his mother. While his cousins struck at prey at first sight, Wee had to clear a why before swinging his flint. That pause branded him a loser among his peers, except a handful who knew he could craft weapons that fell beasts of any size. Where the camp would have scattered, the habit of asking why held him at the hammock.
 
 ![Wee examining the mysterious object](Pictures/Wee.jpg)
 
-The object buried there defied him. Its symmetry surpassed anything he had seen: no flake of use, no grain of stone, a geometry that did not belong to bone or flint. Hunters were coming for the high ground around the hammocks. They didn't ask. The tribe would need a weapon, and this was the only shape Wee had ever seen that was not stone, not bone, not flint. He gripped what looked like a handle. It would not budge. He did not let go.
+The object buried there defied him. Its symmetry surpassed anything he had seen: no flake of use, no grain of stone, a geometry that did not belong to bone or flint.
+
+Hunters were coming for the high ground around the hammocks. The tribe would need a weapon, and this was the only shape Wee had ever seen that was not stone, not bone, not flint. He gripped what looked like a handle. It would not budge. He did not let go.
 
 Above the hills the sky kept tearing, and something vast went on eating the horizon.
 
-Two eras earlier, on a world that still had seasons and a council, the people who still had time to choose a next home were already out of easy answers.
+On Venus-2, a world that still had seasons and a council, the people who still had time to choose a next home were already out of easy answers.
 
 ## CHAPTER 1: THE COUNCIL OF VENUS-2
 ### *Era 4 — two eras earlier — Year 54,728: Day 105*
@@ -39,7 +41,7 @@ Chieftain Krish did not soften it. "Dear friends, our world is slowing down."
 
 Everyone in the gallery knew what that meant. The Gods had seeded life here 200 million years ago, drawn by the mix of elements and motions around their sun. Now they were sliding into tidal lock. One face of the world would bake; the other would freeze. Life would become impossible.
 
-Lee cut to the point. "So our time here is running out. Haven't we identified PL67 as our next home? Endgame is a team decision. We are not ready."
+Lee cut to the point. "So our time here is running out. Haven't we identified PL67 as our next home? Endgame is a supreme council's call. You can't veto."
 
 Endgame meant only a select few aboard the Species Ship would leave the dying planet. Even they would arrive as fossilized relics, their bodies a vessel for the seed, not a living colony.
 
