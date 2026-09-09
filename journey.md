@@ -192,17 +192,17 @@ Nova's idea helped to seed the minimal machine in 67 and scheme its evolution al
 They were on the ridge now. Wee still did not know what slept under the hammock. He only knew that if he let go, it was over.
 
 ## CHAPTER 5: STRUGGLE OF THE LAST LIFE
-### *Return to Wee's World*
+### *The Pull*
 
 ![Volcanic eruptions on the horizon with dark smoke clouds, while tribal figures flee across a barren landscape](Pictures/Tribes%20escaping%20apocalypse.jpg)
 
-The apocalypse arrived sooner than Wee anticipated. Volcanoes erupted across distant horizons, belching dark plumes skyward. Nomads and herds stampeded in terror.
+The high ground was already lost. Hunters came down through the smoke. Nomads and herds stampeded past the hammocks. Volcanoes tore the far horizon.
 
-The hunters were on the high ground now. They had not asked. Wee's tribe threw their weight onto the handle with him.
+Wee's hands were already bleeding. His tribe threw their weight onto the handle with him. Flint met the first hunter. Someone fell. They did not let go.
 
 ![Wee and his tribe struggling to pull a massive lever from the ground, with the mysterious object beginning to glow](Pictures/The%20weapon.jpg)
 
-They strained together to wrench the lever from its holding ground. The object warmed as a faint light rose from the seam.
+They strained together to wrench the lever from its holding ground. The hunters reached the hammocks. The object warmed as a faint light rose from the seam.
 
 Finally something moved.
 
