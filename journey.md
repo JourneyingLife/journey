@@ -70,7 +70,7 @@ The Species Ship sculpture towered above them, depicting The Lord Shepherd among
 
 ![The Divine Prophet's Kaaba](Pictures/The%20Dive%20-%20Buddha%20and%20Kaaba.jpg)
 
-They came next into The Divine Prophet's Kaaba, inside the Masjid al-Haram where humans pledged coexistence to rein their neurons. Lord Buddha followed, on the sovereignty of the inner self.
+They came next into The Divine Prophet's Kaaba, inside the Masjid al-Haram where humans pledged coexistence to rein on their neurons. Lord Buddha followed, on the sovereignty of the inner self.
 
 ![Einstein with E=mc²](Pictures/Einstein%20and%20Shiv%20Thandev.jpg)
 
