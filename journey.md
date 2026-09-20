@@ -45,7 +45,7 @@ Lee cut to the point. "So our time here is running out. Haven't we identified PL
 
 Endgame meant only a select few aboard the Species Ship would leave the dying planet. Even they would arrive as fossilized relics, their bodies a vessel for the seed, not a living colony.
 
-Krish refused go down on Lee. "Unlike previous migrations, 67 sits perilously close to Phoenix. Even if we seed life there, evolution will not have matured to save it when the world breeches into the event horizon. Our archive has no answer beyond 67. We need to find if any of the Gods survived a similar challenge. We must revisit..."
+Krish refused and marched on. "Unlike previous migrations, 67 sits perilously close to Phoenix. Even if we seed life there, evolution will not have matured to save it when the world breeches into the event horizon. Our archive has no answer beyond 67. We need to find if any of the Gods survived a similar challenge. We must revisit..."
 
 Lee cut in. "Not Journey. The vault is still only partly read. We wouldn't send a crew into a code we cannot yet trust."
 
