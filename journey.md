@@ -107,9 +107,9 @@ The puzzle of how the universe originated seemed less perplexing than explaining
 
 ### *The Great Awakening*
 
-The same archive showed that Earth's greatest triumph was not that map of the cosmos. It was stopping the wars that had almost ended them.
+The same archive showed that Earth's greatest triumph was not that map of the cosmos. It was stopping of the wars that had almost pushed them to extinction.
 
-For millennia kingdoms had raced to out-arm each other, each projecting supremacy through arsenals capable of obliterating continents. Nuclear warheads threatened total extinction. The arms race had become a suicidal sprint.
+For millennia kingdoms had raced to out-arm each other, each projecting supremacy through arsenals capable of obliterating continents. The arms race had become a suicidal sprint.
 
 ![A massive pile of weapons transforming into medical equipment, farming tools, and humanitarian aid supplies](Pictures/Weapons%20Transforming%20into%20Medical%20aid.jpg)
 
@@ -129,7 +129,7 @@ She drew one more breath. "Make the scriptures layman-readable. When the same co
 
 That was the order. They had a path to 67. They did not yet have a way to keep it alive. Biologists began selecting the DNA sequences to transport. Space engineers timed the crossing at seven thousand years through wormhole W31, which exhibited reversal characteristics matching 67.
 
-The gap stayed open: a billion years to raise a scientifically advanced species, fifty million until Phoenix swallowed the world.
+The gap stayed wide open: a billion years to raise a scientifically advanced species, fifty million until Phoenix swallowed the world.
 
 ## CHAPTER 4: THE MACHINE
 ### *Merging Biology with Technology*
@@ -144,11 +144,11 @@ Krish turned to her. "Your proposal is the only one in the room. Infrastructure 
 
 ![Visual representation of the six elements: Fire, Ground, Air, Water, Electricity/Sky, and Destiny - each with symbolic imagery connected to different organs](Pictures/The%20Elements.jpg)
 
-Lee named the six that formed life. "Fire in the heart. Ground in the stomach. Air in the lungs. Water in the kidneys. Electricity—called as sky in the old Indian scripts, wood in the Chinese—working through the liver. And the sixth, the Destiny carrier, holds the blueprint of life—the inherited code that builds every new organism."
+Lee named the six that formed life. Fire, Earth, Air, Water, Electricy and the destiny carrier. The sixth holds the blueprint of life—the inherited code that re-builds organism."
 
 The carrier they needed was not a rack of sleeping machines. It was life itself.
 
-Nova asked the next question. "If we understand that foundation, why can't we construct living organisms directly instead of machines?"
+Nova asked, "If we understand that foundation, why can't we construct living organisms directly instead of machines?"
 
 Krish did not pretend they could. "Creating life remains nature's exclusive mystery. Living forms possess the most efficient motor system ever devised. We've never engineered anything approaching half that efficiency."
 
@@ -186,7 +186,7 @@ Mary, the lead anthropologist, would not let her pull the plan back. "You do not
 
 ![Asteroids floating in space representing the remains of Jupiter 2's desperate attempt to survive](Pictures/Astroids%20from%20Venus2.jpg)
 
-Jupiter-2 had harbored life after Jupiter-1 died, and only briefly. They had no reactors fit for a proper vessel. They fired a crude exo-fusion and hurled a primitive shuttle into the void. The rock they left became a hazard for every age after. Where those travelers arrived remains unknown.
+Jupiter-2 had harbored life after Jupiter-1 died, and only briefly. They had no reactors fit for a proper vessel. They fired a crude exo-fusion and hurled a primitive shuttle into the void. The debris they left became a hazard for every age after. Where those travelers arrived remains unknown.
 
 Mary's point stood in the room like a closed door. They seeded the machine.
 
