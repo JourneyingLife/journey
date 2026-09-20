@@ -14,17 +14,17 @@ This is a work of fiction. Names, characters, places, events, and incidents are 
 
 ![The last planet approaching Phoenix Cluster](Pictures/PL67.jpg)
 
-Wee sensed an approaching apocalypse. The sky flickered without rest, hurling fireballs toward a horizon where something vast devoured everything that ventured near. His tribe, the most advanced species left on their planet, still treated those omens as weather.
+Wee sensed an approaching apocalypse in his bone. The sky flickered endlessly. Fireballs hurled toward a horizon where something vast devoured all that ventured near. His tribe, the most advanced species evolving on their planet, dismissed it as another bad weather.
 
-At sixteen, Wee disappointed his mother. While his cousins struck at prey at first sight, Wee had to clear a why before swinging his flint. That pause branded him a loser among his peers, except a handful who knew he could craft weapons that fell beasts of any size. Where the camp would have scattered, the habit of asking why held him at the hammock.
+At sixteen, Wee disappointed his mother. While his cousins struck at prey at first sight, Wee had to clear a why before swinging his flint. That pause had branded him as a loser among his peers. Only a few had seen him felling ferocious beasts with his handcrafted device.
 
 ![Wee examining the mysterious object](Pictures/Wee.jpg)
 
-The object buried there defied him. Its symmetry surpassed anything he had seen: no flake of use, no grain of stone, a geometry that did not belong to bone or flint.
+But even for him the object planted on their hammock defied comprehension. Its symmetry surpassed anything he had seen. A geometry that did not belong to bone or flint.
 
-Hunters were coming for the high ground around the hammocks. The tribe would need a weapon, and this was the only shape Wee had ever seen that was not stone, not bone, not flint. He gripped what looked like a handle. It would not budge. He did not let go.
+He barely heard the vail that went off to warn the sighting of hunters at woods at lower grounds. Wee's tribe were at the brink of losing their hammock, the only habitable land in their planet. They desparately sought for devicing a way to chase the vandals. He gripped the lever one more time. It would not budge as ever. He held on.
 
-Above the hills the sky kept tearing, and something vast went on eating the horizon.
+Above the hills the sky kept tearing and the horizon disappearing fast.
 
 On Venus-2, a world that still had seasons and a council, the people who still had time to choose a next home were already out of easy answers.
 
@@ -33,34 +33,34 @@ On Venus-2, a world that still had seasons and a council, the people who still h
 
 ![The Council of Venus-2](Pictures/Gallery.jpg)
 
-The amber knoll rang through the virtual gallery—Venus-2's alarm for a gathering that could not wait. Faces assembled in light: dolphin, octopus, and the remote shimmer of Chief Lee, still on Rulers' Holiday.
+The amber knoll rang throughout the council of Venus-2 meant to gather for an urgent announcement. As they started assembling dolphin, octopus, and the remote shimmer of Chief Lee, still on Rulers' Holiday faces were full grim.
 
 Dolphins held governance. The two species had learned from Earth's archives how to work together. Earth scientists had enhanced their empathy pathways, bridging a gap that once kept marine minds from complex reasoning. Dolphins held the long plan. Octopuses solved what was in front of them. Together they accomplished what neither could do alone.
 
 Chieftain Krish did not soften it. "Dear friends, our world is slowing down."
 
-Everyone in the gallery knew what that meant. The Gods had seeded life here 200 million years ago, drawn by the mix of elements and motions around their sun. Now they were sliding into tidal lock. One face of the world would bake; the other would freeze. Life would become impossible.
+Everyone in the gallery knew what that meant. "The Gods had seeded life here 200 million years ago, drawn by the mix of elements and motions around their sun. Now they were sliding into tidal lock. One face of the world would bake; the other would freeze. Life would become impossible".
 
 Lee cut to the point. "So our time here is running out. Haven't we identified PL67 as our next home? Endgame is a supreme council's call. You can't veto."
 
 Endgame meant only a select few aboard the Species Ship would leave the dying planet. Even they would arrive as fossilized relics, their bodies a vessel for the seed, not a living colony.
 
-Krish did not wait. "Here's why it cannot wait. Unlike previous migrations, 67 sits perilously close to Phoenix. Even if we seed life there, evolution will not have matured to save it when the world reaches the event horizon. Our archive has no answer beyond 67. We need to find if any of the Gods survived a similar challenge. We must revisit..."
+Krish declined. "Unlike previous migrations, 67 sits perilously close to Phoenix. Even if we seed life there, evolution will not have matured to save it when the world breeches into the event horizon. Our archive has no answer beyond 67. We need to find if any of the Gods survived a similar challenge. We must revisit..."
 
-Lee cut in. "Not Journey. The vault is still only partly read. We would send a crew into a code we cannot yet trust."
+Lee cut in. "Not Journey. The vault is still only partly read. We wouldn't send a crew into a code we cannot yet trust."
 
 "Journey," Krish said. The amber knoll kept ringing.
 
-Journey lay in the Atlantis depths: an archaeological vault of scripts from the dawn of time, found by octopuses long ago, still only partly decrypted. Researchers believed earlier travelers had left it so later civilizations would not have to reinvent the path. If anyone had survived a last world, the answer was there.
+Journey lay in the Atlantis depths: an archaeological vault of scripts from the dawn of time, found by octopuses long ago, but still only partly decrypted as the path is walled with deadly spears. Researchers believed earlier travelers from across stars had bequested it so later civilizations would not have to reinvent.
 
 ---
 
-Far ahead in time, on the last habitable world, Wee's hands were still locked on the handle. The hunters had taken the ridge above the hammocks. He did not look up.
+Far ahead in time, on the last world, Wee's hands were still locked on the handle. The hunters had taken a ridge. He did not look up.
 
 ## CHAPTER 2: THE DIVE
 ### *Into the Depths of History*
 
-Because Krish would not wait, a crew dived at dawn into black water that had never forgiven curiosity. They were hunting one unread code in Journey—the part that might tell them how to keep life past 67. Biologists, astronomers and physicists went together.
+As Krish would not wait, a crew dived at dawn into black water that had never forgiven curiosity. They were hunting one unread code in Journey—the part that might tell them how to keep life past 67. Biologists, astronomers and physicists signed in.
 
 ![Linga rock - ancient generator](Pictures/The%20Dive%20-%20Linga%20and%20Species%20Ship.jpg)
 
