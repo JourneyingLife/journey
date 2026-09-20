@@ -22,7 +22,7 @@ At sixteen, Wee disappointed his mother. While his cousins struck at prey at fir
 
 But even for him the object planted on their hammock defied comprehension. Its symmetry surpassed anything he had seen. A geometry that did not belong to bone or flint.
 
-He barely heard the vail that went off to warn the sighting of hunters at woods at lower grounds. Wee's tribe were at the brink of losing their hammock, the only habitable land in their planet. They desparately sought for devicing a way to chase the vandals. He gripped the lever one more time. It would not budge as ever. He held on.
+He barely heard the vail that went off to warn the sighting of haunters at woods at lower grounds. Wee's tribe were at the brink of losing their hammock, the only habitable land in their planet. They desparately sought for devicing a way to chase the vandals. He gripped the lever one more time. It would not budge as ever. He held on.
 
 Above the hills the sky kept tearing and the horizon disappearing fast.
 
@@ -33,50 +33,50 @@ On Venus-2, a world that still had seasons and a council, the people who still h
 
 ![The Council of Venus-2](Pictures/Gallery.jpg)
 
-The amber knoll rang throughout the council of Venus-2 meant to gather for an urgent announcement. As they started assembling dolphin, octopus, and the remote shimmer of Chief Lee, still on Rulers' Holiday faces were full grim.
+The amber knoll rang throughout the council of Venus-2 meant to gather for an urgent announcement. As they started assembling dolphin, octopus, and the remote shimmer of Chief Shiva Lee, still on Rulers' Holiday, faces were full grim.
 
 Dolphins held governance. The two species had learned from Earth's archives how to work together. Earth scientists had enhanced their empathy pathways, bridging a gap that once kept marine minds from complex reasoning. Dolphins held the long plan. Octopuses solved what was in front of them. Together they accomplished what neither could do alone.
 
-Chieftain Krish did not soften it. "Dear friends, our world is slowing down."
+Chieftain Krish broke the calm. "Dear people, our world is slowing down."
 
-Everyone in the gallery knew what that meant. "The Gods had seeded life here 200 million years ago, drawn by the mix of elements and motions around their sun. Now they were sliding into tidal lock. One face of the world would bake; the other would freeze. Life would become impossible".
+Everyone in the gallery knew what that meant. "The Gods had seeded life here eight hundred million years ago, drawn by the mix of elements and motions around their sun. Now they were sliding into tidal lock. One face of the world would bake; the other would freeze. Life would become impossible".
 
 Lee cut to the point. "So our time here is running out. Haven't we identified PL67 as our next home? Endgame is a supreme council's call. You can't veto."
 
 Endgame meant only a select few aboard the Species Ship would leave the dying planet. Even they would arrive as fossilized relics, their bodies a vessel for the seed, not a living colony.
 
-Krish declined. "Unlike previous migrations, 67 sits perilously close to Phoenix. Even if we seed life there, evolution will not have matured to save it when the world breeches into the event horizon. Our archive has no answer beyond 67. We need to find if any of the Gods survived a similar challenge. We must revisit..."
+Krish refused go down on Lee. "Unlike previous migrations, 67 sits perilously close to Phoenix. Even if we seed life there, evolution will not have matured to save it when the world breeches into the event horizon. Our archive has no answer beyond 67. We need to find if any of the Gods survived a similar challenge. We must revisit..."
 
 Lee cut in. "Not Journey. The vault is still only partly read. We wouldn't send a crew into a code we cannot yet trust."
 
 "Journey," Krish said. The amber knoll kept ringing.
 
-Journey lay in the Atlantis depths: an archaeological vault of scripts from the dawn of time, found by octopuses long ago, but still only partly decrypted as the path is walled with deadly spears. Researchers believed earlier travelers from across stars had bequested it so later civilizations would not have to reinvent.
+Journey lay in the Atlantis depths: an archaeological vault of scripts from the dawn of time, found by octopuses long ago, but still only partly decrypted as the path is walled with deadly maze. Researchers believed travelers from across stars had bequested it so later civilizations would not have to reinvent.
 
 ---
 
-Far ahead in time, on the last world, Wee's hands were still locked on the handle. The hunters had taken a ridge. He did not look up.
+Far ahead in time, on the last world, Wee's hands were still locked on the handle. The haunters had taken a ridge. He did not look up.
 
 ## CHAPTER 2: THE DIVE
 ### *Into the Depths of History*
 
-As Krish would not wait, a crew dived at dawn into black water that had never forgiven curiosity. They were hunting one unread code in Journey—the part that might tell them how to keep life past 67. Biologists, astronomers and physicists signed in.
+As Krish would not wait, a crew dived at dawn into black water that had never forgiven curiosity. They were hunting one unread code in Journey—the part that might reveal how to keep life past 67.
 
 ![Linga rock - ancient generator](Pictures/The%20Dive%20-%20Linga%20and%20Species%20Ship.jpg)
 
 Past the third mile the gold halls opened: structures forged against the crush of the sea, still luminous after millennia. Tory took Linga rock through binoculars: "Change of magnetic flux passing through closed circuits produces electricity." The central beam and orbiting disks were a generator. Current ran through it like a serpent.
 
-The Species Ship sculpture towered above them, depicting The Lord Shepherd among every form of life—the old method: DNA capsules carried across light-years to seed a world.
+The Species Ship sculpture towered above them, depicting The Lord Shepherd among every form of life—the transpermia way: DNA capsules carried across light-years to seed a world.
 
 ![The Divine Prophet's Kaaba](Pictures/The%20Dive%20-%20Buddha%20and%20Kaaba.jpg)
 
-They came next into The Divine Prophet's Kaaba, inside the Masjid al-Haram where humans had once pledged coexistence. Lord Buddha followed, on the sovereignty of the inner self.
+They came next into The Divine Prophet's Kaaba, inside the Masjid al-Haram where humans pledged coexistence to rein their neurons. Lord Buddha followed, on the sovereignty of the inner self.
 
 ![Einstein with E=mc²](Pictures/Einstein%20and%20Shiv%20Thandev.jpg)
 
-Einstein bore the nuclear formula that had equipped every civilization with abundant nuclear energy. Free-moving subatomic masses traveling at Light speed breached another mass's boundary. They locked into an eternal dance that treasured their combined kinetic energy for a shrewd engineer to harvest.
+Einstein bore the nuclear formula that had equipped every civilization with abundant nuclear energy. Free-moving subatomic masses traveling at Light speed, breach another mass's boundary, lock into eternal dance that treasur their combined kinetic energy for a shrewd engineer to harvest.
 
-Known answers, all of them, already mapped. They needed the one they were not sure had ever existed.
+Known answers, all already mapped. They needed the one they were not sure had ever existed.
 
 Amid the sculptures streaming past they nearly missed the ring-bound Dancing Lord. Young Rafi asked why it stood among the other academic settings.
 
@@ -101,7 +101,7 @@ The hunters came down from the ridge. Dirt shifted around the buried symmetry. W
 
 She held the pattern readable while she still could. Through Daisy they saw how earlier scholars had pursued a fundamental mystery: how larger celestial bodies attracted smaller ones without visible tethers. They still could not say what pulled world toward world. While light traveled an astonishing three hundred million meters per second, cosmic bodies just stayed put, drifting around the same spot.
 
-They watched solar orbits mirroring subatomic paths and concluded that shapes and motion were merely impressions perceived by conscious beings. The universe appeared to be an endlessly recurring microcosmic pattern, as the Dancing Deity depicted. Ripples propagated in every direction and generated the illusion of form and movement across higher dimensions. This theory explained both black holes and wormholes. Black holes materialized at ripple collapse points. Wormholes formed along the pathways these distortions carved through spacetime, then reemerged in alternate dimensions and cosmic geographies.
+They watched solar orbits mirroring subatomic paths and concluded that shapes and motion were merely the harmonic at the perceived wavelength. The universe appeared to be an endlessly recurring microcosmic pattern, as the Dancing Deity depicted. Ripples propagated in every direction and generated the illusion of forms across higher dimensions. This theory explained both black holes and wormholes. Black holes materialized at ripple collapse points. Wormholes formed along the pathways those distortions carved through spacetime, then reemerged in alternate dimensions and cosmic geographies.
 
 The puzzle of how the universe originated seemed less perplexing than explaining why a silent, static void didn't exist instead.
 
@@ -113,13 +113,13 @@ For millennia kingdoms had raced to out-arm each other, each projecting supremac
 
 ![A massive pile of weapons transforming into medical equipment, farming tools, and humanitarian aid supplies](Pictures/Weapons%20Transforming%20into%20Medical%20aid.jpg)
 
-The shift began when a seven-year-old girl in a war-torn region needed a heart. Her match came from a soldier of the "enemy" nation who had fallen shielding civilians. As her new heart beat, families saw yesterday's uniform on the body that had saved their child. Weapons factories fell silent.
+The shift began when a seven-year-old in a warring land needed a heart. Her match came from a soldier of the "enemy" nation who had fallen shielding civilians. As her new heart beat, families saw yesterday's uniform on the body that had saved their child. Weapons factories fell silent.
 
 ![Diverse leaders from different nations gathering around a holographic display showing interconnected people across continents, with weapons being dismantled in the background](Pictures/Children%20of%20free%20world.jpg)
 
 ![Medical professionals from different nations collaborating over a holographic network showing organ donor matches across continents](Pictures/Global%20organ%20donation%20network%20in%20action.jpg)
 
-Within three generations, "enemy nations" was archaic. How do you despise the people whose gift gave your daughter another sunrise?
+Within three generations, "enemy nations" was archaic. How do you despise the people whose gift gave your child another sunrise?
 
 Daisy's voice thinned. "Go find a friendly wormhole to send your Species Ship through."
 
@@ -144,7 +144,7 @@ Krish turned to her. "Your proposal is the only one in the room. Infrastructure 
 
 ![Visual representation of the six elements: Fire, Ground, Air, Water, Electricity/Sky, and Destiny - each with symbolic imagery connected to different organs](Pictures/The%20Elements.jpg)
 
-Lee named the six. "Fire in the heart. Ground in the stomach. Air in the lungs. Water in the kidneys. Electricity—sky in the old Indian scripts, wood in the Chinese—working through the liver. And the sixth, the Destiny carrier, holds the blueprint of life—the inherited code that builds every new organism."
+Lee named the six that formed life. "Fire in the heart. Ground in the stomach. Air in the lungs. Water in the kidneys. Electricity—called as sky in the old Indian scripts, wood in the Chinese—working through the liver. And the sixth, the Destiny carrier, holds the blueprint of life—the inherited code that builds every new organism."
 
 The carrier they needed was not a rack of sleeping machines. It was life itself.
 
@@ -165,24 +165,24 @@ On the last world the hunters were on the ridge. Wee still did not know what sle
 
 ![Volcanic eruptions on the horizon with dark smoke clouds, while tribal figures flee across a barren landscape](Pictures/Tribes%20escaping%20apocalypse.jpg)
 
-The high ground was already lost. Hunters came down through the smoke. Nomads and herds stampeded past the hammocks. Volcanoes tore the far horizon, and ash made the air taste of stone.
+The high ground was already lost. Haunters came down through the smoke. Nomads and herds stampeded past the hammocks. Volcanoes tore the far horizon, and ash made the air taste of stone.
 
-Wee's hands were already bleeding on the handle. His tribe threw their weight onto it with him. Flint met the first hunter at the edge of the hammocks. Someone fell. They did not let go.
+Wee's hands were heavily bleeding on the handle. His tribe threw their weight onto it with him. Flint met the first haunter at the edge of the hammock. Someone fell. They did not let go.
 
 ![Wee and his tribe struggling to pull a massive lever from the ground, with the mysterious object beginning to glow](Pictures/The%20weapon.jpg)
 
-They strained together to wrench the lever from its holding ground. The hunters reached the hammocks. The object warmed; a faint light rose from the seam, as if something long asleep had noticed the pull.
+They strained together to wrench the lever from its holding ground. The haunters reached the hammock. The object warmed; a faint light rose from the seam, as if something long asleep had noticed the pull.
 
 Finally something moved.
 
 ## CHAPTER 6: THE SPEAR
 ### *When the plan meets the pull*
 
-That same pull reached Nova. She saw the last tribe with their hands on her machine as if it were a spear. "We stop," she said. "If we seed this, we arm the last tribe."
+Nova foresaw what was coming. Saw the tribe handing her machine as if it were a spear. "We stop," she said. "If we seed this, we arm the last of our species."
 
 The small machine would evolve on 67 among radioactive minerals. Its bionic awakening would not trigger until organic species were advanced enough to touch it, and only as a byproduct of survival—hunting, territorial defense.
 
-Mary, the lead anthropologist, would not let her pull the plan back. "You do not get to stop. The objective is what matters. Jupiter-2 hesitated and burned. We seed it. There is no alternative."
+Mary, the lead anthropologist, would not let her pull the plan back. "You do not get to stop. Jupiter-2 hesitated and burned. We seed it. There is no alternative."
 
 ![Asteroids floating in space representing the remains of Jupiter 2's desperate attempt to survive](Pictures/Astroids%20from%20Venus2.jpg)
 
