@@ -214,36 +214,27 @@ Civilizations move as their suns cool: first through our solar system, then to V
 
 ---
 
-## GLOSSARY
+## BLOOPERS AND REFERENCES
 
-Short notes for lines in the story. Sources follow.
-
-**XOR**: A yes-but-not-both rule. One path is true, the other is not. That kind of distinction supports complex reasoning.  
-*In the story:* "Earth scientists had enhanced their empathy pathways, bridging a gap that once kept marine minds from complex reasoning."
-
-**Gravity**: One idea in the story is that unseen masses strike a body more on its far side than on the near sides facing each other.  
-*In the story:* "They still could not say what pulled world toward world."
-
-**Large language models**: The heavy thinking machines Nova first pictured. Too much mass and power to ship asleep for millions of years.  
-*In the story:* "The thinking machines they knew were too heavy to ship and keep asleep across several millions of years."
-
-**The six elements**: Fire (heart), Ground (stomach), Air (lungs), Water (kidneys), Electricity (liver), Destiny carrier (the inherited code that builds a new organism).  
-*In the story:* "Fire in the heart. Ground in the stomach. Air in the lungs. Water in the kidneys."
-
-**ATP / ADP**: The energy currency of cells. ATP breaking into ADP powers muscle and feeds leftover heat into metabolism.  
-*In the story:* "Living forms possess the most efficient motor system ever devised."
+These notes sit beside the story, not inside it. Each topic is a classroom try at the science that was trimmed out of the chapters. The lecturer presents the idea. The students say **no way**. The sources are background, not proof.
 
 ---
 
-## REFERENCES
+### Chapter 1 — dolphins, octopuses, and XOR
 
-Each source sits under a story line. It is background, not proof.
+*In the story:* "Earth scientists had enhanced their empathy pathways, bridging a gap that once kept marine minds from complex reasoning."
 
-**Chapter 1 — dolphins and octopuses thinking together**
+**Classroom blooper**
 
-*"Earth scientists had enhanced their empathy pathways, bridging a gap that once kept marine minds from complex reasoning."*
+Lecturer: Early marine brains, like most animals, ran on sodium-based circuitry. They lacked the potassium-based networks that support XOR — exclusive-or, a yes-but-not-both rule. That distinction is the kind of gate that lets a mind hold two paths and pick one. Earth scientists later calibrated potassium channel thresholds so even non-primate neurons could perform anticoincidence detection and XOR. Enhance the empathy pathways, and a dolphin can hold the long plan while an octopus solves what is in front of it.
 
-Neuroscience and ion channels:
+Student: No way. You do not install an XOR chip in a wild brain and get a council.
+
+Another: No way a sodium-versus-potassium story turns two species into a government.
+
+Lecturer: In the novel they did. That is why the gallery can argue.
+
+**Sources**
 
 1. OpenStax. *Anatomy & Physiology 2e* (nervous tissue, membrane potential, ion channels, action potentials). https://openstax.org/details/books/anatomy-and-physiology-2e
 2. Harikesh, P.C., Gao, D., Wu, H.Y., Yang, C.Y., Tu, D., et al. (2025). "Single organic electrochemical neuron capable of anticoincidence detection." *Science Advances* (open access). https://doi.org/10.1126/sciadv.adv3194
@@ -251,78 +242,168 @@ Neuroscience and ion channels:
 
 ---
 
-**Chapter 1 — why this world was seeded, and why it is dying**
+### Chapter 1 — why this world was seeded, and why it is dying
 
-*"The Gods had seeded life here 200 million years ago, drawn by the mix of elements and motions around their sun."*  
-*"Now they were sliding into tidal lock."*
+*In the story:* "The Gods had seeded life here eight hundred million years ago, drawn by the mix of elements and motions around their sun."  
+*In the story:* "Now they were sliding into tidal lock. One face of the world would bake; the other would freeze."
 
-Habitable zones and planetary habitability:
+**Classroom blooper**
+
+Lecturer: A world is seeded when the mix of elements and motions around its sun can hold liquid and life. Venus-2 had that window for eight hundred million years. Then the planet's spin bled away. One face locked to the sun. That face baked. The night face froze. Life became impossible.
+
+Student: No way a council still has seasons if tidal lock is already that close.
+
+Another: No way you just pack a Species Ship and call that a migration. Most of you stay and die.
+
+Lecturer: That is the point of Endgame. Only a few leave. Even they arrive as fossilized relics.
+
+**Sources**
 
 1. NASA Exoplanet Exploration. "Habitable Zone." https://exoplanets.nasa.gov/what-is-an-exoplanet/habitable-zone/
 2. Kopparapu, R.K., Ramirez, R., Kasting, J.F., et al. (2013). "Habitable Zones around Main-sequence Stars: New Estimates." arXiv:1301.6674. https://arxiv.org/abs/1301.6674
 
 ---
 
-**Chapter 2 — DNA carried across the stars**
+### Chapter 2 — DNA carried across the stars
 
-*"DNA capsules carried across light-years to seed a world."*
+*In the story:* "the transpermia way: DNA capsules carried across light-years to seed a world."
 
-Panspermia / seeding life:
+**Classroom blooper**
+
+Lecturer: The Lord Shepherd on the Species Ship is not a hymn. It is a method. Earlier travelers did not need to arrive alive. They sent DNA capsules across light-years — transpermia — and let a new world grow the next people.
+
+Student: No way a capsule survives interstellar radiation and still builds a civilization.
+
+Another: No way you call that a seed and not a grave.
+
+Lecturer: In the archive it is the old method. That is why the sculpture towers over the gold halls.
+
+**Sources**
 
 1. Wikipedia contributors. "Panspermia." https://en.wikipedia.org/wiki/Panspermia
 
 ---
 
-**Chapter 3 — Phoenix, black holes, and a friendly wormhole**
+### Chapter 3 — what pulled world toward world
 
-*"Go find a friendly wormhole to send your Species Ship through."*  
-*"Black holes materialized at ripple collapse points."*
+*In the story:* "They still could not say what pulled world toward world."
 
-Black holes and wormholes:
+**Classroom blooper**
+
+Lecturer: Light travels three hundred million meters a second. Worlds just stay put, drifting around the same spot. One idea in Journey is that unseen masses strike a body more on its far side than on the near sides facing each other. Pressure rises on the far surface. That push looks, from inside the room, like a pull.
+
+Student: No way. Gravity is not a hail of invisible balls hitting the back of a planet.
+
+Another: No way solar orbits and electron orbits are the same dance just because they look alike.
+
+Lecturer: The scholars in the archive still could not close the case. Daisy only held the pattern readable.
+
+**Sources**
+
+1. NASA Science. "Black Holes." https://science.nasa.gov/universe/black-holes/
+
+---
+
+### Chapter 3 — black holes, wormholes, and a friendly crossing
+
+*In the story:* "Black holes materialized at ripple collapse points."  
+*In the story:* "Go find a friendly wormhole to send your Species Ship through."
+
+**Classroom blooper**
+
+Lecturer: If form and motion are harmonics at a perceived wavelength, then a ripple can collapse. At the collapse: a black hole. Along the path the distortion carves: a wormhole, reemerging in another geography. W31 reversed in a way that matched 67. Seven thousand years through that throat, and the seed arrives.
+
+Student: No way you pick a friendly wormhole the way you pick a harbor.
+
+Another: No way a ship of relics survives a throat in spacetime.
+
+Lecturer: Daisy had one breath left. That was the order she spent it on.
+
+**Sources**
 
 1. NASA Science. "Black Holes." https://science.nasa.gov/universe/black-holes/
 2. Lobo, F.S.N. (2007). "Exotic solutions in General Relativity: Traversable wormholes and warp drive spacetimes." arXiv:0710.4474. https://arxiv.org/abs/0710.4474
 
 ---
 
-**Chapter 3 — the soldier's heart**
+### Chapter 3 — the soldier's heart
 
-*"Her match came from a soldier of the 'enemy' nation who had fallen shielding civilians."*  
-*"How do you despise the people whose gift gave your daughter another sunrise?"*
+*In the story:* "Her match came from a soldier of the 'enemy' nation who had fallen shielding civilians."  
+*In the story:* "How do you despise the people whose gift gave your child another sunrise?"
 
-Organ transplantation:
+**Classroom blooper**
+
+Lecturer: A seven-year-old in a warring land needed a heart. The match was a soldier of the other side. The new heart beat. Families saw yesterday's uniform on the body that saved their child. Weapons factories fell silent. Within three generations, "enemy nations" was an old phrase.
+
+Student: No way one transplant ends an arms race.
+
+Another: No way arsenals turn into hospitals because a child lived.
+
+Lecturer: The archive calls it Earth's greatest triumph — not the map of the cosmos, the stopping of the wars.
+
+**Sources**
 
 1. WHO Global Observatory on Donation and Transplantation. (2023). "International Report on Organ Donation and Transplantation Activities." https://www.transplant-observatory.org
 2. World Health Organization (WHO). "Organ donation and transplantation" (overview and guidance). https://www.who.int/health-topics/transplantation
 
 ---
 
-**Chapter 4 — machines too heavy to sleep through evolution**
+### Chapter 4 — machines too heavy to sleep through evolution
 
-*"The thinking machines they knew were too heavy to ship and keep asleep across several millions of years."*
+*In the story:* "The thinking machines they knew were too heavy to ship and keep asleep across several millions of years."
 
-Large language models:
+**Classroom blooper**
+
+Lecturer: Nova's first picture was the thinking machines they already knew: large language models. A typical stack ran about 70 billion parameters, ate 140 GB of GPU memory, needed 4 GPUs per instance, and drew 50 kW per serving cluster. Ship that mass. Keep it asleep for several million years. Wake it on 67 in time to move a world.
+
+Student: No way. You cannot crate a server farm and nap it across geologic time.
+
+Another: No way 50 kilowatts of gossiping weights save a planet.
+
+Lecturer: That is why they stopped waiting for racks and looked at a carrier that already copies itself: life.
+
+**Sources**
 
 1. Brown, T., Mann, B., Ryder, N., et al. (2020). "Language models are few-shot learners." *Advances in Neural Information Processing Systems*, 33, 1877-1901. https://arxiv.org/abs/2005.14165
 
 ---
 
-**Chapter 4 — the six elements and the Destiny carrier**
+### Chapter 4 — the six elements and the Destiny carrier
 
-*"Fire in the heart. Ground in the stomach. Air in the lungs. Water in the kidneys. Electricity—sky in the old Indian scripts, wood in the Chinese—working through the liver."*
+*In the story:* "Lee named the six that formed life. Fire, Earth, Air, Water, Electricy and the destiny carrier."
 
-Five Element theory:
+**Classroom blooper**
+
+Lecturer: Encode five interactions onto the sixth. Fire in the heart — about seventy beats a minute. Earth in the stomach — food broken into the energy the body spends. Air in the lungs — about twenty thousand breaths a day. Water in the kidneys — about two hundred liters of blood filtered daily. Electricity through the liver — sky in the old Indian scripts, wood in the Chinese — hundreds of transformations at once. The Destiny carrier is the inherited code that rebuilds every new organism.
+
+Student: No way you map five old elements onto organs and call that an engineering spec.
+
+Another: No way a "destiny carrier" is just DNA with a ceremonial name.
+
+Lecturer: Krish needed a carrier that was not a rack of sleeping machines. Lee named life itself.
+
+**Sources**
 
 1. National Center for Complementary and Integrative Health (NCCIH). "Traditional Chinese Medicine: What You Need To Know." https://www.nccih.nih.gov/health/traditional-chinese-medicine-what-you-need-to-know
 2. Wikipedia contributors. "Wuxing (Chinese philosophy)." https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)
 
 ---
 
-**Chapter 4 — life as the motor no machine has matched**
+### Chapter 4 — life as the motor no machine has matched
 
-*"Creating life remains nature's exclusive mystery. Living forms possess the most efficient motor system ever devised."*
+*In the story:* "Creating life remains nature's exclusive mystery. Living forms possess the most efficient motor system ever devised."
 
-Cellular energy, ATP, and chemiosmosis:
+**Classroom blooper**
+
+Lecturer: The currency is ATP, adenosine triphosphate. When ATP implodes into ADP, adenosine diphosphate, it releases the energy that powers a muscle fiber. The leftover heat feeds metabolism. Chemiosmosis builds the ATP in the first place. No machine they built approached half that efficiency. That is why they cannot construct a living organism the way they construct a shuttle.
+
+Student: No way a molecule with three phosphates is a better engine than fusion.
+
+Another: No way leftover heat is a design feature.
+
+Lecturer: Krish did not pretend they could make life. They seeded a minimal machine beside organic species and hoped evolution would finish the job.
+
+**Sources**
 
 1. Mitchell, P. (1978). "David Keilin’s Respiratory Chain Concept and Its Chemiosmotic Consequences" (Nobel Lecture). https://www.nobelprize.org/prizes/chemistry/1978/mitchell/lecture/ (PDF: https://www.nobelprize.org/uploads/2018/06/mitchell-lecture.pdf)
 2. OpenStax. *Biology 2e* — "7.4 Oxidative Phosphorylation" (chemiosmosis, ATP synthase, ADP→ATP). https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation
