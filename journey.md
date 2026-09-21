@@ -214,9 +214,9 @@ Civilizations move as their suns cool: first through our solar system, then to V
 
 ---
 
-## NOTES AND REFERENCES
+## BLOOPERS AND REFERENCES
 
-Story line, then the class, then the sources. The sources are background, not proof.
+Story line, then the blooper, then the sources. The sources are background, not proof.
 
 ---
 
