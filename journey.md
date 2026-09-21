@@ -226,7 +226,7 @@ Story line, then the class, then the sources. The sources are background, not pr
 
 Lecturer: Sodium brains. No XOR. Tune the potassium channels, add empathy pathways, and a dolphin plus an octopus can run a world.
 
-Biologist: No way you install a logic gate and get a council.
+Biologist: That is a chip. It is not a government.
 
 1. OpenStax. *Anatomy & Physiology 2e* (nervous tissue, membrane potential, ion channels, action potentials). https://openstax.org/details/books/anatomy-and-physiology-2e
 2. Harikesh, P.C., Gao, D., Wu, H.Y., Yang, C.Y., Tu, D., et al. (2025). "Single organic electrochemical neuron capable of anticoincidence detection." *Science Advances* (open access). https://doi.org/10.1126/sciadv.adv3194
@@ -254,7 +254,7 @@ Astronomer: Then how do they still have seasons?
 
 Lecturer: No one has to arrive alive. Send DNA. Let the world grow the next people.
 
-Student: No way you call that a seed and not a grave.
+Student: That is a grave with a shipping label.
 
 1. Wikipedia contributors. "Panspermia." https://en.wikipedia.org/wiki/Panspermia
 
@@ -266,7 +266,7 @@ Student: No way you call that a seed and not a grave.
 
 Lecturer: Unseen masses hit the far side harder than the near sides. The push looks like a pull.
 
-Student: No way. Gravity is not hail on the back of a planet.
+Student: Gravity is not hail on the back of a planet.
 
 1. NASA Science. "Black Holes." https://science.nasa.gov/universe/black-holes/
 
@@ -279,7 +279,7 @@ Student: No way. Gravity is not hail on the back of a planet.
 
 Lecturer: Ripple collapses: black hole. The scar through spacetime: wormhole W31. Seven thousand years to 67.
 
-Navigator: No way you pick a throat like a harbor.
+Navigator: You do not pick a throat like a harbor.
 
 1. NASA Science. "Black Holes." https://science.nasa.gov/universe/black-holes/
 2. Lobo, F.S.N. (2007). "Exotic solutions in General Relativity: Traversable wormholes and warp drive spacetimes." arXiv:0710.4474. https://arxiv.org/abs/0710.4474
@@ -293,7 +293,7 @@ Navigator: No way you pick a throat like a harbor.
 
 Lecturer: One enemy heart. Factories go silent. Three generations later, no enemies.
 
-Historian: No way one transplant is a treaty.
+Historian: One transplant is not a treaty.
 
 1. WHO Global Observatory on Donation and Transplantation. (2023). "International Report on Organ Donation and Transplantation Activities." https://www.transplant-observatory.org
 2. World Health Organization (WHO). "Organ donation and transplantation" (overview and guidance). https://www.who.int/health-topics/transplantation
@@ -306,7 +306,7 @@ Historian: No way one transplant is a treaty.
 
 Lecturer: 70 billion parameters. 140 GB. 4 GPUs. 50 kW. Sleep that stack for a few million years.
 
-Student: No way 50 kilowatts of gossiping weights save a planet.
+Student: Fifty kilowatts of gossiping weights will not save a planet.
 
 1. Brown, T., Mann, B., Ryder, N., et al. (2020). "Language models are few-shot learners." *Advances in Neural Information Processing Systems*, 33, 1877-1901. https://arxiv.org/abs/2005.14165
 
@@ -331,7 +331,7 @@ Coder: Then say DNA.
 
 Lecturer: ATP breaks to ADP. Muscle moves. Leftover heat feeds the cell. No machine they built is half as good.
 
-Physicist: No way three phosphates beat fusion.
+Physicist: Check the energy density. Three phosphates do not beat fusion.
 
 1. Mitchell, P. (1978). "David Keilin’s Respiratory Chain Concept and Its Chemiosmotic Consequences" (Nobel Lecture). https://www.nobelprize.org/prizes/chemistry/1978/mitchell/lecture/ (PDF: https://www.nobelprize.org/uploads/2018/06/mitchell-lecture.pdf)
 2. OpenStax. *Biology 2e* — "7.4 Oxidative Phosphorylation" (chemiosmosis, ATP synthase, ADP→ATP). https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation
