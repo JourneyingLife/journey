@@ -33,15 +33,16 @@ On Venus-2, a world that still had seasons and a council, the people who still h
 
 ![The Council of Venus-2](Pictures/Gallery.jpg)
 
-The amber knoll rang throughout the council of Venus-2 meant to gather for an urgent announcement. As they started assembling dolphin, octopus, and the remote shimmer of Chief Shiva Lee, still on Rulers' Holiday, faces were grim.
+The restless amber knoll shook the walls of Venus-2 head quarters hurried senior members for an urgent assembling. Audience at the front rows were dolphin, octopus, and the remote shimmer of Chief Shiva Lee, still on Rulers' Holiday.
 
-Dolphins held governance. The two species had learned from Earth's archives how to work together. Earth scientists had enhanced their empathy pathways, bridging a gap that once kept marine minds from complex reasoning. Dolphins held the long plan. Octopuses solved what was in front of them. Together they accomplished what neither could do alone.
+The prime species Dolphins and Octopuses had learned from Earth's archives how to coexist and rule their world. Earth scientists had enhanced their empathy pathways, bridging a gap that once kept marine minds from complex reasoning. Dolphins held the long plan. Octopuses solved what was in front of them. Together they accomplished what neither could do alone.
 
-Chieftain Krish broke the calm. "Dear people, our world is slowing down."
+Chieftain Krish broke the gloomy silence of the hall. "People, our world is slowing down."
 
-Everyone in the gallery knew what that meant. Krish went on. "The Gods had seeded life here eight hundred million years ago, drawn by the mix of elements and motions around their sun. Now they were sliding into tidal lock. One face of the world would bake; the other would freeze. Life would become impossible."
+Everyone in the gallery knew what that meant. Krish went on. "The Gods seeded life here eight hundred million years ago, drawn by the mix of elements and motions around our sun. Now we are sliding into tidal lock. One face of the world would bake while the other freeze. Life would become impossible."
 
 Lee cut to the point. "So our time here is running out. Haven't we identified PL67 as our next home? Endgame is a supreme council's call. You can't veto."
+
 
 Endgame meant only a select few aboard the Species Ship would leave the dying planet. Even they would arrive as fossilized relics, their bodies a vessel for the seed, not a living colony.
 
