@@ -103,9 +103,9 @@ The haunters came down from the ridge. Dirt shifted around the buried symmetry. 
 
 She held the pattern readable while she still could. Through Daisy they saw how earlier scholars had pursued a fundamental mystery how larger celestial bodies attracted smaller orbs without visible tethers. While light traveled an astonishing three hundred million meters per second, cosmic bodies just stayed put, drifting around the same spot.
 
-They watched solar orbits mirroring subatomic paths and concluded that shapes and motion were merely the harmonics at the perceived wavelength. The universe appeared to be an endlessly recurring microcosmic pattern, as the Dancing Deity depicted. Ripples propagated in every direction and generated the illusion of forms at higher dimensions. This theory explained both black holes and wormholes. Black holes materialized at ripple collapse points. Wormholes formed along the pathways those distortions carved through spacetime, then reemerged in alternate dimensions and cosmic geographies.
+They watched solar orbits mirroring subatomic paths and concluded that shapes and motion were merely the harmonics at the perceived wavelength. The universe appeared to be an endlessly recurring microcosmic pattern, as the Dancing Deity depicted. Ripples propagated omnidirectionally and generated the illusion of forms at higher dimensions. This theory explained both black holes and wormholes. Black holes materialized at ripple collapse points. Wormholes formed along the pathways those distortions carved through spacetime, then reemerged in alternate dimensions and cosmic geographies.
 
-The puzzle of how the universe originated seemed less perplexing than explaining why a silent, static void didn't exist instead.
+The puzzle of how the universe originated seemed less perplexing than explaining why a quite, static void didn't exist instead.
 
 ### *The Great Awakening*
 
@@ -121,15 +121,15 @@ The shift began when a seven-year-old in a warring land needed a heart. Her matc
 
 ![Medical professionals from different nations collaborating over a holographic network showing organ donor matches across continents](Pictures/Global%20organ%20donation%20network%20in%20action.jpg)
 
-Within three generations, "enemy nations" was archaic. How do you despise the people whose gift gave your child another sunrise?
+Within three generations, "enemy nations" became archaic. How do you despise the people whose gift gave your child another sunrise?
 
 Daisy's voice thinned. "Go find a friendly wormhole to send your Species Ship through."
 
-She drew one more breath. "Make the scriptures layman-readable. When the same cosmic scripts arrived in different lands on earth, each society claimed its reading as the only true God. They fought over translations of the same message. Cost them millions of lives to learn what should have been clear from the start."
+She drew one more breath. "Make the scriptures layman-readable. When the same cosmic scripts arrived in different lands on earth, each tribe claimed its reading as the only true God. They fought over translations of the same message. Cost them millions of lives to learn what should have been clear from the start."
 
 ![Biologists examining holographic DNA strands while space engineers study wormhole trajectories on massive displays](Pictures/DNA%20strands%20and%20%20wormhole%20trajectories.jpg)
 
-That was the order. They had a path to 67. They did not yet have a way to keep it alive. Biologists began selecting the DNA sequences to transport. Space engineers timed the crossing at seven thousand years through wormhole W31, which exhibited reversal characteristics matching 67.
+That was the order. They had a path to 67. They did not yet have a way to keep it alive. Biologists began selecting the DNA sequences to transport. Space engineers timed the crossing at seven thousanth year through wormhole W31, which exhibited reversal characteristics matching 67.
 
 The gap stayed wide open: a billion years to raise a scientifically advanced species, fifty million until Phoenix swallowed the world.
 
@@ -138,29 +138,29 @@ The gap stayed wide open: a billion years to raise a scientifically advanced spe
 
 ![A brilliant female AI engineer (Nova) presenting holographic models of neural networks and biological elements intertwined](Pictures/Nova's%20model.jpg)
 
-That unsolved gap was still on the table when Nova spoke. Despite delivering diverse genetic material to 67, organic evolution would not finish in time. Instead of waiting for biology to rescue the world, why not send machines to do the work? The thinking machines they knew were too heavy to ship and keep asleep across several millions of years.
+That unsolved gap was still on the table when Nova spoke. Despite delivering diverse genetic material to 67, organic evolution would not finish in time. Instead of waiting for biology to rescue the world, why not deploy machines for the task? The thinking machines they knew were too heavy to ship and keep asleep several millions years.
 
-Krish and Lee exchanged a look. They had no finished answer.
+Krish and Lee exchanged a knowing look. They had no finished answer.
 
-Krish turned to her. "Your proposal is the only one in the room. Infrastructure is still unsolved. The element scripture may be the carrier—if we can encode the five elemental interactions onto the sixth: the destiny-carrier."
+Krish went first. "Your proposal is the only one in the room. Infrastructure is still unsolved. The element scripture may be the carrier if we can encode the five elemental interactions onto the sixth."
 
 ![Visual representation of the six elements: Fire, Ground, Air, Water, Electricity/Sky, and Destiny - each with symbolic imagery connected to different organs](Pictures/The%20Elements.jpg)
 
-Lee named the six that formed life. "Fire, Earth, Air, Water, Electricity and the destiny carrier. The sixth holds the blueprint of life—the inherited code that re-builds organism."
+Lee named the six that formed life. "Fire, Earth, Air, Water, Electricity and the destiny carrier. The sixth holds the blueprint of life the inherited code that re-builds organism."
 
 The carrier they needed was not a rack of sleeping machines. It was life itself.
 
 Nova asked, "If we understand that foundation, why can't we construct living organisms directly instead of machines?"
 
-Krish did not pretend they could. "Creating life remains nature's exclusive mystery. Living forms possess the most efficient motor system ever devised. We've never engineered anything approaching half that efficiency."
+Krish did not pretend they could. "Creating life remains nature's exclusive mystery. Living forms possess the most efficient motor system ever found. We've never engineered anything half that efficient."
 
 ![Microscopic view of bionic machines evolving alongside organic DNA structures](Pictures/Evolved%20machine%20with%20evolving%20species.jpg)
 
-So they seeded a minimal machine on 67 and set it to evolve beside organic species. One step toward a world that might still move. The fifty million years still waited.
+They seeded their minimal machine on 67 and set it to evolve beside organic species. One step toward a world that might still move. The fifty million years still waited to beat.
 
 ---
 
-On the last world the haunters were on the ridge. Wee still did not know what slept under the hammock. He only knew that if he let go, it was over.
+In the last world the haunters were on the ridge. Wee still did not know what slept under the hammock. He only knew that if he let go, it was over.
 
 ## CHAPTER 5: STRUGGLE OF THE LAST LIFE
 ### *The Pull*
@@ -173,24 +173,24 @@ Wee's hands were heavily bleeding on the handle. His tribe threw their weight on
 
 ![Wee and his tribe struggling to pull a massive lever from the ground, with the mysterious object beginning to glow](Pictures/The%20weapon.jpg)
 
-They strained together to wrench the lever from its holding ground. The haunters reached the hammock. The object warmed; a faint light rose from the seam, as if something long asleep had noticed the pull.
+They strained together to wrench the lever from its holding ground. The haunters reached the hammock. The object warmed. A faint light rose from the seam, as if something long asleep had noticed the pull.
 
 Finally something moved.
 
 ## CHAPTER 6: THE SPEAR
 ### *When the plan meets the pull*
 
-Nova foresaw what was coming. Saw the tribe handing her machine as if it were a spear. "We stop," she said. "If we seed this, we arm the last of our species."
+Nova foresaw what was coming. Glimpsed the tribe going for a weapon around her creation. "We stop," she said. "If we seed this, we arm the last of our species."
 
-The small machine would evolve on 67 among radioactive minerals. Its bionic awakening would not trigger until organic species were advanced enough to touch it, and only as a byproduct of survival—hunting, territorial defense.
+The small machine would evolve on 67 among radioactive minerals. Its bionic awakening would not trigger until organic species were advanced enough to gracefully manuever it. They have to resort into a camofledged kick start that would go off via any survival action such as territorial defense.
 
 Mary, the lead anthropologist, would not let her pull the plan back. "You do not get to stop. Jupiter-2 hesitated and burned. We seed it. There is no alternative."
 
 ![Asteroids floating in space representing the remains of Jupiter 2's desperate attempt to survive](Pictures/Astroids%20from%20Venus2.jpg)
 
-Jupiter-2 had harbored life after Jupiter-1 died, and only briefly. They had no reactors fit for a proper vessel. They fired a crude exo-fusion and hurled a primitive shuttle into the void. The debris they left became a hazard for every age after. Where those travelers arrived remains unknown.
+Jupiter-2 had harbored life after Jupiter-1 phased off, but only briefly. They had no reactors fit for a proper vessel. They fired a crude exo-fusion and hurled a primitive shuttle into the void. The debris they left behind haunted every age as astroid. Where those travelers arrived remains unknown.
 
-Mary's point stood in the room like a closed door. They seeded the machine.
+Mary had the last word. They seeded the machine.
 
 ## EPILOGUE: THE RETURN TICKET
 ### *A Journey Home*
