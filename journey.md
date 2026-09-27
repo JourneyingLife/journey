@@ -10,7 +10,7 @@ This is a work of fiction. Names, characters, places, events, and incidents are 
 
 
 ## PROLOGUE: THE LAST PLANET
-### *Era 5 — the last world — Year 253: Day 78*
+### *Era 5 — the last world — Year 5M253: Day 42*
 
 ![The last planet approaching Phoenix Cluster](Pictures/PL67.jpg)
 
@@ -22,7 +22,7 @@ At sixteen, Wee disappointed his mother. While his cousins struck at prey at fir
 
 But even for him the object planted on their hammock defied comprehension. Its symmetry surpassed anything he had seen. A geometry that did not belong to bone or flint.
 
-He barely heard the wail that went off to warn the sighting of haunters at woods at lower grounds. Wee's tribe were at the brink of losing their hill, the only habitable land on their planet. They desperately sought to devise a way to chase the vandals.
+He barely heard the wail that went off to warn the sighting of haunters at woods at lower grounds. Wee's tribe were at the brink of losing their hill, the only habitable land on their planet. They desperately sought a device to deter the vandals.
 
 He gripped the lever one more time. It would not budge, as ever. He held on.
 
@@ -31,7 +31,7 @@ Above the hills the sky kept tearing and the horizon disappearing fast.
 On Venus-2, a world that still had seasons and a council, the people who still had time to choose a next home were already out of easy answers.
 
 ## CHAPTER 1: THE COUNCIL OF VENUS-2
-### *Era 4 — two eras earlier — Year 54,728: Day 105*
+### *Era 4 — the previous era — Year 54,728: Day 105*
 
 ![The Council of Venus-2](Pictures/Gallery.jpg)
 
@@ -101,11 +101,11 @@ She had little time left. The dying turtle Daisy brought up all her might to dec
 The haunters came down from the ridge. Dirt shifted around the buried symmetry. Wee pulled until his shoulders burned, and still the handle held. Overhead, fireballs kept falling. The sky was not answering him. It was ending.
 
 ## CHAPTER 3: THE ORIGIN
-### *Understanding the Cosmic Dance*
+### *The Cosmic Dance*
 
 ![Abstract visualization of the universe showing planetary orbits mirroring subatomic particle orbits in a fractal pattern](Pictures/Blackholes%20and%20Wormholes.jpg)
 
-She held the pattern readable while she still could. Through Daisy they saw how earlier scholars had pursued a fundamental mystery of how larger celestial bodies attracted smaller orbs without visible tethers. Daisy drew a thin breath. While light traveled an astonishing three hundred million meters per second, cosmic bodies just stayed put, drifting around the same spot.
+She held the code readable while she still could. Through Daisy they saw how earlier scholars had pursued a fundamental mystery of how larger celestial bodies attracted smaller orbs without visible tethers. Daisy drew a thin breath. While light traveled an astonishing three hundred million meters per second, cosmic bodies just stayed put, drifting around the same spot.
 
 They watched solar orbits mirroring subatomic paths and concluded that shapes and motion were merely the harmonics at the perceived wavelength. The universe appeared to be an endlessly recurring microcosmic pattern, as the Dancing Deity depicted. Her next breath failed, then came back. Ripples propagated omnidirectionally and generated the illusion of forms at higher dimensions. This theory explained both black holes and wormholes. Black holes materialized at ripple collapse points. Wormholes formed along the pathways those distortions carved through spacetime, then reemerged in alternate dimensions and cosmic geographies.
 
@@ -283,7 +283,7 @@ Lecturer: Unseen masses hit the far side harder than the near sides. The push lo
 
 Student: Gravity is not hail on the back of a planet.
 
-Lecturer: Daisy could not close the case either. She only held the pattern readable.
+Lecturer: Daisy could not close the case either. She only held the code readable.
 
 1. https://openstax.org/books/college-physics-2e/pages/6-5-newtons-universal-law-of-gravitation
 2. https://www.energy.gov/science/doe-explainsgravity
