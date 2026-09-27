@@ -236,6 +236,8 @@ Lecturer: Sodium brains. No XOR. Tune the potassium channels, add empathy pathwa
 
 Biologist: That is a chip. It is not a government.
 
+Lecturer: In the gallery they argue anyway. The hall still needs both.
+
 1. OpenStax. *Anatomy & Physiology 2e* (nervous tissue, membrane potential, ion channels, action potentials). https://openstax.org/details/books/anatomy-and-physiology-2e
 2. Harikesh, P.C., Gao, D., Wu, H.Y., Yang, C.Y., Tu, D., et al. (2025). "Single organic electrochemical neuron capable of anticoincidence detection." *Science Advances* (open access). https://doi.org/10.1126/sciadv.adv3194
 3. Bellec, G., Salaj, D., Subramoney, A., Legenstein, R., & Maass, W. (2018). "Long short-term memory and learning-to-learn in networks of spiking neurons." arXiv:1803.09574. https://arxiv.org/abs/1803.09574
@@ -251,6 +253,8 @@ Lecturer: Eight hundred million years of the right mix. Then spin dies. One face
 
 Astronomer: Then how do they still have seasons?
 
+Lecturer: They have one last season of argument. After that, the lock.
+
 1. NASA Exoplanet Exploration. "Habitable Zone." https://exoplanets.nasa.gov/what-is-an-exoplanet/habitable-zone/
 2. Kopparapu, R.K., Ramirez, R., Kasting, J.F., et al. (2013). "Habitable Zones around Main-sequence Stars: New Estimates." arXiv:1301.6674. https://arxiv.org/abs/1301.6674
 
@@ -264,6 +268,8 @@ Lecturer: No one has to arrive alive. Send DNA. Let the world grow the next peop
 
 Student: That is a grave with a shipping label.
 
+Lecturer: Or a seed, if anyone is left to open it.
+
 1. Wikipedia contributors. "Panspermia." https://en.wikipedia.org/wiki/Panspermia
 
 ---
@@ -276,6 +282,8 @@ Lecturer: Unseen masses hit the far side harder than the near sides. The push lo
 
 Student: Gravity is not hail on the back of a planet.
 
+Lecturer: Daisy could not close the case either. She only held the pattern readable.
+
 1. NASA Science. "Black Holes." https://science.nasa.gov/universe/black-holes/
 
 ---
@@ -285,12 +293,31 @@ Student: Gravity is not hail on the back of a planet.
 *In the story:* "Black holes materialized at ripple collapse points."  
 *In the story:* "Go find a friendly wormhole to send your Species Ship through."
 
-Lecturer: Ripple collapses: black hole. The scar through spacetime: wormhole W31. Seven thousand years to 67.
+Lecturer: Ripple collapses: black hole. The scar through spacetime: wormhole W31. Seven thousand years to 67. The same scar, if they can wake it, might open toward a world already waiting.
 
 Navigator: You do not pick a throat like a harbor.
 
+Lecturer: They have a door. How to aim it is still unread.
+
 1. NASA Science. "Black Holes." https://science.nasa.gov/universe/black-holes/
 2. Lobo, F.S.N. (2007). "Exotic solutions in General Relativity: Traversable wormholes and warp drive spacetimes." arXiv:0710.4474. https://arxiv.org/abs/0710.4474
+
+---
+
+### Chapter 3 — Chidambaram, Rahu, and Ketu
+
+*Beside the story:* The chapter keeps the Dancing Deity and the ripple map. The archive also held an older school of names. The chapter does not speak them, because they are a memory, not a proof.
+
+Lecturer: Earth's scholars kept a cosmic school at Chidambaram — a town laid out as a small picture of the sky. They named two unseen points Rahu and Ketu, beside the seven wanderers people already knew: Sun, Moon, Mars, Venus, Jupiter, Mercury, Saturn. Later readers asked whether Rahu's devouring form was a way to remember a collapse, and Ketu's passage a way to remember a path through.
+
+Student of the sky: Lunar nodes mark eclipses. They are not laboratory labels for a black hole and a wormhole.
+
+Lecturer: The archive never asked anyone to surrender a faith, or to treat a temple as a telescope. It kept the names as pictures a people could carry. The puzzle stayed open.
+
+1. Wikipedia contributors. "Lunar node." https://en.wikipedia.org/wiki/Lunar_node
+2. Wikipedia contributors. "Rahu." https://en.wikipedia.org/wiki/Rahu
+3. Wikipedia contributors. "Ketu (mythology)." https://en.wikipedia.org/wiki/Ketu_(mythology)
+4. Wikipedia contributors. "Nataraja Temple, Chidambaram." https://en.wikipedia.org/wiki/Nataraja_Temple,_Chidambaram
 
 ---
 
@@ -302,6 +329,8 @@ Navigator: You do not pick a throat like a harbor.
 Lecturer: One enemy heart. Factories go silent. Three generations later, no enemies.
 
 Historian: One transplant is not a treaty.
+
+Lecturer: The archive still calls it Earth's greatest triumph — not the map of the cosmos.
 
 1. WHO Global Observatory on Donation and Transplantation. (2023). "International Report on Organ Donation and Transplantation Activities." https://www.transplant-observatory.org
 2. World Health Organization (WHO). "Organ donation and transplantation" (overview and guidance). https://www.who.int/health-topics/transplantation
@@ -316,6 +345,8 @@ Lecturer: 70 billion parameters. 140 GB. 4 GPUs. 50 kW. Sleep that stack for a f
 
 Student: Fifty kilowatts of gossiping weights will not save a planet.
 
+Lecturer: That is why they stopped packing racks and looked at a carrier that already copies itself.
+
 1. Brown, T., Mann, B., Ryder, N., et al. (2020). "Language models are few-shot learners." *Advances in Neural Information Processing Systems*, 33, 1877-1901. https://arxiv.org/abs/2005.14165
 
 ---
@@ -327,6 +358,8 @@ Student: Fifty kilowatts of gossiping weights will not save a planet.
 Lecturer: Fire-heart, Earth-stomach, Air-lungs, Water-kidneys, Electricity-liver. The sixth is the inherited code that rebuilds a body.
 
 Coder: Then say DNA.
+
+Lecturer: Krish needed a name the hall would accept. Lee named life itself.
 
 1. National Center for Complementary and Integrative Health (NCCIH). "Traditional Chinese Medicine: What You Need To Know." https://www.nccih.nih.gov/health/traditional-chinese-medicine-what-you-need-to-know
 2. Wikipedia contributors. "Wuxing (Chinese philosophy)." https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)
@@ -340,6 +373,8 @@ Coder: Then say DNA.
 Lecturer: ATP breaks to ADP. Muscle moves. Leftover heat feeds the cell. No machine they built is half as good.
 
 Physicist: Check the energy density. Three phosphates do not beat fusion.
+
+Lecturer: Fusion moves a world. It does not grow a child. That is Krish's wall.
 
 1. Mitchell, P. (1978). "David Keilin’s Respiratory Chain Concept and Its Chemiosmotic Consequences" (Nobel Lecture). https://www.nobelprize.org/prizes/chemistry/1978/mitchell/lecture/ (PDF: https://www.nobelprize.org/uploads/2018/06/mitchell-lecture.pdf)
 2. OpenStax. *Biology 2e* — "7.4 Oxidative Phosphorylation" (chemiosmosis, ATP synthase, ADP→ATP). https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation
