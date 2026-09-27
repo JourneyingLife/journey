@@ -238,9 +238,9 @@ Biologist: That is a chip. It is not a government.
 
 Lecturer: In the gallery they argue anyway. The hall still needs both.
 
-1. Wikipedia contributors. "Cephalopod intelligence" (octopuses as marine minds). https://en.wikipedia.org/wiki/Cephalopod_intelligence
-2. Wikipedia contributors. "Cetacean intelligence" (dolphins as marine minds). https://en.wikipedia.org/wiki/Cetacean_intelligence
-3. Harikesh, P.C., Gao, D., Wu, H.Y., Yang, C.Y., Tu, D., et al. (2025). "Single organic electrochemical neuron capable of anticoincidence detection" (XOR / anticoincidence in a wet neuron). *Science Advances*. https://doi.org/10.1126/sciadv.adv3194
+1. https://en.wikipedia.org/wiki/Cephalopod_intelligence
+2. https://en.wikipedia.org/wiki/Cetacean_intelligence
+3. https://www.science.org/doi/10.1126/sciadv.adv3194
 
 ---
 
@@ -255,9 +255,9 @@ Astronomer: Then how do they still have seasons?
 
 Lecturer: They have one last season of argument. After that, the lock.
 
-1. NASA Exoplanet Exploration. "Habitable Zone" (why a sun's mix can draw a seed). https://exoplanets.nasa.gov/what-is-an-exoplanet/habitable-zone/
-2. NASA Science. "Tidal Locking" (spin dies until one face stays turned). https://science.nasa.gov/moon/tidal-locking/
-3. NASA Science. "Glossary — Tidally locked" (one face bakes, the other stays cold). https://science.nasa.gov/exoplanets/glossary/
+1. https://exoplanets.nasa.gov/what-is-an-exoplanet/habitable-zone/
+2. https://science.nasa.gov/moon/tidal-locking/
+3. https://science.nasa.gov/exoplanets/glossary/
 
 ---
 
@@ -271,8 +271,7 @@ Student: That is a grave with a shipping label.
 
 Lecturer: Or a seed, if anyone is left to open it.
 
-1. Wikipedia contributors. "Directed panspermia" (life sent on purpose, not by accident). https://en.wikipedia.org/wiki/Directed_panspermia
-2. Crick, F.H.C., & Orgel, L.E. (1973). "Directed Panspermia" (DNA or microbes packed for another world). *Icarus*, 19, 341–346. https://doi.org/10.1016/0019-1035(73)90110-3
+1. https://en.wikipedia.org/wiki/Directed_panspermia
 
 ---
 
@@ -286,8 +285,8 @@ Student: Gravity is not hail on the back of a planet.
 
 Lecturer: Daisy could not close the case either. She only held the pattern readable.
 
-1. OpenStax. *College Physics 2e* — "6.5 Newton’s Universal Law of Gravitation" (mass pulls mass with no visible tether). https://openstax.org/books/college-physics-2e/pages/6-5-newtons-universal-law-of-gravitation
-2. U.S. Department of Energy. "DOE Explains…Gravity" (the pull that has no rope). https://www.energy.gov/science/doe-explainsgravity
+1. https://openstax.org/books/college-physics-2e/pages/6-5-newtons-universal-law-of-gravitation
+2. https://www.energy.gov/science/doe-explainsgravity
 
 ---
 
@@ -302,8 +301,8 @@ Navigator: You do not pick a throat like a harbor.
 
 Lecturer: They have a door. How to aim it is still unread.
 
-1. NASA Science. "Black Holes" (collapse points that swallow light). https://science.nasa.gov/universe/black-holes/
-2. Lobo, F.S.N. (2007). "Exotic solutions in General Relativity: Traversable wormholes and warp drive spacetimes" (a throat a ship might cross). arXiv:0710.4474. https://arxiv.org/abs/0710.4474
+1. https://science.nasa.gov/universe/black-holes/
+2. https://arxiv.org/abs/0710.4474
 
 ---
 
@@ -317,11 +316,11 @@ Astronomer: Lunar nodes mark eclipses. They are not laboratory labels for a blac
 
 Lecturer: The archive never asked anyone to surrender a faith, or to treat a temple as a telescope. It kept the names as pictures a people could carry. The puzzle stayed open.
 
-1. Wikipedia contributors. "Nataraja Temple, Chidambaram" (the Dancing Lord in that town). https://en.wikipedia.org/wiki/Nataraja_Temple,_Chidambaram
-2. Wikipedia contributors. "Srikalahasteeswara temple" (Rahu and Ketu kept at Kalahasthy). https://en.wikipedia.org/wiki/Srikalahasteeswara_temple
-3. Wikipedia contributors. "Lunar node" (Rahu and Ketu as eclipse marks, not lab labels). https://en.wikipedia.org/wiki/Lunar_node
-4. Wikipedia contributors. "Rahu." https://en.wikipedia.org/wiki/Rahu
-5. Wikipedia contributors. "Ketu (mythology)." https://en.wikipedia.org/wiki/Ketu_(mythology)
+1. https://en.wikipedia.org/wiki/Nataraja_Temple,_Chidambaram
+2. https://en.wikipedia.org/wiki/Srikalahasteeswara_temple
+3. https://en.wikipedia.org/wiki/Lunar_node
+4. https://en.wikipedia.org/wiki/Rahu
+5. https://en.wikipedia.org/wiki/Ketu_(mythology)
 
 ---
 
@@ -336,8 +335,8 @@ Historian: One transplant is not a treaty.
 
 Lecturer: The archive still calls it Earth's greatest triumph — not the map of the cosmos.
 
-1. Wikipedia contributors. "Heart transplantation" (one heart, another sunrise). https://en.wikipedia.org/wiki/Heart_transplantation
-2. World Health Organization (WHO). "Organ donation and transplantation" (the gift that crosses a border). https://www.who.int/health-topics/transplantation
+1. https://en.wikipedia.org/wiki/Heart_transplantation
+2. https://www.who.int/health-topics/transplantation
 
 ---
 
@@ -351,8 +350,8 @@ Student: Fifty kilowatts of gossiping weights will not save a planet.
 
 Lecturer: That is why they stopped packing racks and looked at a carrier that already copies itself.
 
-1. Wikipedia contributors. "Large language model" (billions of weights, racks of GPUs, power that will not sleep). https://en.wikipedia.org/wiki/Large_language_model
-2. Strubell, E., Ganesh, A., & McCallum, A. (2019). "Energy and Policy Considerations for Deep Learning in NLP" (why a thinking stack is too heavy to ship). arXiv:1906.02243. https://arxiv.org/abs/1906.02243
+1. https://en.wikipedia.org/wiki/Large_language_model
+2. https://arxiv.org/abs/1906.02243
 
 ---
 
@@ -366,10 +365,10 @@ Coder: Then say DNA. A spear is not a genome.
 
 Lecturer: Krish needed a name the hall would accept. Lee named life itself. The archive kept Vel as a picture a people could carry, not as a proof.
 
-1. Wikipedia contributors. "Pancha Bhuta" (Fire, Earth, Air, Water, and sky / Akasha). https://en.wikipedia.org/wiki/Pancha_Bhuta
-2. Wikipedia contributors. "Wuxing (Chinese philosophy)" (wood as the same working named another way). https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)
-3. Wikipedia contributors. "DNA" (the inherited code that rebuilds a body). https://en.wikipedia.org/wiki/DNA
-4. Wikipedia contributors. "Murugan" (Vel as a picture of that carrier). https://en.wikipedia.org/wiki/Murugan
+1. https://en.wikipedia.org/wiki/Pancha_Bhuta
+2. https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)
+3. https://en.wikipedia.org/wiki/DNA
+4. https://en.wikipedia.org/wiki/Murugan
 
 ---
 
@@ -383,9 +382,9 @@ Physicist: Check the energy density. Three phosphates do not beat fusion.
 
 Lecturer: Fusion moves a world. It does not grow a child. That is Krish's wall.
 
-1. Mitchell, P. (1978). "David Keilin’s Respiratory Chain Concept and Its Chemiosmotic Consequences" (Nobel Lecture; how the cell makes ATP). https://www.nobelprize.org/prizes/chemistry/1978/mitchell/lecture/ (PDF: https://www.nobelprize.org/uploads/2018/06/mitchell-lecture.pdf)
-2. OpenStax. *Biology 2e* — "7.4 Oxidative Phosphorylation" (chemiosmosis, ATP synthase, ADP→ATP). https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation
-3. OpenStax. *Anatomy & Physiology 2e* — "10.3 Muscle Fiber Contraction and Relaxation" (ATP hydrolysis, ATP→ADP cross-bridge cycle). https://openstax.org/books/anatomy-and-physiology-2e/pages/10-3-muscle-fiber-contraction-and-relaxation
+1. https://www.nobelprize.org/prizes/chemistry/1978/mitchell/lecture/
+2. https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation
+3. https://openstax.org/books/anatomy-and-physiology-2e/pages/10-3-muscle-fiber-contraction-and-relaxation
 
 ---
 
@@ -399,5 +398,5 @@ Student: That is not an answer for Wee on the lever.
 
 Lecturer: It is the only date the sky will give. The pull stays open.
 
-1. NASA Science. "Sun: Facts" (another five billion years before this star finishes). https://science.nasa.gov/sun/facts/
-2. NASA Science. "Stars" (elements forged in stars and thrown back for the next life). https://science.nasa.gov/universe/stars/
+1. https://science.nasa.gov/sun/facts/
+2. https://science.nasa.gov/universe/stars/
