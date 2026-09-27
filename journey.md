@@ -140,7 +140,7 @@ That reversal was the escape, if they could finish the unread part: move the las
 The gap stayed wide open: a billion years to raise a scientifically advanced species, fifty million years until Phoenix preyed on their world.
 
 ## CHAPTER 4: THE MACHINE
-### *Merging Biology with Technology*
+### *The Machination*
 
 ![A brilliant female AI engineer (Nova) presenting holographic models of neural networks and biological elements intertwined](Pictures/Nova's%20model.jpg)
 
