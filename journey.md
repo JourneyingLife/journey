@@ -386,13 +386,13 @@ Lecturer: Fusion moves a world. It does not grow a child. That is Krish's wall.
 
 ### Epilogue — will they succeed?
 
-*In the story:* "Will they succeed?"
+*A reader:* Will they succeed?
 
-Lecturer: The lever may be a passage home. If this pull fails, wait. Five billion years. The six elements recycle. Births repeat. The same journey comes around again, and we meet it by living.
+Lecturer: Wait five billion years. The six elements recycle. Life comes back through them, and we meet the journey again.
 
-Student: You cannot put a date on a hope.
+Student: That is not an answer for Wee on the lever.
 
-Lecturer: The book does not. It only asks the question — and leaves the wait.
+Lecturer: It is the only date the sky will give. The pull stays open.
 
 1. NASA Science. "Stars." https://science.nasa.gov/universe/stars/ (elements forged and recycled in stellar lives)
 2. NASA Exoplanet Exploration. "Habitable Zone." https://exoplanets.nasa.gov/what-is-an-exoplanet/habitable-zone/
