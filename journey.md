@@ -304,20 +304,21 @@ Lecturer: They have a door. How to aim it is still unread.
 
 ---
 
-### Chapter 3 — Chidambaram, Rahu, and Ketu
+### Chapter 3 — Chidambaram, Kalahasthy, Rahu, and Ketu
 
-*Beside the story:* The chapter keeps the Dancing Deity and the ripple map. The archive also held an older school of names. The chapter does not speak them, because they are a memory, not a proof.
+*Beside the story:* The chapter keeps the Dancing Deity and the ripple map. The archive also held older names and places. The chapter does not speak them, because they are a memory, not a proof.
 
-Lecturer: Earth's scholars kept a cosmic school at Chidambaram — a town laid out as a small picture of the sky. They named two unseen points Rahu and Ketu, beside the seven wanderers people already knew: Sun, Moon, Mars, Venus, Jupiter, Mercury, Saturn. Later readers asked whether Rahu's devouring form was a way to remember a collapse, and Ketu's passage a way to remember a path through.
+Lecturer: Chidambaram kept Lord Nataraja — the Dancing Lord already in the halls — as a picture of the cosmic dance, a town and a shrine detailing motion itself. Rahu and Ketu were kept at Kalahasthy, beside the seven wanderers people already knew: Sun, Moon, Mars, Venus, Jupiter, Mercury, Saturn. Later readers asked whether Rahu's devouring form was a way to remember a collapse, and Ketu's passage a way to remember a path through.
 
-Student of the sky: Lunar nodes mark eclipses. They are not laboratory labels for a black hole and a wormhole.
+Astronomer: Lunar nodes mark eclipses. They are not laboratory labels for a black hole and a wormhole.
 
 Lecturer: The archive never asked anyone to surrender a faith, or to treat a temple as a telescope. It kept the names as pictures a people could carry. The puzzle stayed open.
 
-1. Wikipedia contributors. "Lunar node." https://en.wikipedia.org/wiki/Lunar_node
-2. Wikipedia contributors. "Rahu." https://en.wikipedia.org/wiki/Rahu
-3. Wikipedia contributors. "Ketu (mythology)." https://en.wikipedia.org/wiki/Ketu_(mythology)
-4. Wikipedia contributors. "Nataraja Temple, Chidambaram." https://en.wikipedia.org/wiki/Nataraja_Temple,_Chidambaram
+1. Wikipedia contributors. "Nataraja Temple, Chidambaram." https://en.wikipedia.org/wiki/Nataraja_Temple,_Chidambaram
+2. Wikipedia contributors. "Srikalahasteeswara temple." https://en.wikipedia.org/wiki/Srikalahasteeswara_temple
+3. Wikipedia contributors. "Lunar node." https://en.wikipedia.org/wiki/Lunar_node
+4. Wikipedia contributors. "Rahu." https://en.wikipedia.org/wiki/Rahu
+5. Wikipedia contributors. "Ketu (mythology)." https://en.wikipedia.org/wiki/Ketu_(mythology)
 
 ---
 
@@ -355,14 +356,15 @@ Lecturer: That is why they stopped packing racks and looked at a carrier that al
 
 *In the story:* "Lee named the six that formed life. Fire, Earth, Air, Water, Electricity and the destiny carrier."
 
-Lecturer: Fire-heart, Earth-stomach, Air-lungs, Water-kidneys, Electricity-liver. The sixth is the inherited code that rebuilds a body.
+Lecturer: Fire-heart, Earth-stomach, Air-lungs, Water-kidneys. The fifth is electricity through the liver — sky in the old Indian scripts, wood in Chinese philosophy, the same working named two ways. The sixth, the destiny carrier, is the inherited code that rebuilds a body. Some Earth pictures showed Lord Muruga, the lord of Mars, carrying that sign. People called the sign Vel.
 
-Coder: Then say DNA.
+Coder: Then say DNA. A spear is not a genome.
 
-Lecturer: Krish needed a name the hall would accept. Lee named life itself.
+Lecturer: Krish needed a name the hall would accept. Lee named life itself. The archive kept Vel as a picture a people could carry, not as a proof.
 
 1. National Center for Complementary and Integrative Health (NCCIH). "Traditional Chinese Medicine: What You Need To Know." https://www.nccih.nih.gov/health/traditional-chinese-medicine-what-you-need-to-know
 2. Wikipedia contributors. "Wuxing (Chinese philosophy)." https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)
+3. Wikipedia contributors. "Murugan." https://en.wikipedia.org/wiki/Murugan
 
 ---
 
