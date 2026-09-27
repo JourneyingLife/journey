@@ -173,7 +173,7 @@ On the last world the haunters were on the ridge. Wee still did not know what sl
 
 ![Volcanic eruptions on the horizon with dark smoke clouds, while tribal figures flee across a barren landscape](Pictures/Tribes%20escaping%20apocalypse.jpg)
 
-The high ground was already lost. Haunters came down through the smoke. Nomads and herds stampeded past the hammocks. Volcanoes tore the far horizon, and ash made the air taste of stone.
+The high ground was already lost. Haunters came down through the smoke. Nomads and herds stampeded past the hammocks. Volcanoes tore the far horizon.
 
 Wee's hands were heavily bleeding on the handle. His tribe threw their weight onto it with him. Flint met the first haunter at the edge of the hammock. A cousin went down under a second haunter's stone. They did not let go.
 
