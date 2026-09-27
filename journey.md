@@ -186,7 +186,7 @@ Finally something moved.
 ## CHAPTER 6: THE SPEAR
 ### *When the plan meets the pull*
 
-On the gallery model the last tribe went for a weapon around her creation. "We stop," she said. "If we seed this, we arm the last of our species."
+On the gallery model Nova watched the last tribe go for a weapon around her creation. "We stop," she said. "If we seed this, we arm the last of our species."
 
 The small machine would evolve on 67 among radioactive minerals. Its bionic awakening would not trigger until organic species were advanced enough to gracefully maneuver it. They had to resort to a camouflaged kick-start that would go off via any survival action such as territorial defense.
 
