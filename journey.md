@@ -22,9 +22,9 @@ At sixteen, Wee disappointed his mother. While his cousins struck at prey at fir
 
 But even for him the object planted on their hammock defied comprehension. Its symmetry surpassed anything he had seen. A geometry that did not belong to bone or flint.
 
-He barely heard the wail that went off to warn the sighting of haunters at woods at lower grounds. Wee's tribe were at the brink of losing their hill, the only habitable land on their planet. They desperately sought for devising a way to chase the vandals.
+He barely heard the wail that went off to warn the sighting of haunters at woods at lower grounds. Wee's tribe were at the brink of losing their hill, the only habitable land on their planet. They desperately sought to devise a way to chase the vandals.
 
-He gripped the lever one more time. It would not budge as ever. He held on.
+He gripped the lever one more time. It would not budge, as ever. He held on.
 
 Above the hills the sky kept tearing and the horizon disappearing fast.
 
@@ -35,25 +35,27 @@ On Venus-2, a world that still had seasons and a council, the people who still h
 
 ![The Council of Venus-2](Pictures/Gallery.jpg)
 
-The restless amber knoll shook the walls of Venus-2 quarters and hurried the members for an urgent assembling. Audience at the front rows were dolphin, octopus. At scene was also a remote shimmer of Chief Shiva Lee, still on Rulers' Holiday.
-
-The prime species Dolphins and Octopuses had learned from Earth's archives to coexist and rule their world. Earth scientists had enhanced their empathy pathways, bridging a gap that once kept marine minds from complex reasoning. While Dolphins held the long vissions Octopuses excelled solving what was in front. Together they accomplished what neither could take alone.
+The restless amber knoll shook the walls of Venus-2 quarters and hurried the members for an urgent assembling. The audience in the front rows were dolphins and octopuses. Also on the scene was a remote shimmer of Chief Shiva Lee, still on Rulers' Holiday.
 
 Chieftain Krish broke the gloomy silence brewed in the hall. "Venussans, our world is slowing down."
 
-Everyone in the hall knew what that meant. Krish went on. "The Gods seeded life here eight hundred million years ago, drawn by the mix of elements and motions around our sun. Now we are sliding into a tidal lock. One face of the world would bake while the other freeze. Life will become impossible."
+Lee did not wait for the briefing. "Then use what Earth left us. You hold the long vision. I solve what is in front. We do not do this alone."
+
+Earth scientists had enhanced their empathy pathways, bridging a gap that once kept marine minds from complex reasoning.
+
+Everyone in the hall knew what that meant. Krish went on. "The Gods seeded life here eight hundred million years ago, drawn by the mix of elements and motions around our sun. Now we are sliding into a tidal lock. One face of the world would bake while the other would freeze. Life will become impossible."
 
 Lee cut to the point. "So our time here is running out. Haven't we identified PL67 as our next home? Endgame is a supreme house's call. You can't veto."
 
 Endgame meant only a select few aboard the Species Ship would leave the dying planet. Even they would arrive as fossilized relics, their bodies a vessel for the seed, not a living colony.
 
-Krish refused to adjorn and marched on. "Unlike previous migrations, 67 sits perilously close to Phoenix. Even if we seed life there, evolution will not have matured to save it when the world braces the event horizon. Our archive has no answer beyond 67. We need to find if any of the Gods survived a similar roadblock. We must revisit..."
+Krish refused to adjourn and marched on. "Unlike previous migrations, 67 sits perilously close to Phoenix. Even if we seed life there, evolution will not have matured to save it when the world braces the event horizon. Our archive has no answer beyond 67. We need to find if any of the Gods survived a similar roadblock. We must revisit..."
 
 Lee cut in. "Not Journey. The vault is only partly read. We wouldn't send a crew into a code we cannot yet trust."
 
-"Journey," Krish stood on. The amber knoll kept ringing.
+"Journey," Krish stood firm. The amber knoll kept ringing.
 
-Journey lay in the Atlantis depths, an archaeological vault of scripts from the dawn of time, found by octopuses long ago, but still only partly decrypted. The path was walled by deadly maze which gulped those ventured with no trace. Researchers believed travelers across stars had bequeathed it so later civilians would not have to reinvent the EVs.
+Journey lay in the Atlantis depths, an archaeological vault of scripts from the dawn of time, found by octopuses long ago, but still only partly decrypted. The path was walled by a deadly maze that swallowed those who ventured with no trace. Researchers believed travelers across stars had bequeathed it so later civilizations would not have to reinvent.
 
 ---
 
@@ -68,17 +70,17 @@ As Krish would not wait, a crew dived at dawn into black waters that had never f
 
 Past the third mile the gold halls opened, structures forged against the crush of the ocean, still luminous after millennia. Tory took Linga rock through binoculars: "Change of magnetic flux passing through closed circuits produces electricity." The central beam and orbiting disks formed an alternator. Current ran through it like a serpent.
 
-The Species Ship sculpture towered above them, depicting The Lord Shepherd among every form of life, that transpermiated DNA capsules whence light-years to seed a world.
+The Species Ship sculpture towered above them, depicting The Lord Shepherd among every form of life, the transpermia way: DNA capsules carried across light-years to seed a world.
 
 ![The Divine Prophet's Kaaba](Pictures/The%20Dive%20-%20Buddha%20and%20Kaaba.jpg)
 
-They came next to The Divine Prophet's Kaaba, inside the Masjid al-Haram where humans pledged coexistence to rein on their neurons. Lord Buddha followed, breezed sovereignty of inner self from entangling life forces.
+They came next to The Divine Prophet's Kaaba, inside the Masjid al-Haram where humans pledged coexistence to rein on their neurons. Lord Buddha followed, breathing sovereignty of the inner self from entangling life forces.
 
 ![Einstein with E=mc²](Pictures/Einstein%20and%20Shiv%20Thandev.jpg)
 
-Einstein bore the nuclear formula that elevated every civilization with abundant nuclear energy. Free-moving subatomic masses traveling at Light speed, breach another mass's boundary, lock into eternal dance that treasure their combined kinetic energy for a shrewd engineer to harvest.
+Einstein bore the nuclear formula that elevated every civilization with abundant nuclear energy. Free-moving subatomic masses traveling at Light speed breached another mass's boundary, locked into an eternal dance, and treasured their combined kinetic energy for a shrewd engineer to harvest.
 
-Known answers, all already mapped. They needed the one unsure ever existed.
+Known answers, all already mapped. They needed the one they were not sure had ever existed.
 
 Amid the sculptures streaming past they nearly missed the ring-bound Dancing Lord. Young Rafi asked why it stood among the other academic settings.
 
@@ -86,7 +88,9 @@ Tory was startled, would not guess an answer he did not have. He mumbled, "The m
 
 "This statue is not the missing answer we came for," Tory said. "If we leave the halls we already know, we can lose the crew in the dark."
 
-Krish pulled Lee into the line adhering protocol. "Go deeper. The old turtles go there to die. If anyone could fathom the hardest, it is Daisy."
+Krish pulled Lee into the line, adhering to protocol. "Go deeper. The old turtles go there to die. If anyone could fathom the hardest, it is Daisy."
+
+They left the mapped halls. The maze closed behind a gold turn. Something in the dark took the last diver's light. Tory hauled the crew through. Only then did they reach the old turtles.
 
 ![An ancient, wise turtle with glowing markings, resting peacefully while communicating through holographic displays](Pictures/Daisy%20sharing%20cosmic%20secret.jpg)
 
@@ -101,11 +105,11 @@ The haunters came down from the ridge. Dirt shifted around the buried symmetry. 
 
 ![Abstract visualization of the universe showing planetary orbits mirroring subatomic particle orbits in a fractal pattern](Pictures/Blackholes%20and%20Wormholes.jpg)
 
-She held the pattern readable while she still could. Through Daisy they saw how earlier scholars had pursued a fundamental mystery how larger celestial bodies attracted smaller orbs without visible tethers. While light traveled an astonishing three hundred million meters per second, cosmic bodies just stayed put, drifting around the same spot.
+She held the pattern readable while she still could. Through Daisy they saw how earlier scholars had pursued a fundamental mystery of how larger celestial bodies attracted smaller orbs without visible tethers. Daisy drew a thin breath. While light traveled an astonishing three hundred million meters per second, cosmic bodies just stayed put, drifting around the same spot.
 
-They watched solar orbits mirroring subatomic paths and concluded that shapes and motion were merely the harmonics at the perceived wavelength. The universe appeared to be an endlessly recurring microcosmic pattern, as the Dancing Deity depicted. Ripples propagated omnidirectionally and generated the illusion of forms at higher dimensions. This theory explained both black holes and wormholes. Black holes materialized at ripple collapse points. Wormholes formed along the pathways those distortions carved through spacetime, then reemerged in alternate dimensions and cosmic geographies.
+They watched solar orbits mirroring subatomic paths and concluded that shapes and motion were merely the harmonics at the perceived wavelength. The universe appeared to be an endlessly recurring microcosmic pattern, as the Dancing Deity depicted. Her next breath failed, then came back. Ripples propagated omnidirectionally and generated the illusion of forms at higher dimensions. This theory explained both black holes and wormholes. Black holes materialized at ripple collapse points. Wormholes formed along the pathways those distortions carved through spacetime, then reemerged in alternate dimensions and cosmic geographies.
 
-The puzzle of how the universe originated seemed less perplexing than explaining why a quite, static void didn't exist instead.
+The puzzle of how the universe originated seemed less perplexing than explaining why a quiet, static void didn't exist instead.
 
 ### *The Great Awakening*
 
@@ -129,7 +133,7 @@ She drew one more breath. "Make the scriptures layman-readable. When the same co
 
 ![Biologists examining holographic DNA strands while space engineers study wormhole trajectories on massive displays](Pictures/DNA%20strands%20and%20%20wormhole%20trajectories.jpg)
 
-That was the order. They had a path to 67. They did not yet have a way to keep it alive. Biologists began selecting the DNA sequences to transport. Space engineers timed the crossing at seven thousanth year through wormhole W31, which exhibited reversal characteristics matching 67.
+That was the order. They had a path to 67. They did not yet have a way to keep it alive. Biologists began selecting the DNA sequences to transport. Space engineers timed the crossing at seven thousand years through wormhole W31, which exhibited reversal characteristics matching 67.
 
 The gap stayed wide open: a billion years to raise a scientifically advanced species, fifty million until Phoenix swallowed the world.
 
@@ -138,7 +142,7 @@ The gap stayed wide open: a billion years to raise a scientifically advanced spe
 
 ![A brilliant female AI engineer (Nova) presenting holographic models of neural networks and biological elements intertwined](Pictures/Nova's%20model.jpg)
 
-That unsolved gap was still on the table when Nova spoke. Despite delivering diverse genetic material to 67, organic evolution would not finish in time. Instead of waiting for biology to rescue the world, why not deploy machines for the task? The thinking machines they knew were too heavy to ship and keep asleep several millions years.
+That unsolved gap was still on the table when Nova spoke. Despite delivering diverse genetic material to 67, organic evolution would not finish in time. Instead of waiting for biology to rescue the world, why not deploy machines for the task? The thinking machines they knew were too heavy to ship and keep asleep for several million years.
 
 Krish and Lee exchanged a knowing look. They had no finished answer.
 
@@ -146,7 +150,7 @@ Krish went first. "Your proposal is the only one in the room. Infrastructure is 
 
 ![Visual representation of the six elements: Fire, Ground, Air, Water, Electricity/Sky, and Destiny - each with symbolic imagery connected to different organs](Pictures/The%20Elements.jpg)
 
-Lee named the six that formed life. "Fire, Earth, Air, Water, Electricity and the destiny carrier. The sixth holds the blueprint of life the inherited code that re-builds organism."
+Lee named the six that formed life. "Fire, Earth, Air, Water, Electricity and the destiny carrier. The sixth holds the blueprint of life — the inherited code that re-builds organism."
 
 The carrier they needed was not a rack of sleeping machines. It was life itself.
 
@@ -156,11 +160,11 @@ Krish did not pretend they could. "Creating life remains nature's exclusive myst
 
 ![Microscopic view of bionic machines evolving alongside organic DNA structures](Pictures/Evolved%20machine%20with%20evolving%20species.jpg)
 
-They seeded their minimal machine on 67 and set it to evolve beside organic species. One step toward a world that might still move. The fifty million years still waited to beat.
+They seeded their minimal machine on 67 and set it to evolve beside organic species. One step toward a world that might still move. The fifty million years still waited.
 
 ---
 
-In the last world the haunters were on the ridge. Wee still did not know what slept under the hammock. He only knew that if he let go, it was over.
+On the last world the haunters were on the ridge. Wee still did not know what slept under the hammock. He only knew that if he let go, it was over.
 
 ## CHAPTER 5: STRUGGLE OF THE LAST LIFE
 ### *The Pull*
@@ -169,7 +173,7 @@ In the last world the haunters were on the ridge. Wee still did not know what sl
 
 The high ground was already lost. Haunters came down through the smoke. Nomads and herds stampeded past the hammocks. Volcanoes tore the far horizon, and ash made the air taste of stone.
 
-Wee's hands were heavily bleeding on the handle. His tribe threw their weight onto it with him. Flint met the first haunter at the edge of the hammock. Someone fell. They did not let go.
+Wee's hands were heavily bleeding on the handle. His tribe threw their weight onto it with him. Flint met the first haunter at the edge of the hammock. A cousin went down under a second haunter's stone. They did not let go.
 
 ![Wee and his tribe struggling to pull a massive lever from the ground, with the mysterious object beginning to glow](Pictures/The%20weapon.jpg)
 
@@ -180,15 +184,15 @@ Finally something moved.
 ## CHAPTER 6: THE SPEAR
 ### *When the plan meets the pull*
 
-Nova foresaw what was coming. Glimpsed the tribe going for a weapon around her creation. "We stop," she said. "If we seed this, we arm the last of our species."
+On the gallery model the last tribe went for a weapon around her creation. "We stop," she said. "If we seed this, we arm the last of our species."
 
-The small machine would evolve on 67 among radioactive minerals. Its bionic awakening would not trigger until organic species were advanced enough to gracefully manuever it. They have to resort into a camofledged kick start that would go off via any survival action such as territorial defense.
+The small machine would evolve on 67 among radioactive minerals. Its bionic awakening would not trigger until organic species were advanced enough to gracefully maneuver it. They had to resort to a camouflaged kick-start that would go off via any survival action such as territorial defense.
 
 Mary, the lead anthropologist, would not let her pull the plan back. "You do not get to stop. Jupiter-2 hesitated and burned. We seed it. There is no alternative."
 
 ![Asteroids floating in space representing the remains of Jupiter 2's desperate attempt to survive](Pictures/Astroids%20from%20Venus2.jpg)
 
-Jupiter-2 had harbored life after Jupiter-1 phased off, but only briefly. They had no reactors fit for a proper vessel. They fired a crude exo-fusion and hurled a primitive shuttle into the void. The debris they left behind haunted every age as astroid. Where those travelers arrived remains unknown.
+Jupiter-2 had harbored life after Jupiter-1 phased off, but only briefly. They had no reactors fit for a proper vessel. They fired a crude exo-fusion and hurled a primitive shuttle into the void. The debris they left behind haunted every age as asteroids. Where those travelers arrived remains unknown.
 
 Mary had the last word. They seeded the machine.
 
@@ -238,8 +242,8 @@ Biologist: That is a chip. It is not a government.
 
 ### Chapter 1 — why this world was seeded, and why it is dying
 
-*In the story:* "The Gods had seeded life here eight hundred million years ago, drawn by the mix of elements and motions around their sun."  
-*In the story:* "Now they were sliding into tidal lock. One face of the world would bake; the other would freeze."
+*In the story:* "The Gods seeded life here eight hundred million years ago, drawn by the mix of elements and motions around our sun."  
+*In the story:* "Now we are sliding into a tidal lock. One face of the world would bake while the other would freeze."
 
 Lecturer: Eight hundred million years of the right mix. Then spin dies. One face bakes. One face freezes.
 
@@ -264,7 +268,7 @@ Student: That is a grave with a shipping label.
 
 ### Chapter 3 — what pulled world toward world
 
-*In the story:* "They still could not say what pulled world toward world."
+*In the story:* "a fundamental mystery of how larger celestial bodies attracted smaller orbs without visible tethers."
 
 Lecturer: Unseen masses hit the far side harder than the near sides. The push looks like a pull.
 
@@ -304,7 +308,7 @@ Historian: One transplant is not a treaty.
 
 ### Chapter 4 — machines too heavy to sleep through evolution
 
-*In the story:* "The thinking machines they knew were too heavy to ship and keep asleep across several millions of years."
+*In the story:* "The thinking machines they knew were too heavy to ship and keep asleep for several million years."
 
 Lecturer: 70 billion parameters. 140 GB. 4 GPUs. 50 kW. Sleep that stack for a few million years.
 
@@ -329,7 +333,7 @@ Coder: Then say DNA.
 
 ### Chapter 4 — life as the motor no machine has matched
 
-*In the story:* "Creating life remains nature's exclusive mystery. Living forms possess the most efficient motor system ever devised."
+*In the story:* "Creating life remains nature's exclusive mystery. Living forms possess the most efficient motor system ever found."
 
 Lecturer: ATP breaks to ADP. Muscle moves. Leftover heat feeds the cell. No machine they built is half as good.
 
