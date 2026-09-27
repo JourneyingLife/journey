@@ -396,7 +396,7 @@ Lecturer: Wait five billion years. The six elements recycle. Life comes back thr
 
 Student: That is not an answer for Wee on the lever.
 
-Lecturer: It is the only date the sky will give. The pull stays open.
+Lecturer: It is the only date the sky will give. Wee is our reverse God. The pull stays open.
 
 1. https://science.nasa.gov/sun/facts/
 2. https://science.nasa.gov/universe/stars/
