@@ -135,6 +135,8 @@ She drew one more breath. "Make the scriptures layman-readable. When the same co
 
 That was the order. They had a path to 67. They did not yet have a way to keep it alive. Biologists began selecting the DNA sequences to transport. Space engineers timed the crossing at seven thousand years through wormhole W31, which exhibited reversal characteristics matching 67.
 
+That reversal was the escape, if they could finish the unread part: move the last world before Phoenix swallowed it, and the same wound in spacetime might open toward a planet already waiting, fully habitable. Journey had shown the door. How to wake the mover, how to aim it, and who would pull were still unsolved.
+
 The gap stayed wide open: a billion years to raise a scientifically advanced species, fifty million until Phoenix swallowed the world.
 
 ## CHAPTER 4: THE MACHINE
