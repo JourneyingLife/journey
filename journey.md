@@ -137,7 +137,7 @@ That was the order. They had a path to 67. They did not yet have a way to keep i
 
 That reversal was the escape, if they could finish the unread part: move the last world before Phoenix swallowed it, and the same wound in spacetime might open toward a planet already waiting, fully habitable. Journey had shown the door. How to wake the mover, how to aim it, and who would pull were still unsolved.
 
-The gap stayed wide open: a billion years to raise a scientifically advanced species, fifty million until Phoenix swallowed the world.
+The gap stayed wide open: a billion years to raise a scientifically advanced species, fifty million until Phoenix predated their world.
 
 ## CHAPTER 4: THE MACHINE
 ### *Merging Biology with Technology*
