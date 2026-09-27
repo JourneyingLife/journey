@@ -381,3 +381,18 @@ Lecturer: Fusion moves a world. It does not grow a child. That is Krish's wall.
 1. Mitchell, P. (1978). "David Keilin’s Respiratory Chain Concept and Its Chemiosmotic Consequences" (Nobel Lecture). https://www.nobelprize.org/prizes/chemistry/1978/mitchell/lecture/ (PDF: https://www.nobelprize.org/uploads/2018/06/mitchell-lecture.pdf)
 2. OpenStax. *Biology 2e* — "7.4 Oxidative Phosphorylation" (chemiosmosis, ATP synthase, ADP→ATP). https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation
 3. OpenStax. *Anatomy & Physiology 2e* — "10.3 Muscle Fiber Contraction and Relaxation" (ATP hydrolysis, ATP→ADP cross-bridge cycle). https://openstax.org/books/anatomy-and-physiology-2e/pages/10-3-muscle-fiber-contraction-and-relaxation
+
+---
+
+### Epilogue — will they succeed?
+
+*In the story:* "Will they succeed?"
+
+Lecturer: The lever may be a passage home. If this pull fails, wait. Five billion years. The six elements recycle. Births repeat. The same journey comes around again, and we meet it by living.
+
+Student: You cannot put a date on a hope.
+
+Lecturer: The book does not. It only asks the question — and leaves the wait.
+
+1. NASA Science. "Stars." https://science.nasa.gov/universe/stars/ (elements forged and recycled in stellar lives)
+2. NASA Exoplanet Exploration. "Habitable Zone." https://exoplanets.nasa.gov/what-is-an-exoplanet/habitable-zone/
