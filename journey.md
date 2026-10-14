@@ -14,9 +14,9 @@ This is a work of fiction. Names, characters, places, events, and incidents are 
 
 ![The last planet approaching Phoenix Cluster](Pictures/PL67.jpg)
 
-Wee sensed an approaching apocalypse in his bones. The sky flickered endlessly. Fireballs hurled toward a horizon where something vast devoured all that ventured near. His tribe, the most advanced species evolving on their planet, dismissed it as another spell of lousy weather.
+Wee sensed an approaching apocalypse in his bones. The sky flickered endlessly. Fireballs hurled toward a horizon where something vast devoured all that ventured near. His tribe, the most advanced species evolving on their planet, dismissed it as another spell of bad weather.
 
-At sixteen, Wee disappointed his mother. While his cousins struck at prey at first sight, Wee had to clear a why before swinging his flint. That pause had branded him as a loser among his peers. Only a few had seen him felling the most ferocious beasts with his handmade gadgets.
+At sixteen, Wee disappointed his mother. While his cousins struck at prey at first sight, Wee had to clear a why before swinging his flint. That pause had branded him as a loser among his peers. Only a few had seen him felling ferocious beasts with his own gadgets.
 
 ![Wee examining the mysterious object](Pictures/Wee.jpg)
 
@@ -28,7 +28,7 @@ He gripped the lever one more time. It would not budge, as ever. He held on.
 
 Above the hills the sky kept tearing and the horizon disappearing fast.
 
-On Venus-2, a world that still had seasons and a council, the people who still had time to choose a next home were already out of easy answers.
+On Venus-2 though, a world that still had seasons, the people who were searching for their home were already out of easy answers.
 
 ## CHAPTER 1: THE COUNCIL OF VENUS-2
 ### *Era 4 — the previous era — Year 54,728: Day 105*
@@ -47,7 +47,7 @@ Everyone in the hall knew what that meant. Krish went on. "The Gods seeded life 
 
 Lee cut to the point. "So our time here is running out. Haven't we identified PL67 as our next home? Endgame is a supreme house's call. You can't veto."
 
-Endgame meant only a select few aboard the Species Ship would leave the dying planet. Even they would arrive as fossilized relics, their bodies a vessel for the seed, not a living colony.
+Endgame meant only a select few aboard the Species Ship would leave the dying planet. And they too would arrive as fossilized relics, their bodies a vessel for the seed, not a living colony.
 
 Krish refused to adjourn and marched on. "Unlike previous migrations, 67 sits perilously close to Phoenix. Even if we seed life there, evolution will not have matured to save it when the world braces the event horizon. Our archive has no answer beyond 67. We need to find if any of the Gods survived a similar roadblock. We must revisit..."
 
