@@ -90,7 +90,9 @@ Tory was startled, would not guess an answer he did not have. He mumbled, "The m
 
 Krish pulled Lee into the line, adhering to protocol. "Go deeper. The old turtles go there to die. If anyone could fathom the hardest, it is Daisy."
 
-They left the mapped halls. The maze closed behind a gold turn. Something in the dark took the last diver's light. Tory hauled the crew through. Only then did they reach the old turtles.
+They left the mapped halls. The maze closed behind a gold turn. Something in the dark took the last diver's light. Tory hauled the crew through.
+
+After sliding another few gruesome miles in the dark abyss, they could sense they were being observed by still eyes seeking death.
 
 ![An ancient, wise turtle with glowing markings, resting peacefully while communicating through holographic displays](Pictures/Daisy%20sharing%20cosmic%20secret.jpg)
 
@@ -107,7 +109,7 @@ The haunters came down from the ridge. Dirt shifted around the buried symmetry. 
 
 She held the code readable while she still could. Through Daisy they saw how earlier scholars had pursued a fundamental mystery of how larger celestial bodies attracted smaller orbs without visible tethers. Daisy drew a thin breath. While light traveled an astonishing three hundred million meters per second, cosmic bodies just stayed put, drifting around the same spot.
 
-They watched solar orbits mirroring subatomic paths and concluded that shapes and motion were merely the harmonics at the perceived wavelength. The universe appeared to be an endlessly recurring microcosmic pattern, as the Dancing Deity depicted. Her next breath failed, then came back. Ripples propagated omnidirectionally and generated the illusion of forms at higher dimensions. This theory explained both black holes and wormholes. Black holes materialized at ripple collapse points. Wormholes formed along the pathways those distortions carved through spacetime, then reemerged in alternate dimensions and cosmic geographies.
+They watched solar orbits mirroring subatomic paths and concluded that shapes and motion were merely the harmonics at the perceived wavelength of organisms. The universe appeared to be an endlessly recurring microcosmic pattern, as the Dancing Deity depicted. Her next breath failed, then came back. Ripples propagated omnidirectionally and generated the illusion of forms at higher dimensions. This theory explained both black holes and wormholes. Black holes materialized at ripple collapse points. Wormholes formed along the pathways those distortions carved through spacetime, then reemerged in alternate dimensions and cosmic geographies.
 
 The puzzle of how the universe originated seemed less perplexing than explaining why a quiet, static void didn't exist instead.
 
@@ -188,7 +190,7 @@ Finally something moved.
 
 On the gallery model Nova watched the last tribe go for a weapon around her creation. "We stop," she said. "If we seed this, we arm the last of our species."
 
-The small machine would evolve on 67 among radioactive minerals. Its bionic awakening would not trigger until organic species were advanced enough to gracefully maneuver it. They had to resort to a camouflaged kick-start that would go off via any survival action such as territorial defense.
+The small machine would evolve on 67 among radioactive minerals. Its bionic awakening would not trigger until organic species were advanced enough to gracefully maneuver it. They had to resort to a camouflaged kick-start that would go off at any survival action such as territorial defense.
 
 Mary, the lead anthropologist, would not let her pull the plan back. "You do not get to stop. Jupiter-2 hesitated and burned. We seed it. There is no alternative."
 
@@ -310,7 +312,7 @@ Lecturer: They have a door. How to aim it is still unread.
 
 *Beside the story:* The chapter keeps the Dancing Deity and the ripple map. The archive also held older names and places. The chapter does not speak them, because they are a memory, not a proof.
 
-Lecturer: Chidambaram kept Lord Nataraja — the Dancing Lord already in the halls — as a picture of the cosmic dance, a town and a shrine detailing motion itself. Rahu and Ketu were kept at Kalahasthy, beside the seven wanderers people already knew: Sun, Moon, Mars, Venus, Jupiter, Mercury, Saturn. Later readers asked whether Rahu's devouring form was a way to remember a collapse, and Ketu's passage a way to remember a path through.
+Lecturer: Chidambaram kept Lord Nataraja — the Dancing Lord already in the halls — as a picture of the cosmic dance, a town and a shrine detailing motion itself. Rahu and Ketu were kept at Kalahasthy, beside the seven wanderers people already knew: Sun, Moon, Mars, Venus, Jupiter, Mercury, Saturn. Later readers asked whether Rahu's devouring form was a way to remember a collapse — the black hole, and Ketu's passage a way to remember a path through — a wormhole.
 
 Astronomer: Lunar nodes mark eclipses. They are not laboratory labels for a black hole and a wormhole.
 
