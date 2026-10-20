@@ -14,7 +14,7 @@ This is a work of fiction. Names, characters, places, events, and incidents are 
 
 ![The last planet approaching Phoenix Cluster](Pictures/PL67.jpg)
 
-Wee sensed an approaching apocalypse in his bones. The sky flickered endlessly. Fireballs hurled toward a horizon where something vast devoured all that ventured near. His tribe, the most advanced species evolving on their planet, dismissed it as another spell of bad weather.
+Wee sensed an approaching apocalypse in his bones. The sky flickered endlessly. Fireballs hurled toward a horizon where something vast devoured all that ventured near. His tribe, the most advanced species evolving on their planet, dismissed all of it as another spell of bad weather.
 
 At sixteen, Wee disappointed his mother. While his cousins struck at prey at first sight, Wee had to clear a why before swinging his flint. That pause had branded him as a loser among his peers. Only a few had seen him felling ferocious beasts with his own gadgets.
 
@@ -28,14 +28,14 @@ He gripped the lever one more time. It would not budge, as ever. He held on.
 
 Above the hills the sky kept tearing and the horizon disappearing fast.
 
-On Venus-2 though, a world that still had seasons, the people who were searching for their home were already out of easy answers.
+On Venus-2 though, a world far apart in time, the inhabitants who were searching for a new home were out of easy answers.
 
 ## CHAPTER 1: THE COUNCIL OF VENUS-2
 ### *Era 4 — the previous era — Year 54,728: Day 105*
 
 ![The Council of Venus-2](Pictures/Gallery.jpg)
 
-The restless amber knoll shook the walls of Venus-2 quarters and hurried the members for an urgent assembling. The audience in the front rows were dolphins and octopuses. Also on the scene was a remote shimmer of Chief Shiva Lee, still on Rulers' Holiday.
+The restless amber knoll shook the walls of Venus-2 quarters and hurried the members to an urgent assembling. The audience in the front rows were dolphins and octopuses. Also on the scene was a remote shimmer of Chief Shiva Lee, still on Rulers' Holiday.
 
 Chieftain Krish broke the gloomy silence brewed in the hall. "Venussans, our world is slowing down."
 
@@ -43,7 +43,7 @@ Lee did not wait for the briefing. "Then use what Earth left us. You hold the lo
 
 Earth scientists had enhanced their empathy pathways, bridging a gap that once kept marine minds from complex reasoning.
 
-Everyone in the hall knew what that meant. Krish went on. "The Gods seeded life here eight hundred million years ago, drawn by the mix of elements and motions around our sun. Now we are sliding into a tidal lock. One face of the world would bake while the other would freeze. Life will become impossible."
+Everyone in the hall knew what they meant. Krish went on. "The Gods seeded life here eight hundred million years ago, drawn by the mix of elements and motions around our sun. Now we are sliding into a tidal lock. One face of the world would bake while the other would freeze. Life will be impossible."
 
 Lee cut to the point. "So our time here is running out. Haven't we identified PL67 as our next home? Endgame is a supreme house's call. You can't veto."
 
@@ -53,9 +53,9 @@ Krish refused to adjourn and marched on. "Unlike previous migrations, 67 sits pe
 
 Lee cut in. "Not Journey. The vault is only partly read. We wouldn't send a crew into a code we cannot yet trust."
 
-"Journey," Krish stood firm. The amber knoll kept ringing.
+"Journey," Krish stood his ground. The amber knoll kept ringing.
 
-Journey lay in the Atlantis depths, an archaeological vault of scripts from the dawn of time, found by octopuses long ago, but still only partly decrypted. The path was walled by a deadly maze that swallowed those who ventured with no trace. Researchers believed travelers across stars had bequeathed it so later civilizations would not have to reinvent.
+Journey lay in the Atlantis depths, an archaeological vault of scripts from the dawn of time, found by octopuses long ago, but still only partly decrypted. The path was walled by a deadly maze that swallowed those who ventured with no trace. Researchers believed travelers across stars had bequeathed the archive so later civilizations would not have to reinvent.
 
 ---
 
@@ -64,13 +64,13 @@ Far ahead in time, on the last world, Wee's hands were still locked on the handl
 ## CHAPTER 2: THE DIVE
 ### *Into the Depths of History*
 
-As Krish would not wait, a crew dived at dawn into black waters that had never forgiven curiosity. They were hunting one unread code in Journey, the part that might reveal how to take life past 67.
+As Krish wouldn't relent, a crew dived at dawn into black waters that had never forgiven curiosity. They were hunting one unread code in Journey, the part that might reveal how to take life past 67.
 
 ![Linga rock - ancient generator](Pictures/The%20Dive%20-%20Linga%20and%20Species%20Ship.jpg)
 
 Past the third mile the gold halls opened, structures forged against the crush of the ocean, still luminous after millennia. Tory took Linga rock through binoculars: "Change of magnetic flux passing through closed circuits produces electricity." The central beam and orbiting disks formed an alternator. Current ran through it like a serpent.
 
-The Species Ship sculpture towered above them, depicting The Lord Shepherd among every form of life, the transpermia way: DNA capsules carried across light-years to seed a world.
+The Species Ship sculpture towered above them, depicting The Lord Shepherd among every form of life, the transpermia way — DNA capsules carried across light-years to seed their world.
 
 ![The Divine Prophet's Kaaba](Pictures/The%20Dive%20-%20Buddha%20and%20Kaaba.jpg)
 
@@ -263,7 +263,7 @@ Lecturer: They have one last season of argument. After that, the lock.
 
 ### Chapter 2 — DNA carried across the stars
 
-*In the story:* "the transpermia way: DNA capsules carried across light-years to seed a world."
+*In the story:* "the transpermia way — DNA capsules carried across light-years to seed their world."
 
 Lecturer: No one has to arrive alive. Send DNA. Let the world grow the next people.
 
