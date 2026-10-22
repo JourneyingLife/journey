@@ -28,7 +28,7 @@ He gripped the lever one more time. It would not budge, as ever. He held on.
 
 Above the hills the sky kept tearing and the horizon disappearing fast.
 
-On Venus-2 though, a world far apart in time, the inhabitants who were searching for a new home were out of easy answers.
+On Venus-2 though, a world that was far ahead in time, the people who were searching for a new home were still looking for answers.
 
 ## CHAPTER 1: THE COUNCIL OF VENUS-2
 ### *Era 4 — the previous era — Year 54,728: Day 105*
@@ -68,9 +68,9 @@ As Krish wouldn't relent, a crew dived at dawn into black waters that had never 
 
 ![Linga rock - ancient generator](Pictures/The%20Dive%20-%20Linga%20and%20Species%20Ship.jpg)
 
-Past the third mile the gold halls opened, structures forged against the crush of the ocean, still luminous after millennia. Tory took Linga rock through binoculars: "Change of magnetic flux passing through closed circuits produces electricity." The central beam and orbiting disks formed an alternator. Current ran through it like a serpent.
+Beneath the fourth mile the gold halls opened, structures forged against the crush of the ocean, still luminous after millennia. Tory took Linga rock through binoculars: "Change of magnetic flux passing through closed circuits produces electricity." The central beam and orbiting disks formed an alternator. Current ran through it like a serpent.
 
-The Species Ship sculpture towered above them, depicting The Lord Shepherd among every form of life, the transpermia way — DNA capsules carried across light-years to seed their world.
+The Species Ship sculpture towered above them, depicting The Lord Shepherd among every form of life, DNA capsules carried across light-years to seed their world, the transpermia way.
 
 ![The Divine Prophet's Kaaba](Pictures/The%20Dive%20-%20Buddha%20and%20Kaaba.jpg)
 
@@ -82,7 +82,7 @@ Einstein bore the nuclear formula that elevated every civilization with abundant
 
 Known answers, all already mapped. They needed the one they were not sure had ever existed.
 
-Amid the sculptures streaming past they nearly missed the ring-bound Dancing Lord. Young Rafi asked why it stood among the other academic settings.
+Amid the sculptures streaming past they nearly missed the ring-bound Dancing Lord. Young Rafi asked why He stood among the other academic settings.
 
 Tory was startled, would not guess an answer he did not have. He mumbled, "The mystic lord who was comprehended as incomprehensible," and called Krish on teleview.
 
@@ -92,7 +92,7 @@ Krish pulled Lee into the line, adhering to protocol. "Go deeper. The old turtle
 
 They left the mapped halls. The maze closed behind a gold turn. Something in the dark took the last diver's light. Tory hauled the crew through.
 
-After sliding another few gruesome miles in the dark abyss, they could sense they were being observed by still eyes seeking death.
+Sliding another gruesome mile in the dark abyss, they could sense they were being observed by still eyes seeking death.
 
 ![An ancient, wise turtle with glowing markings, resting peacefully while communicating through holographic displays](Pictures/Daisy%20sharing%20cosmic%20secret.jpg)
 
@@ -109,7 +109,7 @@ The haunters came down from the ridge. Dirt shifted around the buried symmetry. 
 
 She held the code readable while she still could. Through Daisy they saw how earlier scholars had pursued a fundamental mystery of how larger celestial bodies attracted smaller orbs without visible tethers. Daisy drew a thin breath. While light traveled an astonishing three hundred million meters per second, cosmic bodies just stayed put, drifting around the same spot.
 
-They watched solar orbits mirroring subatomic paths and concluded that shapes and motion were merely the harmonics at the perceived wavelength of organisms. The universe appeared to be an endlessly recurring microcosmic pattern, as the Dancing Deity depicted. Her next breath failed, then came back. Ripples propagated omnidirectionally and generated the illusion of forms at higher dimensions. This theory explained both black holes and wormholes. Black holes materialized at ripple collapse points. Wormholes formed along the pathways those distortions carved through spacetime, then reemerged in alternate dimensions and cosmic geographies.
+They watched solar orbits mirroring subatomic paths and concluded that shapes and motion were merely the harmonics at the perceived wavelength of organisms. The universe appeared to be an endlessly recurring microcosmic pattern, as the Dancing Deity depicted. Her next breath failed, then came back. Ripples propagated omnidirectionally and generated the illusion of forms at higher dimensions. This theory explained both black holes and wormholes. Black holes formed at ripple collapse points. Wormholes materialized along the pathways those distortions carved through spacetime, then reemerged in alternate dimensions and cosmic geographies.
 
 The puzzle of how the universe originated seemed less perplexing than explaining why a quiet, static void didn't exist instead.
 
@@ -131,13 +131,13 @@ Within three generations, "enemy nations" became archaic. How do you despise the
 
 Daisy's voice thinned. "Go find a friendly wormhole to send your Species Ship through."
 
-She drew one more breath. "Make the scriptures layman-readable. When the same cosmic scripts arrived in different lands on earth, each tribe claimed its reading as the only true God. They fought over translations of the same message. Cost them millions of lives to learn what should have been clear from the start."
+She drew one more breath. "Make the scriptures layman-readable. When the same cosmic scripts arrived in different lands on earth, each tribe claimed their reading as the only true God. They fought over translations of the same message. Cost them millions of lives to learn what should have been clear from the start."
 
 ![Biologists examining holographic DNA strands while space engineers study wormhole trajectories on massive displays](Pictures/DNA%20strands%20and%20%20wormhole%20trajectories.jpg)
 
-That was the order. They had a path to 67. They did not yet have a way to keep it alive. Biologists began selecting the DNA sequences to transport. Space engineers timed the crossing at seven thousand years through wormhole W31, which exhibited reversal characteristics matching 67.
+That was the order. They had a path to 67. Biologists began selecting the DNA sequences to transport. Space engineers timed the crossing from Venus-2 to 67 at seven thousand years through wormhole W31.
 
-That reversal was the escape, if they could finish the unread part: move the last world before Phoenix swallowed it, and the same wound in spacetime might open toward a planet already waiting, fully habitable. Journey had shown the door. How to wake the mover, how to aim it, and who would pull were still unsolved.
+That was only the way in. They did not yet have a way to keep 67 alive. The same wound exhibited reversal characteristics matching that world. That reversal was the later escape, if they could finish the unread part: move the last world before Phoenix swallowed it, and the same scar might open toward a planet already waiting, fully habitable. Journey had shown the door. How to wake the mover, how to aim it, and who would pull were still unsolved.
 
 The gap stayed wide open: a billion years to raise a scientifically advanced species, fifty million years until Phoenix preyed on their world.
 
@@ -265,7 +265,7 @@ Lecturer: They have one last season of argument. After that, the lock.
 
 ### Chapter 2 — DNA carried across the stars
 
-*In the story:* "the transpermia way — DNA capsules carried across light-years to seed their world."
+*In the story:* "DNA capsules carried across light-years to seed their world, the transpermia way."
 
 Lecturer: No one has to arrive alive. Send DNA. Let the world grow the next people.
 
@@ -294,7 +294,7 @@ Lecturer: Daisy could not close the case either. She only held the code readable
 
 ### Chapter 3 — black holes, wormholes, and a friendly crossing
 
-*In the story:* "Black holes materialized at ripple collapse points."  
+*In the story:* "Black holes formed at ripple collapse points."  
 *In the story:* "Go find a friendly wormhole to send your Species Ship through."
 
 Lecturer: Ripple collapses: black hole. The scar through spacetime: wormhole W31. Seven thousand years to 67. The same scar, if they can wake it, might open toward a world already waiting.
