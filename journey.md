@@ -28,7 +28,7 @@ He gripped the lever one more time. It would not budge, as ever. He held on.
 
 Above the hills the sky kept tearing and the horizon disappearing fast.
 
-On Venus-2 though, a world that was far ahead in time, the people who were searching for a new home were still looking for answers.
+On Venus-2 though, a world that was far ahead in time, the people who were searching for a new home still had no answers.
 
 ## CHAPTER 1: THE COUNCIL OF VENUS-2
 ### *Era 4 — the previous era — Year 54,728: Day 105*
