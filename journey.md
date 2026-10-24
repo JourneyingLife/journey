@@ -28,7 +28,7 @@ He gripped the lever one more time. It would not budge, as ever. He held on.
 
 Above the hills the sky kept tearing and the horizon disappearing fast.
 
-On Venus-2 though, a world that was far ahead in time, the people who were searching for a new home still had no answers.
+On Venus-2 though, a world that was far earlier in time, the people who were searching for a new home still had no answers.
 
 ## CHAPTER 1: THE COUNCIL OF VENUS-2
 ### *Era 4 — the previous era — Year 803M 9K72: Day 105*
@@ -43,11 +43,13 @@ Lee did not wait for the briefing. "Then use what Earth left us. You hold the lo
 
 Earth scientists had enhanced their empathy pathways, bridging a gap that once kept marine minds from complex reasoning.
 
-Everyone in the hall knew what they meant. Krish went on. "The Gods seeded life here eight hundred million years ago, drawn by the mix of elements and motions around our sun. Now we are sliding into a tidal lock. One face of the world would bake while the other would freeze. Life will be impossible."
+Everyone in the hall knew what that meant. Krish went on. "The Gods seeded life here eight hundred million years ago, drawn by the mix of elements and motions around our sun. Now we are sliding into a tidal lock. One face of the world would bake while the other would freeze. Life will be impossible."
 
 Lee cut to the point. "So our time here is running out. Haven't we identified PL67 as our next home? Endgame is a supreme house's call. You can't veto."
 
-Endgame meant only a select few aboard the Species Ship would leave the dying planet. And they too would arrive as fossilized relics, their bodies a vessel for the seed, not a living colony.
+Endgame meant only a select few aboard the Species Ship would leave the dying planet. And they too would arrive as fossilized relics, their bodies a vessel for the seed, not a living colony. Mary, the lead anthropologist, watched from the side and said nothing yet.
+
+They could send a seed to 67. They could not send a billion years.
 
 Krish refused to adjourn and went on. "Unlike previous migrations, 67 sits perilously close to Phoenix. Even if we seed life there, evolution will not have matured to save it when the world braces the event horizon. Our archive has no answer beyond 67. We need to find if any of the Gods survived a similar ordeal. We must revisit..."
 
@@ -55,7 +57,7 @@ Lee cut in. "Not Journey. The vault is only partly read. We wouldn't send a crew
 
 "Journey," Krish stood his ground. The amber knoll kept ringing.
 
-Journey lay in the Atlantis depths, an archaeological vault of scripts from the dawn of time, found by octopuses long ago, but still only partly decrypted. The path was walled by a deadly maze that swallowed those who ventured with no trace. Researchers believed travelers across stars had bequeathed the archive so later civilizations would not have to reinvent.
+Journey lay in the Atlantis depths, an archaeological vault of scripts from the dawn of time, found by octopuses long ago, but still only partly decrypted. The path was walled by a deadly maze that swallowed those who ventured with no trace. Researchers believed travelers across stars had bequeathed the archive so later civilizations would not have to reinvent. The hall still had to argue the unread part.
 
 ---
 
@@ -68,23 +70,23 @@ As Krish wouldn't relent, a crew dived at dawn into black waters that had never 
 
 ![Linga rock - ancient generator](Pictures/The%20Dive%20-%20Linga%20and%20Species%20Ship.jpg)
 
-Beneath the fourth mile the gold halls opened, structures forged against the crush of the ocean, still luminous after millennia. Tory took Linga rock through binoculars: "Change of magnetic flux passing through closed circuits produces electricity." The central beam and orbiting disks formed an alternator. Current ran through it like a serpent.
+Beneath the fourth mile, the gold halls opened, structures forged against the crush of the ocean, still luminous after millennia. Tory took Linga rock through binoculars. "Change of magnetic flux passing through closed circuits produces electricity." The central beam and orbiting disks formed an alternator. Current ran through it like a serpent. Rafi whispered, "So this is how they woke a current."
 
 The Species Ship sculpture towered above them, depicting The Lord Shepherd among every form of life, DNA capsules carried across light-years to seed their world, the transpermia way.
 
 ![The Divine Prophet's Kaaba](Pictures/The%20Dive%20-%20Buddha%20and%20Kaaba.jpg)
 
-They came next to The Divine Prophet's Kaaba, inside the Masjid al-Haram where humans pledged coexistence to rein on their neurons. Lord Buddha followed, breathing sovereignty of the inner self from entangling life forces.
+They came next to The Divine Prophet's Kaaba, inside the Masjid al-Haram where humans pledged coexistence to rein in their neurons. Lord Buddha followed, breathing sovereignty of the inner self from entangling life forces. Tory said, "They swore to stop the war inside the mind first."
 
 ![Einstein with E=mc²](Pictures/Einstein%20and%20Shiv%20Thandev.jpg)
 
-Einstein bore the nuclear formula that elevated every civilization with abundant nuclear energy. Free-moving subatomic masses traveling at Light speed breached another mass's boundary, locked into an eternal dance, and treasured their combined kinetic energy for a shrewd engineer to harvest.
+Einstein bore the nuclear formula that elevated every civilization with abundant nuclear energy. Free-moving subatomic masses traveling at light speed breached another mass's boundary, locked into an eternal dance, and treasured their combined kinetic energy for a shrewd engineer to harvest. Rafi asked if that was a break. Tory did not look away. "Harvest the dance. Do not split the mass."
 
 Known answers, all already mapped. They needed the one they were not sure had ever existed.
 
 Amid the sculptures streaming past they nearly missed the ring-bound Dancing Lord. Young Rafi asked why He stood among the other academic settings.
 
-Tory was startled, would not guess an answer he did not have. He mumbled, "The mystic Lord who was comprehended as incomprehensible," and called Krish on teleview.
+Tory was startled and would not guess an answer he did not have. He mumbled, "The mystic Lord who was comprehended as incomprehensible," and called Krish on teleview.
 
 "This statue is not the missing answer we came for," Tory said. "If we leave the halls we already know, we can lose the crew in the dark."
 
@@ -107,9 +109,13 @@ The haunters came down from the ridge. Dirt shifted around the buried symmetry. 
 
 ![Abstract visualization of the universe showing planetary orbits mirroring subatomic particle orbits in a fractal pattern](Pictures/Blackholes%20and%20Wormholes.jpg)
 
-She held the code readable while she still could. Through Daisy they saw how earlier scholars had pursued a fundamental mystery of how larger celestial bodies attracted smaller orbs without visible tethers. Daisy drew a thin breath. While light traveled an astonishing three hundred million meters per second, cosmic bodies just stayed put, drifting around the same spot.
+She held the code readable while she still could. Through Daisy they saw how earlier scholars had pursued a fundamental mystery of how larger celestial bodies attracted smaller orbs without visible tethers.
 
-They watched solar orbits mirroring subatomic paths and concluded that shapes and motion were merely the harmonics at the perceived wavelength of organisms. The universe appeared to be an endlessly recurring microcosmic pattern, as the Dancing Deity depicted. Her next breath failed, then came back. Ripples propagated omnidirectionally and generated the illusion of forms at higher dimensions. This theory explained both black holes and wormholes. Black holes formed at ripple collapse points. Wormholes materialized along the pathways those distortions carved through spacetime, then reemerged in alternate dimensions and cosmic geographies.
+Daisy drew a thin breath. While light traveled an astonishing three hundred million meters per second, cosmic bodies just stayed put, drifting around the same spot.
+
+They watched solar orbits mirroring subatomic paths and concluded that shapes and motion were merely the harmonics at the wavelength organisms perceive. The universe appeared to be an endlessly recurring microcosmic pattern, as the Dancing Deity depicted.
+
+Her next breath failed, then came back. Ripples propagated omnidirectionally and generated the illusion of forms at higher dimensions. This theory explained both black holes and wormholes. Black holes formed at ripple collapse points. Wormholes materialized along the pathways those distortions carved through spacetime, then reemerged in alternate dimensions and cosmic geographies.
 
 The puzzle of how the universe originated seemed less perplexing than explaining why a quiet, static void didn't exist instead.
 
@@ -154,7 +160,7 @@ Krish went first. "Your proposal is the only one in the room. Infrastructure is 
 
 ![Visual representation of the six elements: Fire, Ground, Air, Water, Electricity/Sky, and Destiny - each with symbolic imagery connected to different organs](Pictures/The%20Elements.jpg)
 
-Lee named the six that formed life. "Fire, Earth, Air, Water, Electricity and the destiny carrier. The sixth holds the blueprint of life — the inherited code that re-builds organism."
+Lee named the six that formed life. "Fire, Earth, Air, Water, Electricity and the destiny carrier. The sixth holds the blueprint of life — the inherited code that rebuilds an organism."
 
 The carrier they needed was not a rack of sleeping machines. It was life itself.
 
@@ -162,7 +168,7 @@ Krish added, "Machines and organisms can shoulder each other and survive."
 
 Nova asked, "If we understand that foundation, why can't we construct living organisms directly instead of machines?"
 
-Krish did not pretend they could. "Creating life remains nature's exclusive mystery. Nothing beats the ATP implosion motors. We've never engineered anything half that efficient."
+Krish did not pretend they could. "Creating life remains nature's exclusive mystery. Nothing beats the ATP implosion motors — the cell's own motors. We've never engineered anything half that efficient."
 
 ![Microscopic view of bionic machines evolving alongside organic DNA structures](Pictures/Evolved%20machine%20with%20evolving%20species.jpg)
 
@@ -194,7 +200,7 @@ On the gallery model Nova watched the last tribe go for a weapon around her crea
 
 The small machine would evolve on 67 among radioactive minerals. Its bionic awakening would not trigger until organic species were advanced enough to gracefully maneuver it. They had to resort to a camouflaged kick-start that would go off at any survival action such as territorial defense.
 
-Mary, the lead anthropologist, would not let her pull the plan back. "You do not get to stop. Jupiter-2 hesitated and burned. We seed it. There is no alternative."
+Mary would not let her pull the plan back. "You do not get to stop. Jupiter-2 hesitated and burned. We seed it. There is no alternative."
 
 ![Asteroids floating in space representing the remains of Jupiter 2's desperate attempt to survive](Pictures/Astroids%20from%20Venus2.jpg)
 
