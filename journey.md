@@ -10,7 +10,7 @@ This is a work of fiction. Names, characters, places, events, and incidents are 
 
 
 ## PROLOGUE: THE LAST PLANET
-### *Era 5 — the last world — Year 5M253: Day 42*
+### *Era 5 — the last world — Year 50M 253: Day 42*
 
 ![The last planet approaching Phoenix Cluster](Pictures/PL67.jpg)
 
@@ -31,7 +31,7 @@ Above the hills the sky kept tearing and the horizon disappearing fast.
 On Venus-2 though, a world that was far ahead in time, the people who were searching for a new home still had no answers.
 
 ## CHAPTER 1: THE COUNCIL OF VENUS-2
-### *Era 4 — the previous era — Year 54,728: Day 105*
+### *Era 4 — the previous era — Year 803M 9K72: Day 105*
 
 ![The Council of Venus-2](Pictures/Gallery.jpg)
 
@@ -49,7 +49,7 @@ Lee cut to the point. "So our time here is running out. Haven't we identified PL
 
 Endgame meant only a select few aboard the Species Ship would leave the dying planet. And they too would arrive as fossilized relics, their bodies a vessel for the seed, not a living colony.
 
-Krish refused to adjourn and marched on. "Unlike previous migrations, 67 sits perilously close to Phoenix. Even if we seed life there, evolution will not have matured to save it when the world braces the event horizon. Our archive has no answer beyond 67. We need to find if any of the Gods survived a similar roadblock. We must revisit..."
+Krish refused to adjourn and went on. "Unlike previous migrations, 67 sits perilously close to Phoenix. Even if we seed life there, evolution will not have matured to save it when the world braces the event horizon. Our archive has no answer beyond 67. We need to find if any of the Gods survived a similar ordeal. We must revisit..."
 
 Lee cut in. "Not Journey. The vault is only partly read. We wouldn't send a crew into a code we cannot yet trust."
 
@@ -84,7 +84,7 @@ Known answers, all already mapped. They needed the one they were not sure had ev
 
 Amid the sculptures streaming past they nearly missed the ring-bound Dancing Lord. Young Rafi asked why He stood among the other academic settings.
 
-Tory was startled, would not guess an answer he did not have. He mumbled, "The mystic lord who was comprehended as incomprehensible," and called Krish on teleview.
+Tory was startled, would not guess an answer he did not have. He mumbled, "The mystic Lord who was comprehended as incomprehensible," and called Krish on teleview.
 
 "This statue is not the missing answer we came for," Tory said. "If we leave the halls we already know, we can lose the crew in the dark."
 
@@ -158,9 +158,11 @@ Lee named the six that formed life. "Fire, Earth, Air, Water, Electricity and th
 
 The carrier they needed was not a rack of sleeping machines. It was life itself.
 
+Krish added, "Machines and organisms can shoulder each other and survive."
+
 Nova asked, "If we understand that foundation, why can't we construct living organisms directly instead of machines?"
 
-Krish did not pretend they could. "Creating life remains nature's exclusive mystery. Living forms possess the most efficient motor system ever found. We've never engineered anything half that efficient."
+Krish did not pretend they could. "Creating life remains nature's exclusive mystery. Nothing beats the ATP implosion motors. We've never engineered anything half that efficient."
 
 ![Microscopic view of bionic machines evolving alongside organic DNA structures](Pictures/Evolved%20machine%20with%20evolving%20species.jpg)
 
@@ -181,7 +183,7 @@ Wee's hands were heavily bleeding on the handle. His tribe threw their weight on
 
 ![Wee and his tribe struggling to pull a massive lever from the ground, with the mysterious object beginning to glow](Pictures/The%20weapon.jpg)
 
-They strained together to wrench the lever from its holding ground. The haunters reached the hammock. The object warmed. A faint light rose from the seam, as if something long asleep had noticed the pull.
+They strained together to wrench the lever from its holding ground. The haunters reached the hammock. The object warmed. A faint light rose from the seam, as if something long asleep had acknowledged the pull.
 
 Finally something moved.
 
@@ -376,7 +378,7 @@ Lecturer: Krish needed a name the hall would accept. Lee named life itself. The 
 
 ### Chapter 4 — life as the motor no machine has matched
 
-*In the story:* "Creating life remains nature's exclusive mystery. Living forms possess the most efficient motor system ever found."
+*In the story:* "Creating life remains nature's exclusive mystery. Nothing beats the ATP implosion motors."
 
 Lecturer: ATP breaks to ADP. Muscle moves. Leftover heat feeds the cell. No machine they built is half as good.
 
