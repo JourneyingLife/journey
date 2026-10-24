@@ -168,7 +168,7 @@ Krish added, "Machines and organisms can shoulder each other and survive."
 
 Nova asked, "If we understand that foundation, why can't we construct living organisms directly instead of machines?"
 
-Krish did not pretend they could. "Creating life remains nature's exclusive mystery. Nothing beats the ATP implosion motors — the cell's own motors. We've never engineered anything half that efficient."
+Krish did not pretend they could. "Creating life remains nature's exclusive mystery. Nothing beats the ATP implosion cycle — the cell's own motors. We've never engineered anything half that efficient."
 
 ![Microscopic view of bionic machines evolving alongside organic DNA structures](Pictures/Evolved%20machine%20with%20evolving%20species.jpg)
 
@@ -384,7 +384,7 @@ Lecturer: Krish needed a name the hall would accept. Lee named life itself. The 
 
 ### Chapter 4 — life as the motor no machine has matched
 
-*In the story:* "Creating life remains nature's exclusive mystery. Nothing beats the ATP implosion motors."
+*In the story:* "Creating life remains nature's exclusive mystery. Nothing beats the ATP implosion cycle — the cell's own motors."
 
 Lecturer: ATP breaks to ADP. Muscle moves. Leftover heat feeds the cell. No machine they built is half as good.
 
