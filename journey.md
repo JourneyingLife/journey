@@ -72,7 +72,7 @@ As Krish wouldn't relent, a crew dived at dawn into black waters that had never 
 
 Beneath the fourth mile, the gold halls opened, structures forged against the crush of the ocean, still luminous after millennia. Tory took Linga rock through binoculars. "Change of magnetic flux passing through closed circuits produces electricity." The central beam and orbiting disks formed an alternator. Current ran through it like a serpent. Rafi whispered, "So this is how they woke a current."
 
-The Species Ship sculpture towered above them, depicting The Lord Shepherd among every form of life, DNA capsules carried across light-years to seed their world, the transpermia way.
+The Species Ship sculpture towered above them, depicting The Lord Shepherd among every form of life, DNA capsules carried across light-years to seed their world transpermially.
 
 ![The Divine Prophet's Kaaba](Pictures/The%20Dive%20-%20Buddha%20and%20Kaaba.jpg)
 
@@ -94,7 +94,7 @@ Krish pulled Lee into the line, adhering to protocol. "Go deeper. The old turtle
 
 They left the mapped halls. The maze closed behind a gold turn. Something in the dark took the last diver's light. Tory hauled the crew through.
 
-Sliding another gruesome mile in the dark abyss, they could sense they were being observed by still eyes seeking death.
+Sliding another gruesome mile in the inky abyss, they could sense they were being observed by still eyes seeking death.
 
 ![An ancient, wise turtle with glowing markings, resting peacefully while communicating through holographic displays](Pictures/Daisy%20sharing%20cosmic%20secret.jpg)
 
@@ -273,13 +273,17 @@ Lecturer: They have one last season of argument. After that, the lock.
 
 ### Chapter 2 — DNA carried across the stars
 
-*In the story:* "DNA capsules carried across light-years to seed their world, the transpermia way."
+*In the story:* "DNA capsules carried across light-years to seed their world transpermially."
 
 Lecturer: No one has to arrive alive. Send DNA. Let the world grow the next people.
 
 Student: That is a grave with a shipping label.
 
 Lecturer: Or a seed, if anyone is left to open it.
+
+Student: What does transpermially mean?
+
+Lecturer: The crossing is the seed. The living stay behind.
 
 1. https://en.wikipedia.org/wiki/Directed_panspermia
 
