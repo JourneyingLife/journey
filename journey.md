@@ -275,15 +275,15 @@ Lecturer: They have one last season of argument. After that, the lock.
 
 *In the story:* "DNA capsules carried across light-years to seed their world transpermially."
 
-Lecturer: No one has to arrive alive. Send DNA. Let the world grow the next people.
+Lecturer: Transpermia is a seed sent on purpose. DNA crosses the dark. The receiving world grows the next life.
 
-Student: That is a grave with a shipping label.
+Student: Can I volunteer for a window seat?
 
-Lecturer: Or a seed, if anyone is left to open it.
+Lecturer: The code does not need a window. You would arrive as dust. The seed would not mind.
 
-Student: What does transpermially mean?
+Student: Then it is only panspermia with a better throw.
 
-Lecturer: The crossing is the seed. The living stay behind.
+Lecturer: Panspermia is a sneeze. This capsule is aimed.
 
 1. https://en.wikipedia.org/wiki/Directed_panspermia
 
